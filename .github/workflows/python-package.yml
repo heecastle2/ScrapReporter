@@ -41,7 +41,7 @@ jobs:
           git add diff_changed/
           git commit -m "Auto - Update data with Github Action"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           branch: "main"
           github_token: $
@@ -77,7 +77,7 @@ jobs:
           git add diff_keyword/
           git commit -m "Auto - Update data with Github Action"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           branch: "main"
           github_token: $
@@ -116,7 +116,7 @@ jobs:
           git add secunews_crawl_${{ env.DATE }}.html
           git commit -m "Auto - Update data with Github Action"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           branch: "main"
           github_token: $
@@ -160,7 +160,7 @@ jobs:
           git add .
           git commit -m "Auto - Finally overwrite txt files"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           branch: "main"
           github_token: $
