@@ -97,17 +97,17 @@ function hasScrolled() {
 </div>
 <div id="scroll_up">
 <ul>
+<li><a href="view.asp?idx=132109&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/20240819kwakigasagbub6sum.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=132109&amp;kind=2"><font color="#091545">과기정통부, ‘가상융합산업 진흥’ 위...</font></a></p></li>
+</ul>
+<li><a href="view.asp?idx=132101&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/20240819munpoinbulsi1sum.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=132101&amp;kind=2"><font color="#091545">경찰청, 문체부 및 인터폴과 저작권 ...</font></a></p></li>
+
 <li><a href="view.asp?idx=132097&amp;kind=26"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/mi-c.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
 <p><a href="view.asp?idx=132097&amp;kind=26"><font color="#091545">[이슈칼럼] ‘캠프 데이비드 1년’과...</font></a></p></li>
-</ul>
+
 <li><a href="view.asp?idx=132099&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/IRAN-C.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
 <p><a href="view.asp?idx=132099&amp;kind=1"><font color="#091545">이란 해커조직 APT42, 미국 대선...</font></a></p></li>
-
-<li><a href="view.asp?idx=131943&amp;kind=3"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/20240809etygs99536mulcl1sum.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=131943&amp;kind=3"><font color="#091545">최근 부각되고 있는 ‘멀티 클라우드’...</font></a></p></li>
-
-<li><a href="view.asp?idx=132094&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2024/08/t_news.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=132094&amp;kind=1"><font color="#091545">133만 구독자 보유한 ‘뉴스타파’ ...</font></a></p></li>
 
 </div>
 <!--Include virtual="/secu_admin/ad_log/log.asp"-->
@@ -594,9 +594,9 @@ function top_banner_close() {
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/2.gif" width="13"> <a href="/media/view.asp?idx=132061">한국교육학술정보원 지식샘터 홈페이지, 교원 353명...</a></img></li>
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/3.gif" width="13"> <a href="/media/view.asp?idx=132018">라온시큐어 키보드 보안 솔루션에서 취약점 발견......</a></img></li>
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/4.gif" width="13"> <a href="/media/view.asp?idx=132073" style="color:#999999;">한온시스템, 헌터스 인터내셔널 랜섬웨어에 해킹 피해...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=132016" style="color:#999999;">해킹으로 인한 가상화폐 피해 금액 50%, 북한 소...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=131979" style="color:#999999;">최근 사이버 공격자들 사이에서 유행하고 있는 데이터...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=132094" style="color:#999999;">133만 구독자 보유한 ‘뉴스타파’ 유튜브 채널, ...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=132094" style="color:#999999;">133만 구독자 보유한 ‘뉴스타파’ 유튜브 채널, ...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=132016" style="color:#999999;">해킹으로 인한 가상화폐 피해 금액 50%, 북한 소...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=131979" style="color:#999999;">최근 사이버 공격자들 사이에서 유행하고 있는 데이터...</a></img></li>
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/8.gif" width="13"> <a href="/media/view.asp?idx=132055" style="color:#999999;">[bnTV] 개인정보 보호법 개정 그 이후, D사와...</a></img></li>
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/9.gif" width="13"> <a href="/media/view.asp?idx=132043" style="color:#999999;">2024년 2분기 피싱 메일 현황... 결제·구매로...</a></img></li>
 <li><img alt="" class="HitNews_img" height="13" src="/images/new/10.gif" width="13"> <a href="/media/view.asp?idx=131988" style="color:#999999;">최근 공격자들이 가장 좋아하는 파일 유출 도구 세 ...</a></img></li>
@@ -726,7 +726,7 @@ function top_banner_close() {
 <a href="https://www.instagram.com/boannews" target="_blank"><img src="/images/new/instagram.png" width="40"/></a>
 </div>
 <!--[if gte IE 10]><!--
-    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=173144717" charset="utf-8"></script>
+    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=173261872" charset="utf-8"></script>
     <script type="text/javascript">
       /************************************************
                     Prism 광고
@@ -919,22 +919,22 @@ function top_banner_close() {
 <div id="main_clipping_title" onclick="location.href='/media/s_list.asp?skind=5';"><span>취약점 경고 및 보안 업데이트</span></div>
 <div id="main_clipping">
 <ul>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-14]</b> <a href="/media/view.asp?idx=132043">2024년 2분기 피싱 메일 ...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-13]</b> <a href="/media/view.asp?idx=132021">카카오페이, 中 알리페이에 4...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-13]</b> <a href="/media/view.asp?idx=132018">라온시큐어 키보드 보안 솔루션...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-13]</b> <a href="/media/view.asp?idx=132016">해킹으로 인한 가상화폐 피해 ...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-12]</b> <a href="/media/view.asp?idx=131984">숙박결제 인증샷 주의... ‘...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-19]</b> <a href="/media/view.asp?idx=132112">구글 픽셀폰에 선탑재 된 앱,...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-18]</b> <a href="/media/view.asp?idx=132099">이란 해커조직 APT42, 미...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-17]</b> <a href="/media/view.asp?idx=132095">명령 스크립트 파일로 압축해 ...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-17]</b> <a href="/media/view.asp?idx=132094">133만 구독자 보유한 ‘뉴스...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <b>[2024-08-16]</b> <a href="/media/view.asp?idx=132078">랜섬웨어 감염으로 출판 주문·...</a></li>
 </ul>
 </div></div>
 <div id="main_clipping_area">
 <div id="main_clipping_title" onclick="location.href='/media/s_list.asp?skind=i';"><span>보안ㆍIT산업 동향</span></div>
 <div id="main_clipping">
 <ul>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132092">전주시 방범용 CCTV, 범죄 예방 ‘일등공...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132091">하남시, ‘미사 한강 모랫길’에 재난용 CC...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132090">부산진해경제자유구역청, 생성형 AI로 업무 ...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132089">한동대-지엠디소프트, AI 영상처리 기술로 ...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132088">경기도, 14개 지방정부 협의체 DETA와 ...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132115">다후아, NVR로 가능한 선별관제 고속검색 ...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132109">과기정통부, ‘가상융합산업 진흥’ 위한 법률...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132108">KISA, ‘2024년 제3회 랜섬웨어 레질...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132107">지니언스, 아프리카 시장에서 ‘NAC 솔루션...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=132106">사이버아크, SAP ECS에 사이버아크 플랫...</a></li>
 </ul>
 </div></div>
 <script type="text/javascript">
@@ -982,20 +982,20 @@ jQuery(function(jQuery){
 <span style="font-weight:400;">133만 구독자 보유한 ‘뉴스타파’ 유튜브 ...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
-<a href="/media/view.asp?idx=132078"><span><img alt="" src="/media/upFiles2/2024/08/20240816moasisransum2sum.jpg"/></span>
-<span style="font-weight:400;">랜섬웨어 감염으로 출판 주문·배송 마비시킨 ...</span></a>
-</li>
-<li><p class="news_count" style="color:#B71E1E;">3</p>
 <a href="/media/view.asp?idx=132095"><span><img alt="" src="/media/upFiles2/2024/08/t_asec.jpg"/></span>
 <span style="font-weight:400;">명령 스크립트 파일로 압축해 유포되는 다운로...</span></a>
+</li>
+<li><p class="news_count" style="color:#B71E1E;">3</p>
+<a href="/media/view.asp?idx=132078"><span><img alt="" src="/media/upFiles2/2024/08/20240816moasisransum2sum.jpg"/></span>
+<span style="font-weight:400;">랜섬웨어 감염으로 출판 주문·배송 마비시킨 ...</span></a>
 </li>
 <li><p class="news_count">4</p>
 <a href="/media/view.asp?idx=132052"><span><img alt="" src="/media/upFiles2/2024/08/GettyImages-1445013735_copy_295x190.jpg"/></span>
 <span style="font-weight:400;">[한 주를 관통하는 보안 소식] 2024년 ...</span></a>
 </li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=132054"><span><img alt="" src="/media/upFiles2/2024/08/20240814etmgs3090ipsite1sum.jpg"/></span>
-<span style="font-weight:400;">[유경동의 IP 인사이트] 검은 혁신, 아람...</span></a>
+<a href="/media/view.asp?idx=132093"><span><img alt="" src="/media/upFiles2/2024/08/8-111(295)(0).jpg"/></span>
+<span style="font-weight:400;">폭염에 쓰러진 어르신, CCTV가 구했다</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 추천순 -->
@@ -1008,16 +1008,16 @@ jQuery(function(jQuery){
 <span style="font-weight:400;">최근 공격자들이 가장 좋아하는 파일 유출 도...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">3</p>
+<a href="/media/view.asp?idx=132099"><span><img alt="" src="/media/upFiles2/2024/08/IRAN-C.jpg"/></span>
+<span style="font-weight:400;">이란 해커조직 APT42, 미국 대선 관계자...</span></a>
+</li>
+<li><p class="news_count">4</p>
 <a href="/media/view.asp?idx=132021"><span><img alt="" src="/media/upFiles2/2024/08/t_pay.jpg"/></span>
 <span style="font-weight:400;">카카오페이, 中 알리페이에 4,045만명 신...</span></a>
 </li>
-<li><p class="news_count">4</p>
-<a href="/media/view.asp?idx=132061"><span><img alt="" src="/media/upFiles2/2024/08/20240815educatoryuchul1sum.jpg"/></span>
-<span style="font-weight:400;">한국교육학술정보원 지식샘터 홈페이지, 교원 ...</span></a>
-</li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=132073"><span><img alt="" src="/media/upFiles2/2024/08/20240815hanonsistemhack1sum.jpg"/></span>
-<span style="font-weight:400;">한온시스템, 헌터스 인터내셔널 랜섬웨어에 해...</span></a>
+<a href="/media/view.asp?idx=132097"><span><img alt="" src="/media/upFiles2/2024/08/mi-c.jpg"/></span>
+<span style="font-weight:400;">[이슈칼럼] ‘캠프 데이비드 1년’과 한미일...</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 스크랩순 -->
@@ -1071,26 +1071,26 @@ return true;
 <div id="bottom">
 <div id="main_news">
 <ul>
+<li><a href="/media/view.asp?idx=132109&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2024/08/20240819kwakigasagbub6sum.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=132109&amp;kind=2"><font color="#282828">과기정통부, ‘가상융합산업 진흥’ 위한 법률 8월 28...</font></a></p></li>
+<li><a href="/media/view.asp?idx=132101&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2024/08/20240819munpoinbulsi1sum.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=132101&amp;kind=2"><font color="#282828">경찰청, 문체부 및 인터폴과 저작권 침해 불법사이트 합...</font></a></p></li>
 <li><a href="/media/view.asp?idx=132097&amp;kind=26"><img alt="" height="160" src="/media/upFiles2/2024/08/mi-c.jpg" width="250"/></a>
 <p><a href="/media/view.asp?idx=132097&amp;kind=26"><font color="#282828">[이슈칼럼] ‘캠프 데이비드 1년’과 한미일 사이버 안...</font></a></p></li>
 <li><a href="/media/view.asp?idx=132099&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2024/08/IRAN-C.jpg" width="250"/></a>
 <p><a href="/media/view.asp?idx=132099&amp;kind=1"><font color="#282828">이란 해커조직 APT42, 미국 대선 관계자들 겨냥해 ...</font></a></p></li>
-<li><a href="/media/view.asp?idx=131943&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2024/08/20240809etygs99536mulcl1sum.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=131943&amp;kind=3"><font color="#282828">최근 부각되고 있는 ‘멀티 클라우드’의 장단점 비교해보...</font></a></p></li>
-<li><a href="/media/view.asp?idx=132095&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2024/08/t_asec.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=132095&amp;kind=1"><font color="#282828">명령 스크립트 파일로 압축해 유포되는 다운로더 악성코드...</font></a></p></li>
 </ul>
 </div>
 <div id="main_news">
 <ul>
+<li><a href="/media/view.asp?idx=131943&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2024/08/20240809etygs99536mulcl1sum.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=131943&amp;kind=3"><font color="#282828">최근 부각되고 있는 ‘멀티 클라우드’의 장단점 비교해보...</font></a></p></li>
+<li><a href="/media/view.asp?idx=132095&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2024/08/t_asec.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=132095&amp;kind=1"><font color="#282828">명령 스크립트 파일로 압축해 유포되는 다운로더 악성코드...</font></a></p></li>
 <li><a href="/media/view.asp?idx=132094&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2024/08/t_news.jpg" width="250"/></a>
 <p><a href="/media/view.asp?idx=132094&amp;kind=1"><font color="#282828">133만 구독자 보유한 ‘뉴스타파’ 유튜브 채널, 해킹...</font></a></p></li>
 <li><a href="/media/view.asp?idx=132052&amp;kind=14"><img alt="" height="160" src="/media/upFiles2/2024/08/GettyImages-1445013735_copy_295x190.jpg" width="250"/></a>
 <p><a href="/media/view.asp?idx=132052&amp;kind=14"><font color="#282828">[한 주를 관통하는 보안 소식] 2024년 8월 3주차...</font></a></p></li>
-<li><a href="/media/view.asp?idx=132054&amp;kind=36"><img alt="" height="160" src="/media/upFiles2/2024/08/20240814etmgs3090ipsite1sum.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=132054&amp;kind=36"><font color="#282828">[유경동의 IP 인사이트] 검은 혁신, 아람코</font></a></p></li>
-<li><a href="/media/view.asp?idx=132080&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2024/08/20240816daetonryungsil6sum.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=132080&amp;kind=2"><font color="#282828">국가안보실, 중소 방산협력업체 사이버 보안 실태 긴급 ...</font></a></p></li>
 </ul>
 </div>
 </div>

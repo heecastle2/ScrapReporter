@@ -1331,7 +1331,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2023.12.29</em>
-<em>조회수 2263</em>
+<em>조회수 2264</em>
 </span>
 <span class="writer">
 <em>장호영</em>
@@ -1409,7 +1409,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.08.16</em>
-<em>조회수 27</em>
+<em>조회수 52</em>
 </span>
 <span class="writer">
 <em>김규리</em>
@@ -1487,7 +1487,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.08.14</em>
-<em>조회수 67</em>
+<em>조회수 80</em>
 </span>
 <span class="writer">
 <em>이용건</em>
@@ -1563,7 +1563,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.08.14</em>
-<em>조회수 105</em>
+<em>조회수 115</em>
 </span>
 <span class="writer">
 <em>김주현</em>
@@ -1638,7 +1638,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.08.01</em>
-<em>조회수 763</em>
+<em>조회수 771</em>
 </span>
 <span class="writer">
 <em>정성우</em>
@@ -1713,7 +1713,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.07.31</em>
-<em>조회수 232</em>
+<em>조회수 233</em>
 </span>
 <span class="writer">
 <em>이가영</em>
@@ -1790,7 +1790,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.07.30</em>
-<em>조회수 688</em>
+<em>조회수 691</em>
 </span>
 <span class="writer">
 <em>유지혜</em>
@@ -1865,7 +1865,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.07.26</em>
-<em>조회수 1156</em>
+<em>조회수 1162</em>
 </span>
 <span class="writer">
 <em>김진일</em>
@@ -1940,7 +1940,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2024.07.24</em>
-<em>조회수 1637</em>
+<em>조회수 1639</em>
 </span>
 <span class="writer">
 <em>정성우</em>
@@ -2017,7 +2017,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.07.23</em>
-<em>조회수 273</em>
+<em>조회수 274</em>
 </span>
 <span class="writer">
 <em>이정민</em>

@@ -79,7 +79,7 @@
 
 	// 도메인
 	var SITE_DOMAIN = 'https://www.aitimes.com'
-	,CDN_DOMAIN = "https://cdn.aitimes.com",___currentTime	= 1724023355;
+	,CDN_DOMAIN = "https://cdn.aitimes.com",___currentTime	= 1724044286;
 
 	// 즐겨찾기 스크립트
 	function bookmark() {
@@ -922,27 +922,27 @@ $(document).ready(function(){
 </a>
 </div>
 <div class="item">
-<a class="auto-valign" href="/news/articleView.html?idxno=162561" target="_top">
+<a class="auto-valign" href="/news/articleView.html?idxno=162558" target="_top">
 <em class="number for-middle size-12 auto-fontB">7</em>
+<span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">텍스트-음성 두뇌 칩으로 루게릭 환자 목소리 회복</span>
+</a>
+</div>
+<div class="item">
+<a class="auto-valign" href="/news/articleView.html?idxno=162561" target="_top">
+<em class="number for-middle size-12 auto-fontB">8</em>
 <span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">슈미트 "구글의 느슨한 근무 분위기가 스타트업에 뒤처진 이유"</span>
 </a>
 </div>
 <div class="item">
 <a class="auto-valign" href="/news/articleView.html?idxno=162518" target="_top">
-<em class="number for-middle size-12 auto-fontB">8</em>
+<em class="number for-middle size-12 auto-fontB">9</em>
 <span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">이미지 생성 AI 소송에서 '저작권 침해 혐의' 최초 인정...본격 조사 돌입</span>
 </a>
 </div>
 <div class="item">
-<a class="auto-valign" href="/news/articleView.html?idxno=162558" target="_top">
-<em class="number for-middle size-12 auto-fontB">9</em>
-<span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">텍스트-음성 두뇌 칩으로 루게릭 환자 목소리 회복</span>
-</a>
-</div>
-<div class="item">
-<a class="auto-valign" href="/news/articleView.html?idxno=162533" target="_top">
+<a class="auto-valign" href="/news/articleView.html?idxno=162557" target="_top">
 <em class="number for-middle size-12 auto-fontB">10</em>
-<span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">xAI, 이미지 생성 통합한 '그록-2' 출시..."세계 최고 성능 입증"</span>
+<span class="auto-titles for-middle size-14 line-4x2 auto-fontA onload">"구글을 거부하면 바로 죽고, 협력하면 천천히 죽고"</span>
 </a>
 </div>
 </div></section>

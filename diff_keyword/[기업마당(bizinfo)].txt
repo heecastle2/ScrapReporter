@@ -3,7 +3,7 @@
 
 <html lang="ko">
 <head>
-<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="b648d504-6857-414b-ab27-06a95a6d2d67" name="_csrf"/>
+<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="e40f36fb-11be-4a85-9be5-b22899752993" name="_csrf"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, user-scalable=0, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
@@ -1025,7 +1025,7 @@
 <td>문화체육관광부</td>
 <td>한국콘텐츠진흥원</td>
 <td>2024-08-16</td>
-<td>708</td>
+<td>1191</td>
 </tr>
 <tr>
 <td>1401</td>
@@ -1051,7 +1051,7 @@
 <td>전북특별자치도</td>
 <td>전북특별자치도경제통상진흥원</td>
 <td>2024-08-16</td>
-<td>349</td>
+<td>576</td>
 </tr>
 <tr>
 <td>1400</td>
@@ -1077,7 +1077,7 @@
 <td>해양수산부</td>
 <td>수협중앙회</td>
 <td>2024-08-16</td>
-<td>372</td>
+<td>495</td>
 </tr>
 <tr>
 <td>1399</td>
@@ -1103,7 +1103,7 @@
 <td>제주특별자치도</td>
 <td>기초자치단체</td>
 <td>2024-08-16</td>
-<td>308</td>
+<td>414</td>
 </tr>
 <tr>
 <td>1398</td>
@@ -1129,7 +1129,7 @@
 <td>산업통상자원부</td>
 <td>한국산업기술기획평가원</td>
 <td>2024-08-16</td>
-<td>430</td>
+<td>707</td>
 </tr>
 <tr>
 <td>1397</td>
@@ -1155,7 +1155,7 @@
 <td>과학기술정보통신부</td>
 <td>정보통신산업진흥원</td>
 <td>2024-08-16</td>
-<td>384</td>
+<td>525</td>
 </tr>
 <tr>
 <td>1396</td>
@@ -1181,7 +1181,7 @@
 <td>경상북도</td>
 <td>기초자치단체</td>
 <td>2024-08-16</td>
-<td>357</td>
+<td>592</td>
 </tr>
 <tr>
 <td>1395</td>
@@ -1207,7 +1207,7 @@
 <td>인천광역시</td>
 <td>인천테크노파크</td>
 <td>2024-08-16</td>
-<td>362</td>
+<td>521</td>
 </tr>
 <tr>
 <td>1394</td>
@@ -1233,7 +1233,7 @@
 <td>경상북도</td>
 <td>경북테크노파크</td>
 <td>2024-08-16</td>
-<td>326</td>
+<td>473</td>
 </tr>
 <tr>
 <td>1393</td>
@@ -1259,7 +1259,7 @@
 <td>서울특별시</td>
 <td>서울소셜벤처허브</td>
 <td>2024-08-16</td>
-<td>361</td>
+<td>485</td>
 </tr>
 <tr>
 <td>1392</td>
@@ -1285,7 +1285,7 @@
 <td>중소벤처기업부</td>
 <td>대중소기업농어업협력재단</td>
 <td>2024-08-16</td>
-<td>470</td>
+<td>739</td>
 </tr>
 <tr>
 <td>1391</td>
@@ -1311,7 +1311,7 @@
 <td>충청북도</td>
 <td>충청북도기업진흥원</td>
 <td>2024-08-16</td>
-<td>326</td>
+<td>497</td>
 </tr>
 <tr>
 <td>1390</td>
@@ -1337,7 +1337,7 @@
 <td>부산광역시</td>
 <td>부산테크노파크</td>
 <td>2024-08-16</td>
-<td>315</td>
+<td>462</td>
 </tr>
 <tr>
 <td>1389</td>
@@ -1363,7 +1363,7 @@
 <td>부산광역시</td>
 <td>부산테크노파크</td>
 <td>2024-08-16</td>
-<td>339</td>
+<td>554</td>
 </tr>
 <tr>
 <td>1388</td>
@@ -1389,7 +1389,7 @@
 <td>산업통상자원부</td>
 <td>한국무역협회</td>
 <td>2024-08-16</td>
-<td>540</td>
+<td>809</td>
 </tr>
 </tbody>
 </table>

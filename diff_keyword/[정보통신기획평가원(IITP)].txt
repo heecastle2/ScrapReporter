@@ -1053,120 +1053,42 @@
 </br></h2>
 <ul class="nav bs-sidenav">
 <li class="li1">
-<a href="/kr/1/business/businessMap.it"> 
+<a href="/kr/1/notice/notify.it"> 
 			
 			
-				사업분류 
-				
-			</a>
-<ul class="" style="">
-<li class="li1">
-<a href="/kr/1/business/businessMap.it"> 
-			
-			
-				전체사업 구조도 
+				공지사항 
 				
 			</a>
 </li>
 <li class="li2">
-<a href="/kr/1/business/ctgrI.it"> 
+<a href="/kr/1/notice/reportAndClarify.it"> 
 			
 			
-				기술개발 
+				보도자료 
 				
 			</a>
-<ul class="" style="">
-</ul>
 </li>
 <li class="li3">
-<a href="/kr/1/business/ctgrH.it"> 
+<a href="/kr/1/notice/bid.it"> 
 			
 			
-				국제공동연구 및 표준화 
-				
-			</a>
-<ul class="" style="">
-</ul>
-</li>
-<li class="li4">
-<a href="/kr/1/business/ctgrJ.it"> 
-			
-			
-				기술사업화 
-				
-			</a>
-<ul class="" style="">
-</ul>
-</li>
-<li class="li5">
-<a href="/kr/1/business/ctgrK.it"> 
-			
-			
-				인재양성 
-				
-			</a>
-<ul class="" style="">
-</ul>
-</li>
-<li class="li6">
-<a href="/kr/1/business/ctgrL.it"> 
-			
-			
-				기반조성 
-				
-			</a>
-<ul class="" style="">
-</ul>
-</li>
-</ul>
-</li>
-<li class="li2 active">
-<a href="/kr/1/business/businessApiList.it"> 
-			
-			
-				사업공고 
-				
-			</a>
-<ul class="" style="">
-<li class="li1 active">
-<a href="/kr/1/business/businessApiView.it"> 
-			
-			
-				(현)사업공고 
-				
-			</a>
-</li>
-<li class="li2">
-<a href="/kr/1/business/businessNotify.it"> 
-			
-			
-				(구)사업공고 
-				
-			</a>
-</li>
-</ul>
-</li>
-<li class="li3">
-<a href="/kr/1/business/bizfind.it"> 
-			
-			
-				사업담당자찾기 
+				입찰공고 
 				
 			</a>
 </li>
 <li class="li4">
-<a href="/kr/1/business/rules.it"> 
+<a href="/kr/1/notice/hire.it"> 
 			
 			
-				법령 및 규정 
+				채용공고 
 				
 			</a>
 </li>
 <li class="li5">
-<a href="/kr/1/business/FAQ.it"> 
+<a href="/kr/1/notice/cbpa.it"> 
 			
 			
-				FAQ 
+				공시송달 
 				
 			</a>
 </li>

@@ -1076,7 +1076,7 @@
 <a href="644">644</a>
 </th>
 <td class="col-xs-5">
-<a href="644">[모집중] 2024년 정보보호 스타트업 CROSS IR 개최 안내 및 참여기업 모집(~8/7)</a>
+<a href="644">[모집마감] 2024년 정보보호 스타트업 CROSS IR 개최 안내 및 참여기업 모집(~8/7)</a>
 </td>
 <td class="col-xs-3 text-center">
 <a href="644">관리자</a>
