@@ -1335,7 +1335,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 10 9 16-->
+<!--9 10 9 23-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1352,7 +1352,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 10 9 16-->
+<!--9 10 9 23-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1369,7 +1369,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 9 9 16-->
+<!--9 9 9 23-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1386,7 +1386,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 9 9 16-->
+<!--9 9 9 23-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1403,7 +1403,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 9 9 16-->
+<!--8 9 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1420,7 +1420,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 9 9 16-->
+<!--8 9 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1437,7 +1437,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 9 9 16-->
+<!--8 9 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1454,7 +1454,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1471,14 +1471,14 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
 <tr>
 <td class="ac">10</td>
 <td class="ac">창업성장기술개발사업(디딤돌)</td>
-<td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02749&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(광주창경) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 창업전문기관 R&amp;D 과제 시행계획 공고</a></td>
+<td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02743&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(KTR) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 도약_글로벌R&amp;D 과제 시행계획 공고</a></td>
 <td class="ac">
 
 	                       	2024. 08. 16 ~ 2024. 08. 30
@@ -1488,12 +1488,29 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
 <tr>
 <td class="ac">11</td>
+<td class="ac">창업성장기술개발사업(디딤돌)</td>
+<td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02746&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(경북TP) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 창업전문기관 R&amp;D 과제 시행계획 공고</a></td>
+<td class="ac">
+
+	                       	2024. 08. 16 ~ 2024. 08. 30
+	                  	</td>
+<td class="ac">
+	                    	2024-07-30
+
+	                    </td>
+<td class="ac ll">
+<!--8 8 9 23-->
+<img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
+</td>
+</tr>
+<tr>
+<td class="ac">12</td>
 <td class="ac">창업성장기술개발사업(디딤돌)</td>
 <td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02741&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(경기창경센터) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 도약_글로벌R&amp;D 과제 시행계획 공고</a></td>
 <td class="ac">
@@ -1505,12 +1522,12 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
 <tr>
-<td class="ac">12</td>
+<td class="ac">13</td>
 <td class="ac">창업성장기술개발사업(디딤돌)</td>
 <td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02742&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(충남창경센터) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 도약_글로벌R&amp;D 과제 시행계획 공고</a></td>
 <td class="ac">
@@ -1522,12 +1539,12 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
 <tr>
-<td class="ac">13</td>
+<td class="ac">14</td>
 <td class="ac">창업성장기술개발사업(디딤돌)</td>
 <td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02748&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(경기창경) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 창업전문기관 R&amp;D 과제 시행계획 공고</a></td>
 <td class="ac">
@@ -1539,12 +1556,12 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
 <tr>
-<td class="ac">14</td>
+<td class="ac">15</td>
 <td class="ac">창업성장기술개발사업(디딤돌)</td>
 <td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02745&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(서울TP) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 창업전문기관 R&amp;D 과제 시행계획 공고</a></td>
 <td class="ac">
@@ -1556,24 +1573,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 9 16-->
-<img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
-</td>
-</tr>
-<tr>
-<td class="ac">15</td>
-<td class="ac">창업성장기술개발사업(디딤돌)</td>
-<td><a class="board" href="/front/ifg/no/notice02_detail.do?buclYy=&amp;ancmId=S02744&amp;buclCd=S205D&amp;dtlAncmSn=1&amp;schdSe=MO5005&amp;aplySn=2&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=1">(인덕대) 2024년도 창업성장기술개발사업 디딤돌 제3차(하반기) 창업전문기관 R&amp;D 과제 시행계획 공고</a></td>
-<td class="ac">
-
-	                       	2024. 08. 16 ~ 2024. 08. 30
-	                  	</td>
-<td class="ac">
-	                    	2024-07-30
-
-	                    </td>
-<td class="ac ll">
-<!--8 8 9 16-->
+<!--8 8 9 23-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>

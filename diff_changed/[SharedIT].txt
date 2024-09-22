@@ -46,7 +46,7 @@
 <script async="async" data-turbolinks-track="false" defer="defer" src="//shareditassets.s3.ap-northeast-2.amazonaws.com/assets/production/application-d696e851b7ccf914b3752f2927f5d87d474b4c6376443f4af2fa3df6ed401325.js"></script>
 <script data-turbolinks-track="false" src="//shareditassets.s3.ap-northeast-2.amazonaws.com/assets/production/controllers/seminars-07263be6dab85106e76160b1fe1cd524c0164649ba40806c403a1f82c0c57061.js"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="NHm5h1LZ2KelgbY24spAaMnjWTpdiBtxKq2fQqPb8cuGiDsV5ToJPJvYFQGvtDuKtsdotVhzy07BEDauL0JAxw==" name="csrf-token">
+<meta content="HQwDbRZmPUsKQ8Crc4IUwxp4wTS9aSfE5uVR/zvvfdLNaG9b3AZpwNetbNg3fwoSxn+zkrkXxYPheZ3bwrtdBQ==" name="csrf-token">
 <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
   var googletag = googletag || {};
@@ -132,7 +132,7 @@ ga("send","pageview");
 <li class="linkedin"><a href="https://www.linkedin.com/in/sharedit2014/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
 </ul>
 <ul class="list-inline hidden-xs">
-<li><a href="/cdn-cgi/l/email-protection#d5b8b4a6a1b0a795a6bdb4a7b0b1bca1fbb6bafbbea7"><i class="fa fa-envelope-o pr-5 pl-10"></i> <span class="__cf_email__" data-cfemail="4f222e3c3b2a3d0f3c272e3d2a2b263b612c2061243d">[email protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#6409051710011624170c051601000d104a070b4a0f16"><i class="fa fa-envelope-o pr-5 pl-10"></i> <span class="__cf_email__" data-cfemail="dbb6baa8afbea99ba8b3baa9bebfb2aff5b8b4f5b0a9">[email protected]</span></a></li>
 <li><a href="https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ" target="_blank"><i class="fa fa-youtube-play pr-5 pl-10" title="SHAREDIT CLASS / SHAREDIT LIVE"></i></a><a href="https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ" target="_blank"> YouTube</a></li>
 <li><a href="http://www.podbbang.com/ch/15150" target="_blank"><i class="fa fa-podcast pr-5 pl-10" title="팟빵 - 쌤팍의 전산쟁이 이야기"></i></a><a href="https://www.sharedit.co.kr/posts/1236" target="_blank"> 팟캐스트</a></li>
 </ul>
@@ -148,7 +148,7 @@ ga("send","pageview");
 <button class="btn dropdown-toggle btn-default btn-sm" data-toggle="dropdown" type="button"><i class="fa fa-lock pr-5"></i> 로그인</button>
 <ul class="dropdown-menu dropdown-menu-right dropdown-animation">
 <li>
-<form accept-charset="UTF-8" action="/users/sign_in" class="login-form margin-clear" id="new_user" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="LmCkCgU/DjERMyP5gRh3l9EXL2GbRDXrUtIzOWcDNiCckSaYstzfqi9qgM7MZgx1rjMe7p6/5dS5b5rV65qHLA=="/>
+<form accept-charset="UTF-8" action="/users/sign_in" class="login-form margin-clear" id="new_user" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="ue/aqLMu08qNdddwCfFg2pO/2RZAhVe0t9+9AzyHnZ5pi7aeeU6HQVCbewNNDH4LT7irsET7tfOwQ3EnxdO9SQ=="/>
 <div class="form-group has-feedback">
 <label class="control-label">이메일 주소</label>
 <input autofocus="autofocus" class="form-control" id="user_email" name="user[email]" placeholder="" type="email" value=""/>
@@ -379,8 +379,8 @@ ga("send","pageview");
 <i class="menus bellins" style="margin-left:-15px;"></i> 벨아이앤에스
 </a> </li>
 <li class="col-lg-6">
-<a href="/companies/synapsoft/products">
-<i class="menus synapsoft" style="margin-left:-15px;"></i> 사이냅소프트
+<a href="/companies/jirandata/products">
+<i class="menus jirandata" style="margin-left:-15px;"></i> 지란지교데이터
 </a> </li>
 </ul>
 </div>
@@ -392,8 +392,8 @@ ga("send","pageview");
 <i class="menus jiransoft" style="margin-left:-15px;"></i> 지란지교소프트
 </a> </li>
 <li class="col-lg-6">
-<a href="/companies/jirandata/products">
-<i class="menus jirandata" style="margin-left:-15px;"></i> 지란지교데이터
+<a href="/companies/synapsoft/products">
+<i class="menus synapsoft" style="margin-left:-15px;"></i> 사이냅소프트
 </a> </li>
 </ul>
 </div>
@@ -614,6 +614,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="/seminars/2054" title="AWS - 곧 등록 마감되니 서두르세요! AWS Innovate - 클라우드 현대화 &amp; 생성형 AI를 통한 디지털 전환 전략">26일 (목)</a>
 </div>
 <div class="tag">
+<a href="/seminars/2055" title="쉐어드IT - [0926] 쉐어드IT 밋업 첫 번째 모임에 참석해 주세요!">26일 (목)</a>
+</div>
+<div class="tag">
 <a href="/seminars/2032" title="Advantech - 2024 어드밴텍 RIA(Robot Including AI) 세미나">26일 (목)</a>
 </div>
 <div class="tag">
@@ -660,6 +663,26 @@ AWS
 <dl class="info">
 <dt>일시</dt>
 <dd>2024-09-26(목) 09:00 ~ 19:00</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
+</dl>
+</li>
+<li>
+<figure style="background-image: url('//shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/tool/seminar/thumbnail_image/2055/low_0926_thumbnail_sharedit.png');"></figure>
+<header>
+<span class="sponsor">
+쉐어드IT
+</span>
+<span class="category">세미나</span>
+<strong>
+<a href="/seminars/2055" title="[0926] 쉐어드IT 밋업 첫 번째 모임에 참석해 주세요!">[0926] 쉐어드IT 밋업 첫 번째 모임에 참석해 주세요!</a>
+</strong>
+</header>
+<dl class="info">
+<dt>일시</dt>
+<dd>2024-09-26(목) 18:30 ~ 20:30</dd>
+<dt>장소</dt>
+<dd>서울시 강남구 언주역</dd>
 <dt>댓글</dt>
 <dd>1개의 댓글이 있습니다.</dd>
 </dl>
@@ -836,7 +859,7 @@ Advantech
 <dt>일시</dt>
 <dd>2024-09-12(목) 14:00 ~ 15:30</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -856,7 +879,7 @@ Advantech
 <dt>장소</dt>
 <dd>서울 강남구 테헤란로 231 센터필드타워 웨스트동 조선 팰리스 호텔</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -874,7 +897,7 @@ Advantech
 <dt>일시</dt>
 <dd>2024-09-12(목) 14:00 ~ 15:30</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -892,7 +915,7 @@ Advantech
 <dt>일시</dt>
 <dd>2024-09-11(수) 14:00 ~ 15:00</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -912,7 +935,7 @@ Advantech
 <dt>장소</dt>
 <dd>서울시 중구 을지로 29 더존을지타워 11층 더존 DTEC 노벨</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -932,7 +955,7 @@ Advantech
 <dt>장소</dt>
 <dd>YBM the Biz 강남교육센터</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -952,7 +975,7 @@ Advantech
 <dt>장소</dt>
 <dd>서울시 강남구 테헤란로 518 (대치동) 섬유센터 11층 위워크 삼성2호점 컨퍼런스룸</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -971,6 +994,8 @@ Advantech
 <dd>2024-09-10(화) 10:00 ~ 17:00</dd>
 <dt>장소</dt>
 <dd>서울 강남구 봉은사로 524 (삼성동 159) 인터컨티넨탈 서울 코엑스 컨벤션센터 1-3층</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -988,7 +1013,7 @@ Advantech
 <dt>일시</dt>
 <dd>2024-09-10(화) 14:00 ~ 15:00</dd>
 <dt>댓글</dt>
-<dd>1개의 댓글이 있습니다.</dd>
+<dd>2개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -1272,7 +1297,7 @@ Advantech
 <div class="separator-2"></div>
 <ul class="nav product-brands-list">
 <li>
-<a ,="" href="/promotions/1717" title="총 상금 1,200만원 상당의 아이디어톤!! 커넥톤[ConnecTHON]에 도전하세요!">총 상금 1,200만원 (기타)<span>D-11</span></a>
+<a ,="" href="/promotions/1717" title="총 상금 1,200만원 상당의 아이디어톤!! 커넥톤[ConnecTHON]에 도전하세요!">총 상금 1,200만원 (기타)<span>D-4</span></a>
 </li>
 </ul>
 </div>
@@ -1281,27 +1306,27 @@ Advantech
 <div class="separator-2"></div>
 <ul class="nav product-brands-list">
 <li>
-<a ,="" href="/seminars/2050" title="[Microsoft 무료 교육] 10월 Azure OpenAI &amp; ChatGPT 무료 체험 교육 오픈_업무 생산성을 향상을 위한 우리 기업 맞춤 생성형 AI 도입 방안을 확인해보세요!">[Microsoft 무료 (교육) <span>D-24</span></a>
-</li>
-<li>
-<a ,="" href="/seminars/2051" title="AI 시대, 데이터 통합 분석 플랫폼 _ 10월 Microsoft Fabric 기반 경영 데이터 분석 BI 무료교육을 통해 확인하세요!">AI 시대, 데이터 통합 (교육) <span>D-30</span></a>
-</li>
-<li>
-<a ,="" href="/seminars/2054" title="곧 등록 마감되니 서두르세요! AWS Innovate - 클라우드 현대화 &amp; 생성형 AI를 통한 디지털 전환 전략">곧 등록 마감되니 서두르 (웨비나) <span>D-10</span></a>
-</li>
-<li>
-<a ,="" href="/promotions/1701" title="캐드 S/W 비용을 획기적으로 아끼는 방법!">캐드 S/W 비용을 획기 (견적요청)<span>D-14
+<a ,="" href="/promotions/1688" title="[AHTID] 맞춤형 가상화 솔루션 컨설팅">[AHTID] 맞춤형 가 (상담요청)<span>D-4
 </span></a>
 </li>
 <li>
-<a ,="" href="/seminars/2027" title="[Microsoft 무료 교육]  Copilot 도입 고려중이신가요?! 필수 보안 환경 할인 혜택을 9월 Microsoft 365 보안 교육에서 확인하세요!">[Microsoft 무료 (교육) <span>D-8</span></a>
+<a ,="" href="/seminars/2053" title="[웨비나] AI시대,OpenAI 기반 Microsoft 365 업무 및 보안 플랫폼을 통한 기업 업무 생산성 극대화 방안을 확인하세요!">[웨비나] AI시대,Op (웨비나) <span>D-30</span></a>
 </li>
 <li>
-<a ,="" href="/promotions/1718" title="시스원 IDC 이벤트, 데이터센터 입주(코로케이션)">시스원 IDC 이벤트, (할인혜택)<span>D-23
+<a ,="" href="/seminars/1934" title="2024 AIoT 진흥주간 부대행사 신청 안내 (신청 : ~7.19(금)까지)">2024 AIoT 진흥주 (세미나) <span>D-37</span></a>
+</li>
+<li>
+<a ,="" href="/seminars/2048" title="[무료교육] 9월 Microsoft 업무자동화(RPA) Hands on _ Power Automate 활용으로 단순 반복 업무를 제거하고 생산성을 높이세요!">[무료교육] 9월 Mic (교육) <span>D-4</span></a>
+</li>
+<li>
+<a ,="" href="/seminars/2052" title="[등록 마감 임박] 성공적인 AI, 가상화, 엣지 구현을 모두 오픈소스로? Red Hat Summit: Connect (10/15)의 키노트와 주요 고객 세션기회를 놓치지 마세요.">[등록 마감 임박] 성공 (세미나) <span>D-22</span></a>
+</li>
+<li>
+<a ,="" href="/promotions/1714" title="AI 인프라의 성능, 보안, 비용 문제 해결을 위한 대안을 제시합니다.">AI 인프라의 성능, 보 (자료다운로)<span>D-10
 </span></a>
 </li>
 <li>
-<a ,="" href="/seminars/2032" title="2024 어드밴텍 RIA(Robot Including AI) 세미나">2024 어드밴텍 RIA (세미나) <span>D-10</span></a>
+<a ,="" href="/seminars/2035" title="퓨어스토리지 최고의 컨퍼런스 Pure//Accelerate 2024 Seoul Virtual ">퓨어스토리지 최고의 컨퍼 (웨비나) <span>D-22</span></a>
 </li>
 </ul>
 </div>
@@ -1319,21 +1344,21 @@ Advantech
 <div class="separator-2"></div>
 <div class="overlay-container overlay-visible" style="width: 100%; border: 1px solid #eee; height:220px; display:table-cell;vertical-align:middle;">
 <div class="sponsor-ad-box" style="width:260px;">
-<img alt="Medium %eb%b9%84%eb%94%94%ec%98%a4%ed%94%84%eb%a0%88%ec%86%8c %ec%8d%b8%eb%84%a4%ec%9d%bc" onclick='ga("send","event","it.infra.evaluations","evaluations.product.click.sponsor_ad","641",null);' src="//shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/product/logo/641/medium_%EB%B9%84%EB%94%94%EC%98%A4%ED%94%84%EB%A0%88%EC%86%8C-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg"/>
+<img alt="Medium officekeeper rgb en hv" onclick='ga("send","event","it.infra.evaluations","evaluations.product.click.sponsor_ad","399",null);' src="//shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/product/logo/399/medium_officekeeper_rgb_en_hv.png"/>
 </div>
-<a class="overlay-link" href="/evaluations/products/641">
+<a class="overlay-link" href="/evaluations/products/399">
 <i class="fa fa-link"></i>
 </a>
 <div class="overlay-bottom hidden-xs" style="padding: 10px;">
 <div class="text">
-<p class="lead margin-clear text-left" style="font-size: 16px;">콘텐츠 용량 최적화, 비디오프레소</p>
+<p class="lead margin-clear text-left" style="font-size: 16px;">오피스키퍼 </p>
 </div>
 </div>
 </div>
 <script>
     ;(function($){
       $(function(){
-        ga("send","event","it.infra.evaluations","evaluations.product.impression.sponsor_ad","641",null);
+        ga("send","event","it.infra.evaluations","evaluations.product.impression.sponsor_ad","399",null);
       });
     })(jQuery);
   </script>
@@ -1355,19 +1380,19 @@ Advantech
 <nav>
 <ul class="nav product-brands-list">
 <li>
-<a href="/board/solutions/3177" rel="nofollow" target="_self">홈페이지 개편 확인 요청의 건<span>상담실</span></a>
+<a href="/promotions/1720" rel="nofollow" target="_self" title="정보 참고하겠습니다.">정보 참고하겠습니다.<span>프로모션</span></a>
 </li>
 <li>
-<a href="/posts/30724" rel="nofollow" target="_self" title="참고하겠습니다.">참고하겠습니다.<span>테크박스</span></a>
+<a href="/promotions/1708" rel="nofollow" target="_self" title="정보 참고하겠습니다.">정보 참고하겠습니다.<span>프로모션</span></a>
 </li>
 <li>
-<a href="/posts/30725" rel="nofollow" target="_self" title="참고하겠습니다.">참고하겠습니다.<span>테크박스</span></a>
+<a href="/board/solutions/3189" rel="nofollow" target="_self">서버 랙 이사 비용 문의<span>상담실</span></a>
 </li>
 <li>
-<a href="/posts/30726" rel="nofollow" target="_self" title="참고하겠습니다.">참고하겠습니다.<span>테크박스</span></a>
+<a href="/board/solutions/3188" rel="nofollow" target="_self">MS 365 Business s<span>상담실</span></a>
 </li>
 <li>
-<a href="/seminars/2054" rel="nofollow" target="_self" title="참고하겠습니다.">참고하겠습니다.<span>세미나</span></a>
+<a href="/seminars/2055" rel="nofollow" target="_self" title="아쉽지만 다음 밋업에 참석 하겟습니다.">아쉽지만 다음 밋업에 참석 하겟<span>세미나</span></a>
 </li>
 </ul>
 </nav>
@@ -1394,7 +1419,7 @@ Advantech
 <h4 class="modal-title" id="myModalLabel">알림</h4>
 </div>
 <div class="modal-body">
-<p><a href="/cdn-cgi/l/email-protection#80ede1f3f4e5f2c0f3e8e1f2e5e4e9f4aee3efaeebf2"><span class="__cf_email__" data-cfemail="fa979b898e9f88ba89929b889f9e938ed49995d49188">[email protected]</span></a>로 내용과 파일을 첨부해 보내 주시면 검토 후 업로드 됩니다.<br/>
+<p><a href="/cdn-cgi/l/email-protection#e5888496918097a5968d849780818c91cb868acb8e97"><span class="__cf_email__" data-cfemail="7b161a080f1e093b08131a091e1f120f551814551009">[email protected]</span></a>로 내용과 파일을 첨부해 보내 주시면 검토 후 업로드 됩니다.<br/>
 <a href="/memberships">멤버십</a>에 가입하신 후 직접 업로드를 하실 수 있습니다.</p>
 </div>
 </div>
@@ -1415,7 +1440,7 @@ Advantech
 <h3 class="title">IT 세미나/교육/프로모션 정보 구독 신청</h3>
 <p>새로운 세미나/교육/프로모션 정보를 메일로 편하게 받아 보세요. 정기적으로 보내 드립니다.</p>
 <div class="separator"></div>
-<form accept-charset="UTF-8" action="/promotions/email_subscribe" class="form-inline margin-clear" id="" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="DgMLPb/hlAHubnh9UKJdmy2o0ef9lDQMV3UOqMgSFPq88omvCAJFmtA320od3CZ5UozgaPhv5DO8yKdERIul9g=="/>
+<form accept-charset="UTF-8" action="/promotions/email_subscribe" class="form-inline margin-clear" id="" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="CuVFN0OF3HQ+oPW+VzBl7Iql1XEMoVdicc1Q0Ko2SUbagSkBieWI/+NOWc0TzXs9VqKn1wjftSV2UZz0U2JpkQ=="/>
 <div class="form-group has-feedback">
 <label class="sr-only" for="subscribe2">Email address</label>
 <input class="form-control" id="email" name="email" placeholder="Enter email" required="required" type="text"/>
@@ -1453,7 +1478,7 @@ Submit <i class="fa fa-send"></i>
 <li><i class="text-default fa fa-id-card-o pr-5"></i>사업자 등록번호 : 144-81-29382</li>
 <li><i class="text-default fa fa-id-card-o pr-5"></i>통신판매업신고 : 2017-용인수지-0227</li><br/>
 <li><i class="text-default fa fa-map-marker pr-5"></i>(주) 쉐어드커뮤니케이션</li>
-<li><a class="link-dark" href="/cdn-cgi/l/email-protection#a7cac6d4d3c2d5e7d4cfc6d5c2c3ced389c4c889ccd5"><i class="text-default fa fa-envelope-o pr-5"></i><span class="__cf_email__" data-cfemail="b3ded2c0c7d6c1f3c0dbd2c1d6d7dac79dd0dc9dd8c1">[email protected]</span></a></li>
+<li><a class="link-dark" href="/cdn-cgi/l/email-protection#ddb0bcaea9b8af9daeb5bcafb8b9b4a9f3beb2f3b6af"><i class="text-default fa fa-envelope-o pr-5"></i><span class="__cf_email__" data-cfemail="fa979b898e9f88ba89929b889f9e938ed49995d49188">[email protected]</span></a></li>
 </ul>
 <ul class="list-inline small" style="margin-top: -9px">
 <li><i class="text-default fa fa-lock pr-5"></i><strong> <a class="link-dark" href="/welcome/terms_of_service" style="color: #777777;" target="_blank">이용약관</a> | <a class="link-dark" href="/welcome/personal_information" style="text-decoration: underline!important;" target="_blank">개인정보처리방침</a></strong></li>
@@ -1537,5 +1562,5 @@ Submit <i class="fa fa-send"></i>
       });
   });
 </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c3c13b65f2b393e',t:'MTcyNjQzOTU5My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c75c1339c9a6164',t:'MTcyNzA0NDM4Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
