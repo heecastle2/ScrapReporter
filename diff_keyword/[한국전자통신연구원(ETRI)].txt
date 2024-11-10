@@ -128,8 +128,8 @@ function fnAnnoView(key){
 </script>
 </head>
 <body>
-<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhh9x6jbBpQASqO5rxamevYwmN8Kp+uJlvZn/LBGkYbFtYE9eAKNWl1/8Evvzvh93inEgFpSWnGzkZoF4ByaUq0FBHd0fqTqqDhw6rigQ065I7/RdroOR9dE6Z9IZJzOZWdEsSgeVBzHn0NFxMGEaAXJ3C2+f0Fma7eEiYqrHhXvUnrupdAWBAMzEAqsentIDcA=="/>
-<input name="csSignature" type="hidden" value="pYE4x6tex7xt/+80KHZApg=="/>
+<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhsnQcBDxHuNKuxfTQwUT5ATugxMiQVKJAD5OEXlxy4TipkcNUYEjBQkVlBqzKFq9W4ArwfIFooqvyNhv7lrFUMb96hz+iob3QZVuXdsZiiXsoSZeHlkSqTix1eZLh+iUxGWJL/T6kCJQ7nkkj6/eO7GzBJaEb27znkFDGPuOpfRkACrTi03c0Kzj3F+O2eyPCA=="/>
+<input name="csSignature" type="hidden" value="9L5QQ5XAKFR85GCoGynW/A=="/>
 <input id="returnURL" name="returnURL" type="hidden" value=""/>
 <input id="userId" name="userId" type="hidden" value="">
 <input id="loginType" name="loginType" type="hidden" value=""/>
@@ -218,8 +218,8 @@ function fnAnnoView(key){
 <div class="table_set">
 <h3 class="txt_coop_001">공동연구공고 검색</h3>
 <div class="search">
-<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhh9x6jbBpQASqO5rxamevYy+VYkYau/aGeAyA9IP9Gdowy7cV1w3fUtLqQOy3BZPM6GWyeHdxIqhcHZ2FGyXzdKi0+52Zv1WGbsL9OSWEIu7QNLhL+563T1pQGpZzrpxHTpCkvPT15OhjW2/YvYeUbn0TE1Gi13Zn6HpZlVZhQJF"/>
-<input name="csSignature" type="hidden" value="pYE4x6tex7xt/+80KHZApg=="/>
+<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhsnQcBDxHuNKuxfTQwUT5ATEcnEB0hY8fJBR9Q4Av8AcfjbOhly3yfkzgJSGb7UAyHPwbhf7Z+b9mfRWA8iyUiq0WGy3LxSOtGqRIR7EgvCmVRl4BWy3dd2M2DmKZiYZDRJxrcRcgnCDDuxAASDrMALL3v3X5DE1GiJCrpivDykf"/>
+<input name="csSignature" type="hidden" value="9L5QQ5XAKFR85GCoGynW/A=="/>
 <script type="text/javascript">
 $(document).ready(function(){
     $('#searchStartDate').focus(function(){
@@ -276,7 +276,7 @@ $(document).ready(function(){
 <div class="table_set">
 <div class="total_page">
 <ul>
-<li><strong>Total</strong> : <span>2872</span></li>
+<li><strong>Total</strong> : <span>2873</span></li>
 <li class="ml10"><strong>Page</strong> : <span>1/288</span></li>
 </ul>
 <div class="txt_n">
@@ -303,6 +303,24 @@ $(document).ready(function(){
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    5011-2024-00006
+                                        
+                                    
+                                    </td>
+<td title="VTOL 기반 AAM 참조기체 2기 제작 및 자율비행 기술 통합">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('5011-2024-00006')">VTOL 기반 AAM 참조기체 2기 제작 및 자율비행 기술 통합</a>
+</div>
+</td>
+<td>2024-11-06</td>
+<td>2024-11-12</td>
+<td>공모접수중</td>
+</tr>
 <tr>
 <td>
                                     
@@ -465,24 +483,6 @@ $(document).ready(function(){
 <td>2024-07-01</td>
 <td>마감</td>
 </tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    4011-2024-00011
-                                        
-                                    
-                                    </td>
-<td title="초저비트율 비디오 부호화 환경에서의 원본충실도-맥락보존성 최적화 방안 연구">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('4011-2024-00011')">초저비트율 비디오 부호화 환경에서의 원본충실도-맥락보존성 최적화 방안 연구</a>
-</div>
-</td>
-<td>2024-06-18</td>
-<td>2024-06-24</td>
-<td>마감</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -525,8 +525,8 @@ $(document).ready(function(){
 <div class="spot_2">
 <ul>
 <li>
-<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhh9x6jbBpQASqO5rxamevYwWUUYJU31EOWqS/snWquAQ">
-<input name="csSignature" type="hidden" value="pYE4x6tex7xt/+80KHZApg==">
+<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhsnQcBDxHuNKuxfTQwUT5ATgFTaAYrSTZ/SIkybsvK9k">
+<input name="csSignature" type="hidden" value="9L5QQ5XAKFR85GCoGynW/A==">
 <fieldset>
 <legend>ETRI 직할부서 바로가기</legend>
 <label class="hidden" for="etri_siteurl">ETRI 직할부서 바로가기</label>
@@ -551,8 +551,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhh9x6jbBpQASqO5rxamevYwWUUYJU31EOWqS/snWquAQ">
-<input name="csSignature" type="hidden" value="pYE4x6tex7xt/+80KHZApg==">
+<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhsnQcBDxHuNKuxfTQwUT5ATgFTaAYrSTZ/SIkybsvK9k">
+<input name="csSignature" type="hidden" value="9L5QQ5XAKFR85GCoGynW/A==">
 <fieldset>
 <legend>ETRI SERVICE 바로가기</legend>
 <label class="hidden" for="etri_siteur2">ETRI SERVICE 바로가기</label>
@@ -575,8 +575,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhh9x6jbBpQASqO5rxamevYwWUUYJU31EOWqS/snWquAQ"/>
-<input name="csSignature" type="hidden" value="pYE4x6tex7xt/+80KHZApg=="/>
+<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhsnQcBDxHuNKuxfTQwUT5ATgFTaAYrSTZ/SIkybsvK9k"/>
+<input name="csSignature" type="hidden" value="9L5QQ5XAKFR85GCoGynW/A=="/>
 <fieldset>
 <legend>ETRI 유관기관 바로가기</legend>
 <label class="hidden" for="etri_siteur3">ETRI 유관기관 바로가기</label>
