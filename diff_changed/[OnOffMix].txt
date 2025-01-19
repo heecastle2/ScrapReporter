@@ -342,8 +342,8 @@ ie_end_support_popup_wrap.addEventListener("click", function( event ){
 <form action="/event/main" class="search_form" data-gtm_submit='{"event" : "clickKeywordSearchButton", "keyword" : ""}' method="GET">
 <label for="searchInput">검색할 이벤트를 입력해주세요.</label>
 <input autocomplete="off" class="search_input" data-event="315174" id="searchInput" name="s" title="키워드로 이벤트를 검색하세요" type="text" value=""/>
-<span class="ofm_keyword_value" data-creative_name="PC_메인_검색창광고" data-creative_slot="1" data-event_no="315174" data-event_title="[선착순 60명] 창업으로 성공하고 싶다면 꼭 들어야 하는 필수 CLASS _IT 스타트업 사업 개발 캠프" data-href="/cs/a/95312?url=%2Fevent%2F315174">
-                                      100% 국비지원 사업 개발자(BD) 부트 캠프                                </span>
+<span class="ofm_keyword_value" data-creative_name="PC_메인_검색창광고" data-creative_slot="1" data-event_no="315174" data-event_title="[선착순 60명] 창업으로 성공하고 싶다면 꼭 들어야 하는 필수 CLASS _IT 스타트업 사업 개발 캠프" data-href="/cs/a/95468?url=%2Fevent%2F315174">
+                                      [무료] 창업 준비중이라면 필수 CLASS!                                </span>
 <input data-gtag_dto_key="_GTAG_DTO_KEY_1001" data-search_btn="" title="검색" type="submit" value="검색"/>
 </form>
 </div>
@@ -781,9 +781,10 @@ ie_end_support_popup_wrap.addEventListener("click", function( event ){
 <li data-keyword_row="">
 <a href="/event/main?s=인공지능 ai chatgpt 챗gpt">AI 인공지능</a>
 <a href="/event/main?s=창업">창업</a>
-<a href="/event/main?s=스타트업">스타트업</a>
+<a href="/event/main?s=해커톤 공모전">해커톤</a>
 </li>
 <li>
+<a class="link_item event" data-c="b09b92021" href="/ch/event">무료로 초대해요</a>
 <a class="link_item channel" data-c="b09b92041" href="/ch">채널</a>
 </li>
 <li>
