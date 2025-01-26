@@ -784,7 +784,7 @@ ie_end_support_popup_wrap.addEventListener("click", function( event ){
 <a href="/event/main?s=해커톤 공모전">해커톤</a>
 </li>
 <li>
-<a class="link_item event" data-c="b09b92021" href="/ch/event">무료로 초대해요</a>
+<a class="link_item event" data-c="b09b92021" href="/event/inviteEvent">무료로 초대해요</a>
 <a class="link_item channel" data-c="b09b92041" href="/ch">채널</a>
 </li>
 <li>
