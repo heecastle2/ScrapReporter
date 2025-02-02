@@ -17,7 +17,7 @@ window.TistoryBlog = {
     url: "https://gent.tistory.com",
     tistoryUrl: "https://gent.tistory.com",
     manageUrl: "https://gent.tistory.com/manage",
-    token: "2+v6MPbwdLEpbaR4pM54mQFZ3/80nqbZCo8WqV39h9lLxZrlnGU+Yr9PafHshTK+"
+    token: "yHb04CKPSgKZjGdZwRR9wtCpjAn8QpkfH5uOsXsL9ToJQ0+JUsGy4BfUzsNF+1ji"
 };
 var servicePath = "";
 var blogURL = "";</script>
@@ -125,17 +125,18 @@ gtag('config','UA-57752461-1', {
 <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9124368047334217"></script>
 <title>[2022년 2월] IT 세미나 컨퍼런스 일정</title>
 <link href="https://gent.tistory.com/rss" rel="alternate" title="젠트의 프로그래밍 세상" type="application/rss+xml"/>
-<link href="//cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css" rel="stylesheet"/>
-<link href="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.css?_version_=1736246752" rel="stylesheet"/>
-<link href="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.default.css?_version_=1736246752" rel="stylesheet"/>
+<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css"> -->
+<link href="https://cdn.jsdelivr.net/gh/jbfactory/jb-skin-fonts/xeicon.min.css" rel="stylesheet"/>
+<link href="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.css?_version_=1738373129" rel="stylesheet"/>
+<link href="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.default.css?_version_=1738373129" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&amp;display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&amp;display=swap" rel="stylesheet"/>
-<script src="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery-3.3.1.min.js?_version_=1736246752"></script>
+<script src="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery-3.3.1.min.js?_version_=1738373129"></script>
 <script>
 			var jb = jQuery.noConflict();
 		</script>
-<script src="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.min.js?_version_=1736246752"></script>
-<link href="https://tistory1.daumcdn.net/tistory/784847/skin/style.css?_version_=1736246752" rel="stylesheet"/>
+<script src="https://tistory1.daumcdn.net/tistory/784847/skin/images/jquery.nivo.slider.min.js?_version_=1738373129"></script>
+<link href="https://tistory1.daumcdn.net/tistory/784847/skin/style.css?_version_=1738373129" rel="stylesheet"/>
 <script>
 			// Variables
 				var jbCurrentUrl = window.location.pathname;
@@ -385,7 +386,15 @@ gtag('config','UA-57752461-1', {
 									</script>
 <section>
 <div class="jb-content jb-content-article">
-<div class="jb-article">
+<div class="jb-article"><script async="" crossorigin="anonymous" onerror="changeAdsenseToAdfit()" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841"></script>
+<!-- inventory -->
+<ins class="adsbygoogle" data-ad-adfit-unit="DAN-nRFiQiN4avFYIKbk" data-ad-client="ca-pub-9527582522912841" data-ad-format="auto" data-ad-slot="3825649038" data-ad-type="inventory" data-full-width-responsive="true" style="margin:50px 0; display:block"></ins>
+<script id="adsense_script">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script>
+    if(window.ObserveAdsenseUnfilledState !== undefined){ ObserveAdsenseUnfilledState(); }
+</script>
 <!-- System - START -->
 <!-- System - END -->
 <div class="tt_article_useless_p_margin contents_style"><h3 data-ke-size="size23"><b>2022년 2월 IT 세미나/컨퍼런스 일정</b></h3>
@@ -594,15 +603,6 @@ gtag('config','UA-57752461-1', {
 </a></figure></div>
 <!-- System - START -->
 <!-- System - END -->
-<script async="" crossorigin="anonymous" onerror="changeAdsenseToAdfit()" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841"></script>
-<!-- inventory -->
-<ins class="adsbygoogle" data-ad-adfit-unit="DAN-HCZEy0KQLPMGnGuC" data-ad-client="ca-pub-9527582522912841" data-ad-format="auto" data-ad-slot="4947159016" data-ad-type="inventory" data-full-width-responsive="true" style="margin:50px 0; display:block"></ins>
-<script id="adsense_script">
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script>
-    if(window.ObserveAdsenseUnfilledState !== undefined){ ObserveAdsenseUnfilledState(); }
-</script>
 <div class="container_postbtn #post_button_group">
 <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
 window.ReactionApiUrl = '//gent.tistory.com/reaction';
