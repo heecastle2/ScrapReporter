@@ -128,8 +128,8 @@ function fnAnnoView(key){
 </script>
 </head>
 <body>
-<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhqU5FA+sxHIG4Op2ZcFg7nQpFCkz8P60+SuI0btc0PyXSasaw/22L2uah1273kB3rMUg0TOBIcCA2xRA2sb41V9NLg6cJ6mIsQrVpF4iVD5R/ff32zijTuhPdGjZXh1A7LtpQ4vio0y7pKXpGa/0Cq/fCCq96P5i0b51d3K8Wk7ZA/3mmBNbguNmKoI6bftV4w=="/>
-<input name="csSignature" type="hidden" value="djW0cO1SmfUbqMc13CQ68Q=="/>
+<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhnLdC97dbERsWIaL8p5iHm6zfG/N8DqQV489SFLGQ7bli3S/4HMx3bJ4+8wY7oB7QV9s5kP5FZmLbHdbHu8qseu+opNZym01eUBVCzcya3lmkYckuMutqpObMbBjZz3nm1F9Vr5nvuh6W4tEur8S6EhFL4cXJppBCe0GxJf+Mel9OvrWoeTImttxjhlE9HX6sw=="/>
+<input name="csSignature" type="hidden" value="Sj94hyLe0sT9YYVymH6RYA=="/>
 <input id="returnURL" name="returnURL" type="hidden" value=""/>
 <input id="userId" name="userId" type="hidden" value="">
 <input id="loginType" name="loginType" type="hidden" value=""/>
@@ -218,8 +218,8 @@ function fnAnnoView(key){
 <div class="table_set">
 <h3 class="txt_coop_001">공동연구공고 검색</h3>
 <div class="search">
-<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhqU5FA+sxHIG4Op2ZcFg7nQe7/W6//kQjtjmtt5cHG4/V/NCaxLJF/BdUADDh5N5OY7Ub8SNZ/S7n88XOJlhQjFGFwHROnUCJXSnugl7FakxLSHahfrUlQmMSLTt1lIuJHQwva4u09cBYR9f8J2h/pThA9DbC2WNfZdtKDUdAKDl"/>
-<input name="csSignature" type="hidden" value="djW0cO1SmfUbqMc13CQ68Q=="/>
+<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhnLdC97dbERsWIaL8p5iHm7evxvJu6DmBnW4RgoeSrZYO5zDO5rXUnQlW/cU9VXNxg9zxggZFioeiFyogGVX+ZQQ+8OMtFQ0K4D49qWCu+ygWxtQ56EWHmiuOCaU06Ym70s6vAWAWEFP1aMMiSa39CoJSBw/uRzGk0yoaHa0ANHj"/>
+<input name="csSignature" type="hidden" value="Sj94hyLe0sT9YYVymH6RYA=="/>
 <script type="text/javascript">
 $(document).ready(function(){
     $('#searchStartDate').focus(function(){
@@ -276,7 +276,7 @@ $(document).ready(function(){
 <div class="table_set">
 <div class="total_page">
 <ul>
-<li><strong>Total</strong> : <span>2901</span></li>
+<li><strong>Total</strong> : <span>2902</span></li>
 <li class="ml10"><strong>Page</strong> : <span>1/291</span></li>
 </ul>
 <div class="txt_n">
@@ -308,6 +308,24 @@ $(document).ready(function(){
                                     
                                         
                                         
+                                    1011-2025-00001
+                                        
+                                    
+                                    </td>
+<td title="NPU 기반 AI추론컴퓨팅 자동병렬화 핵심기술 연구">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('1011-2025-00001')">NPU 기반 AI추론컴퓨팅 자동병렬화 핵심기술 연구</a>
+</div>
+</td>
+<td>2025-03-10</td>
+<td>2025-03-14</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
                                     4011-2025-00001
                                         
                                     
@@ -319,7 +337,7 @@ $(document).ready(function(){
 </td>
 <td>2025-03-06</td>
 <td>2025-03-12</td>
-<td>공모접수중</td>
+<td>마감</td>
 </tr>
 <tr>
 <td>
@@ -337,7 +355,7 @@ $(document).ready(function(){
 </td>
 <td>2025-03-05</td>
 <td>2025-03-11</td>
-<td>공모접수중</td>
+<td>마감</td>
 </tr>
 <tr>
 <td>
@@ -465,24 +483,6 @@ $(document).ready(function(){
 <td>2025-01-16</td>
 <td>마감</td>
 </tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2025-00009
-                                        
-                                    
-                                    </td>
-<td title="실내외 환경에서의 안정적인 자율주행을 위한 AI 기반 측위 기술 개발">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2025-00009')">실내외 환경에서의 안정적인 자율주행을 위한 AI 기반 측위 기술 개발</a>
-</div>
-</td>
-<td>2025-01-13</td>
-<td>2025-01-16</td>
-<td>마감</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -525,8 +525,8 @@ $(document).ready(function(){
 <div class="spot_2">
 <ul>
 <li>
-<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhqU5FA+sxHIG4Op2ZcFg7nQSZ2V3F6udR0NBMYVcI+h+">
-<input name="csSignature" type="hidden" value="djW0cO1SmfUbqMc13CQ68Q==">
+<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhnLdC97dbERsWIaL8p5iHm4wt8RNO8aB/7Js8Q0BT5CV">
+<input name="csSignature" type="hidden" value="Sj94hyLe0sT9YYVymH6RYA==">
 <fieldset>
 <legend>ETRI 직할부서 바로가기</legend>
 <label class="hidden" for="etri_siteurl">ETRI 직할부서 바로가기</label>
@@ -551,8 +551,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhqU5FA+sxHIG4Op2ZcFg7nQSZ2V3F6udR0NBMYVcI+h+">
-<input name="csSignature" type="hidden" value="djW0cO1SmfUbqMc13CQ68Q==">
+<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhnLdC97dbERsWIaL8p5iHm4wt8RNO8aB/7Js8Q0BT5CV">
+<input name="csSignature" type="hidden" value="Sj94hyLe0sT9YYVymH6RYA==">
 <fieldset>
 <legend>ETRI SERVICE 바로가기</legend>
 <label class="hidden" for="etri_siteur2">ETRI SERVICE 바로가기</label>
@@ -575,8 +575,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhqU5FA+sxHIG4Op2ZcFg7nQSZ2V3F6udR0NBMYVcI+h+"/>
-<input name="csSignature" type="hidden" value="djW0cO1SmfUbqMc13CQ68Q=="/>
+<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="lZdViL452qSu8v+T5quuhnLdC97dbERsWIaL8p5iHm4wt8RNO8aB/7Js8Q0BT5CV"/>
+<input name="csSignature" type="hidden" value="Sj94hyLe0sT9YYVymH6RYA=="/>
 <fieldset>
 <legend>ETRI 유관기관 바로가기</legend>
 <label class="hidden" for="etri_siteur3">ETRI 유관기관 바로가기</label>
