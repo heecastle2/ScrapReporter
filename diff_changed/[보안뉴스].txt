@@ -97,17 +97,17 @@ function hasScrolled() {
 </div>
 <div id="scroll_up">
 <ul>
-<li><a href="view.asp?idx=137295&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/0518-3.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=137295&amp;kind=2"><font color="#091545">유상임 과기정통부 장관, 美 FCC와...</font></a></p></li>
+<li><a href="view.asp?idx=137366&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/tn anonymous.png" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=137366&amp;kind=2"><font color="#091545">가명정보로 AI 서비스 만들어 봐, ...</font></a></p></li>
 </ul>
-<li><a href="view.asp?idx=137294&amp;kind=13"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/0518-1.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=137294&amp;kind=13"><font color="#091545">SKT ‘고객신뢰위원회’ 출범...내...</font></a></p></li>
+<li><a href="view.asp?idx=137371&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/20250524skt-s.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=137371&amp;kind=1"><font color="#091545">[특별기고] 제2, 제3의 SKT 해...</font></a></p></li>
 
-<li><a href="view.asp?idx=137293&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/tn adidas.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=137293&amp;kind=1"><font color="#091545">아디다스, “해킹 공격 당해...고객...</font></a></p></li>
+<li><a href="view.asp?idx=137365&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/후보4명2.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=137365&amp;kind=2"><font color="#091545">[6.3 대선] 李-AI보안, 金-해...</font></a></p></li>
 
-<li><a href="view.asp?idx=137288&amp;kind=3"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/0516-1.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=137288&amp;kind=3"><font color="#091545">“기업 보안 최대 취약점 이메일”.....</font></a></p></li>
+<li><a href="view.asp?idx=137367&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2025/05/0523-13.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=137367&amp;kind=1"><font color="#091545">“URL 재확인 필수” 반품·카드 취...</font></a></p></li>
 
 </div>
 <!--Include virtual="/secu_admin/ad_log/log.asp"-->
@@ -349,6 +349,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <iframe frameborder="0" height="100" name="media_center" src="/media/include/media_center_banner.asp" width="750"></iframe>
 <div id="news_area">
 <div class="news_list">
+<a href="/media/view.asp?idx=137367&amp;page=1&amp;kind=1">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/05/0523-13.jpg">
+<span class="news_txt">“URL 재확인 필수” 반품·카드 취소 사칭한 ‘가짜 사이트’ 재유행 </span>
+</img></a><br/>
+<a class="news_content" href="/media/view.asp?idx=137367&amp;page=1&amp;kind=1">쿠팡과 현대카드처럼 유명 브랜드의 신뢰도를 악용해 개인정보를 빼내거나 악성코드를 유포하는 피싱 사이트가 재유행하고 있다.</a> <span class="news_writer">조재호 기자 | 2025년 05월 23일 16:41</span>
+</div>
+<div class="news_line"></div>
+<div class="news_list">
+<a href="/media/view.asp?idx=137329&amp;page=1&amp;kind=1">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/05/0521-1.jpg">
+<span class="news_txt">안랩 “21대 대선 설문조사 주의 당부”...경품 미끼 <b>피싱</b> 사기</span>
+</img></a><br/>
+<a class="news_content" href="/media/view.asp?idx=137329&amp;page=1&amp;kind=1">대통령 선거를 앞둔 상황에서 설문에 참여하면 경품을 제공한다는 내용의 신종 피싱이 기승을 부리고 있다. 21일 안랩은 최근 ‘대선 관련 설문조사’를 사칭해 개인정...</a> <span class="news_writer">조재호 기자 | 2025년 05월 21일 10:18</span>
+</div>
+<div class="news_line"></div>
+<div class="news_list">
 <a href="/media/view.asp?idx=137292&amp;page=1&amp;kind=3">
 <img alt="" class="news_img" height="70" src="/media/upFiles2/2025/05/tn lg uplus smishing.jpg">
 <span class="news_txt">LG유플러스, 고객 <b>피싱</b> 피해 예방 앞장</span>
@@ -398,58 +414,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="news_line"></div>
 <div class="news_list">
 <a href="/media/view.asp?idx=137014&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/tn skt phishing.png">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/tn skt phishing.png"/>
 <span class="news_txt">[SKT 해킹 사태] “유심 무상 교체” 키워드 악용한 <b>피싱</b> 공격 주의보! </span>
-</img></a><br/>
+</a><br/>
 <a class="news_content" href="/media/view.asp?idx=137014&amp;page=1&amp;kind=1">최근 SK텔레콤 해킹 사고에 대한 국민적 우려를 악용한 피싱 공격이 늘고 있다. </a> <span class="news_writer">한세희 기자 | 2025년 04월 28일 11:06</span>
 </div>
 <div class="news_line"></div>
 <div class="news_list">
 <a href="/media/view.asp?idx=137005&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/0427-1.jpg">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/0427-1.jpg"/>
 <span class="news_txt">1분기 보이스<b>피싱</b> 피해액 3000억..1년 만에 두배</span>
-</img></a><br/>
+</a><br/>
 <a class="news_content" href="/media/view.asp?idx=137005&amp;page=1&amp;kind=1">경찰청은 올해 들어 보이스피싱 전체 피해액이 전년 동기 대비 2배 넘게 늘어났다며 각별한 주의를 당부했다. 27일 경찰청에 따르면 올해 1~3월 보이스피싱 범죄는...</a> <span class="news_writer">조재호 기자 | 2025년 04월 27일 11:14</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=136962&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/250422g1tm.jpg"/>
-<span class="news_txt">‘no-reply@accounts.google.com’, 분명 구글 계정인데...보안 경고 위장 <b>피싱</b></span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=136962&amp;page=1&amp;kind=1">실제 구글 서버를 이용해 ‘보안 경고’를 위장한 피싱 이메일을 보내는 공격이 발견됐다. 피싱 메일은 구글 공식 서버로 발송된 데다 DKIM 인증까지 통과했다.</a> <span class="news_writer">이소미 기자 | 2025년 04월 23일 15:57</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=136974&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/tn ahnlab phising 1.jpg"/>
-<span class="news_txt">먹고 살기 팍팍한데...‘생활형’ <b>피싱</b> 급증</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=136974&amp;page=1&amp;kind=1">안랩 ‘2025년 1분기 피싱 문자 트렌드 보고서’에 따르면, 이 시기 가장 발생한 피싱 문자 공격 유형 중 가장 흔한 것은 25.3%를 차지한 ‘기관 사칭’이었...</a> <span class="news_writer">한세희 기자 | 2025년 04월 23일 13:59</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=136960&amp;page=1&amp;kind=2">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/convert_MSIT logo(0).png"/>
-<span class="news_txt">과기정통부, 보이스<b>피싱</b> 예방 발벗고 나선다</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=136960&amp;page=1&amp;kind=2">과학기술정보통신부는 6월까지 통신 분야 보이스피싱 예방 대국민 홍보 캠페인을 전개한다.</a> <span class="news_writer">한세희 기자 | 2025년 04월 22일 16:22</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=136948&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/tn cleafy.png"/>
-<span class="news_txt">복제 폰으로 NFC 결제...과금은 피해자 몫</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=136948&amp;page=1&amp;kind=1">안드로이드 기기를 겨냥한 피싱 메일로 멀웨어를 심어 카드 결제 정보를 탈취, 매장이나 현금인출기에서 돈을 빼내는 슈퍼카드X 공격이 등장했다. </a> <span class="news_writer">한세희 기자 | 2025년 04월 21일 17:26</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=136938&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/04/20250420north-s.jpg"/>
-<span class="news_txt">[배종찬의 보안 빅데이터] 북한이 보낸 계엄선언·세금환급 이메일</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=136938&amp;page=1&amp;kind=1">올해 들어 가장 크게 관심이 모아지는 이슈 중의 하나가 계엄 선언이다. 윤석열 전 대통령이 지난해 12월 3일 비상 계엄을 선언하면서 전체 국민들의 관심이 모아진...</a> <span class="news_writer">권준  기자 | 2025년 04월 20일 09:46</span>
 </div>
 <div class="news_line"></div>
 </div>
@@ -473,16 +449,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="main_HitNews_title" onclick="location.href='/media/o_list.asp';"><span>가장 많이 본 기사 [주간]</span></div>
 <div id="main_HitNews">
 <ul>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/1.gif" width="13"> <a href="/media/view.asp?idx=137238">명품 브랜드 디올, “해킹으로 고객 정보 유출”</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/2.gif" width="13"> <a href="/media/view.asp?idx=137218">[이슈칼럼] SKT 해킹 사건, 정보 유출보다 인식...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/3.gif" width="13"> <a href="/media/view.asp?idx=137240">엑스게이트 “SKT 사태로 VPN 문의 급증...양...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/4.gif" width="13"> <a href="/media/view.asp?idx=137285" style="color:#999999;">[SKT 해킹 사태][긴급좌담회] SKT 사태, 전...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=137289" style="color:#999999;">BoB 저력 다시 한번, ‘Prison Break’...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=137288" style="color:#999999;">“기업 보안 최대 취약점 이메일”...기원테크, 국...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=137267" style="color:#999999;">명정보기술-ACE Lab, 2025 데이터 복구&amp; ...</a></img></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/8.gif" width="13"/> <a href="/media/view.asp?idx=137237" style="color:#999999;">[SKT 해킹 사태] SKT, “先조사결과, 後보안...</a></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/9.gif" width="13"/> <a href="/media/view.asp?idx=137263" style="color:#999999;">최수진 의원 “디올 해킹 사고 KISA에 미신고, ...</a></li>
-<li><img alt="" class="HitNews_img" height="13" src="/images/new/10.gif" width="13"/> <a href="/media/view.asp?idx=137268" style="color:#999999;">누리랩 “가짜 여행 이벤트 주의보”...현금화 미끼...</a></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/1.gif" width="13"> <a href="/media/view.asp?idx=137345">[단독] SKT 공격한 악성코드 BPF도어, KT ...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/2.gif" width="13"> <a href="/media/view.asp?idx=137302">[SKT 해킹 사태] IMEI 유출에도, 복제폰 걱...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/3.gif" width="13"> <a href="/media/view.asp?idx=137303">[SKT 해킹 사태] [일문일답] “FDS 고도화....</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/4.gif" width="13"> <a href="/media/view.asp?idx=137305" style="color:#999999;">[SKT 해킹 사태] 고객·유심·단말 모두 검증하는...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=137367" style="color:#999999;">“URL 재확인 필수” 반품·카드 취소 사칭한 ‘가...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=137297" style="color:#999999;">[SKT 해킹 사태] 스마트폰 고유정보 IMEI도 ...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=137329" style="color:#999999;">안랩 “21대 대선 설문조사 주의 당부”...경품 ...</a></img></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/8.gif" width="13"/> <a href="/media/view.asp?idx=137331" style="color:#999999;"> [카드뉴스] 유심 정보, SKT가 지금 당장 암호...</a></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/9.gif" width="13"/> <a href="/media/view.asp?idx=137317" style="color:#999999;">[에디터 대담] 김창오 신임 과기정통부 정보보안 P...</a></li>
+<li><img alt="" class="HitNews_img" height="13" src="/images/new/10.gif" width="13"/> <a href="/media/view.asp?idx=137371" style="color:#999999;">[특별기고] 제2, 제3의 SKT 해킹 사태...반...</a></li>
 </ul>
 </div>
 </div>
@@ -609,7 +585,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="https://www.instagram.com/boannews" target="_blank"><img src="/images/new/instagram.png" width="40"/></a>
 </div>
 <!--[if gte IE 10]><!--
-    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=194833682" charset="utf-8"></script>
+    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=403917678" charset="utf-8"></script>
     <script type="text/javascript">
       /************************************************
                     Prism 광고
@@ -859,52 +835,52 @@ jQuery(function(jQuery){
 </ul>
 <ul class="tab-newslist"><!-- 조회순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
-<a href="/media/view.asp?idx=137285"><span><img alt="" src="/media/upFiles2/2025/05/tn panel.jpg"/></span>
-<span style="font-weight:400;">[SKT 해킹 사태][긴급좌담회] SKT 사...</span></a>
+<a href="/media/view.asp?idx=137367"><span><img alt="" src="/media/upFiles2/2025/05/0523-13.jpg"/></span>
+<span style="font-weight:400;">“URL 재확인 필수” 반품·카드 취소 사칭...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
-<a href="/media/view.asp?idx=137289"><span><img alt="" src="/media/upFiles2/2025/05/0516-3.jpg"/></span>
-<span style="font-weight:400;">BoB 저력 다시 한번, ‘Prison Br...</span></a>
+<a href="/media/view.asp?idx=137371"><span><img alt="" src="/media/upFiles2/2025/05/20250524skt-s.jpg"/></span>
+<span style="font-weight:400;">[특별기고] 제2, 제3의 SKT 해킹 사태...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">3</p>
-<a href="/media/view.asp?idx=137288"><span><img alt="" src="/media/upFiles2/2025/05/0516-1.jpg"/></span>
-<span style="font-weight:400;">“기업 보안 최대 취약점 이메일”...기원테...</span></a>
+<a href="/media/view.asp?idx=137365"><span><img alt="" src="/media/upFiles2/2025/05/후보4명2.jpg"/></span>
+<span style="font-weight:400;">[6.3 대선] 李-AI보안, 金-해커양성 ...</span></a>
 </li>
 <li><p class="news_count">4</p>
-<a href="/media/view.asp?idx=137290"><span><img alt="" src="/media/upFiles2/2025/05/tn ictk logo.jpg"/></span>
-<span style="font-weight:400;">ICTK, “210억원 전환사채 발행...보...</span></a>
+<a href="/media/view.asp?idx=137370"><span><img alt="" src="/media/upFiles2/2025/05/티오리2.png"/></span>
+<span style="font-weight:400;">화이트햇 해커 지원...사단법인 ‘프로젝트 ...</span></a>
 </li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=137293"><span><img alt="" src="/media/upFiles2/2025/05/tn adidas.jpg"/></span>
-<span style="font-weight:400;">아디다스, “해킹 공격 당해...고객 이메일...</span></a>
+<a href="/media/view.asp?idx=137362"><span><img alt="" src="/media/upFiles2/2025/05/trans-20250523_113520.png"/></span>
+<span style="font-weight:400;">[PIS FAIR 2025] 개인정보보호페어...</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 추천순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
-<a href="/media/view.asp?idx=137227"><span><img alt="" src="/media/upFiles2/2025/05/1165785450_m.jpg"/></span>
-<span style="font-weight:400;">AI 장착 초강력 ‘악성 봇’, 여행 산업 ...</span></a>
+<a href="/media/view.asp?idx=137345"><span><img alt="" src="/media/upFiles2/2025/05/tn bpfdoor.png"/></span>
+<span style="font-weight:400;">[단독] SKT 공격한 악성코드 BPF도어,...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
-<a href="/media/view.asp?idx=137218"><span><img alt="" src="/media/upFiles2/2025/05/20250512sktm-s.jpg"/></span>
-<span style="font-weight:400;">[이슈칼럼] SKT 해킹 사건, 정보 유출보...</span></a>
+<a href="/media/view.asp?idx=137302"><span><img alt="" src="/media/upFiles2/2025/05/류제명2.jpg"/></span>
+<span style="font-weight:400;">[SKT 해킹 사태] IMEI 유출에도, 복...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">3</p>
-<a href="/media/view.asp?idx=137274"><span><img alt="" src="/media/upFiles2/2025/05/AIDT2.jpg"/></span>
-<span style="font-weight:400;">AI교과서, 개인정보 처리 ‘미흡’...개보...</span></a>
+<a href="/media/view.asp?idx=137303"><span><img alt="" src="/media/upFiles2/2025/05/최태원2.png"/></span>
+<span style="font-weight:400;">[SKT 해킹 사태] [일문일답] “FDS ...</span></a>
 </li>
 <li><p class="news_count">4</p>
-<a href="/media/view.asp?idx=137224"><span><img alt="" src="/media/upFiles2/2025/05/포티넷 로고.jpg"/></span>
-<span style="font-weight:400;">포티넷, QKD·PQC로 양자컴 위협 대응</span></a>
+<a href="/media/view.asp?idx=137311"><span><img alt="" src="/media/upFiles2/2025/05/trans-asdf (2)(0).jpg"/></span>
+<span style="font-weight:400;">한국기업보안, ‘인증서 유효기간 단축’ 대응...</span></a>
 </li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=137267"><span><img alt="" src="/media/upFiles2/2025/05/2025051501ss.jpg"/></span>
-<span style="font-weight:400;">명정보기술-ACE Lab, 2025 데이터 ...</span></a>
+<a href="/media/view.asp?idx=137296"><span><img alt="" src="/media/upFiles2/2025/05/2025051901ss.jpg"/></span>
+<span style="font-weight:400;">아메이투라, 통합 보안 소프트웨어 플랫폼 ‘...</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 스크랩순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
-<a href="/media/view.asp?idx=137101"><span><img alt="" src="/media/upFiles2/2025/05/1452227935_m.jpg"/></span>
-<span style="font-weight:400;">[2025 개인정보보호 솔루션 리포트] SK...</span></a>
+<a href="/media/view.asp?idx=137285"><span><img alt="" src="/media/upFiles2/2025/05/tn panel.jpg"/></span>
+<span style="font-weight:400;">[SKT 해킹 사태][긴급좌담회] SKT 사...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
 <a href="/media/view.asp?idx=137275"><span><img alt="" src="/media/upFiles2/2025/05/0515-3.png"/></span>
@@ -968,26 +944,26 @@ return true;
 <div id="bottom">
 <div id="main_news">
 <ul>
-<li><a href="/media/view.asp?idx=137295&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/05/0518-3.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137295&amp;kind=2"><font color="#282828">유상임 과기정통부 장관, 美 FCC와 통신사 해킹 공조...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137294&amp;kind=13"><img alt="" height="160" src="/media/upFiles2/2025/05/0518-1.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137294&amp;kind=13"><font color="#282828">SKT ‘고객신뢰위원회’ 출범...내주 찾아가는 유심 ...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137293&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/tn adidas.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137293&amp;kind=1"><font color="#282828">아디다스, “해킹 공격 당해...고객 이메일, 전화번호...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137290&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2025/05/tn ictk logo.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137290&amp;kind=3"><font color="#282828">ICTK, “210억원 전환사채 발행...보안 유망 기...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137366&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/05/tn anonymous.png" width="250"/></a>
+<p><a href="/media/view.asp?idx=137366&amp;kind=2"><font color="#282828">가명정보로 AI 서비스 만들어 봐, ‘가명정보 활용 경...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137371&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/20250524skt-s.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=137371&amp;kind=1"><font color="#282828">[특별기고] 제2, 제3의 SKT 해킹 사태...반드시...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137365&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/05/후보4명2.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=137365&amp;kind=2"><font color="#282828">[6.3 대선] 李-AI보안, 金-해커양성 등 약속.....</font></a></p></li>
+<li><a href="/media/view.asp?idx=137370&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2025/05/티오리2.png" width="250"/></a>
+<p><a href="/media/view.asp?idx=137370&amp;kind=3"><font color="#282828">화이트햇 해커 지원...사단법인 ‘프로젝트 플라즈마’ ...</font></a></p></li>
 </ul>
 </div>
 <div id="main_news">
 <ul>
-<li><a href="/media/view.asp?idx=137289&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/0516-3.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137289&amp;kind=1"><font color="#282828">BoB 저력 다시 한번, ‘Prison Break’ 국...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137288&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2025/05/0516-1.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137288&amp;kind=3"><font color="#282828">“기업 보안 최대 취약점 이메일”...기원테크, 국제 ...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137285&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/tn panel.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137285&amp;kind=1"><font color="#282828">[SKT 해킹 사태][긴급좌담회] SKT 사태, 전말과...</font></a></p></li>
-<li><a href="/media/view.asp?idx=137282&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/tn skt usim wait 0503(0).jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=137282&amp;kind=1"><font color="#282828">[SKT 해킹 사태] 유심 교체 ‘찾아가는 서비스’ 1...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137367&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/0523-13.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=137367&amp;kind=1"><font color="#282828">“URL 재확인 필수” 반품·카드 취소 사칭한 ‘가짜 ...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137368&amp;kind=23"><img alt="" height="160" src="/media/upFiles2/2025/05/tn kisia kotra.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=137368&amp;kind=23"><font color="#282828">RSA 컨퍼런스 한국관에 참관객 2600명, 상담 64...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137362&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/05/trans-20250523_113520.png" width="250"/></a>
+<p><a href="/media/view.asp?idx=137362&amp;kind=1"><font color="#282828">[PIS FAIR 2025] 개인정보보호페어 &amp; CPO...</font></a></p></li>
+<li><a href="/media/view.asp?idx=137361&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2025/05/0523-10.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=137361&amp;kind=3"><font color="#282828">이고르 쿠즈네초프 카스퍼스키 디렉터 “당해도 괜찮아. ...</font></a></p></li>
 </ul>
 </div>
 </div>
