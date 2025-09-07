@@ -51,7 +51,7 @@
 <script async="async" data-turbolinks-track="false" defer="defer" src="https://shareditassets.s3.ap-northeast-2.amazonaws.com/assets/production/application-9ca6b727025d6432e02fc75216a889eccf7eb1c26cdec57bea3eaceb744c6114.js"></script>
 <script data-turbolinks-track="false" src="https://shareditassets.s3.ap-northeast-2.amazonaws.com/assets/production/controllers/seminars-07263be6dab85106e76160b1fe1cd524c0164649ba40806c403a1f82c0c57061.js"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="olFkkbIsTS2xBw7K3yoheco4LtA/v+Qv91Gu5Nli2Nx4daInKUbPa0FQmPgYtZ4dYsCvt6yyzI7bn+OQtqmUng==" name="csrf-token">
+<meta content="jf5VJXXdcD7JuCkrYG/4j/ALkIbO3OYcm88UXK1RV2qGakq1nkObk08YiFo4GAI/7BEKLWJihce6RhVcfMXxKg==" name="csrf-token">
 <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
   var googletag = googletag || {};
@@ -162,7 +162,7 @@ ga("send","pageview");
 <li class="linkedin"><a href="https://www.linkedin.com/in/sharedit2014/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
 </ul>
 <ul class="list-inline hidden-xs">
-<li><a href="/cdn-cgi/l/email-protection#432e223037263103302b223126272a376d202c6d2831"><i class="fa fa-envelope-o pr-5 pl-10"></i> <span class="__cf_email__" data-cfemail="620f031116071022110a031007060b164c010d4c0910">[email protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#412c20323524330132292033242528356f222e6f2a33"><i class="fa fa-envelope-o pr-5 pl-10"></i> <span class="__cf_email__" data-cfemail="a2cfc3d1d6c7d0e2d1cac3d0c7c6cbd68cc1cd8cc9d0">[email protected]</span></a></li>
 <li><a href="https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ" target="_blank"><i class="fa fa-youtube-play pr-5 pl-10" title="SHAREDIT CLASS / SHAREDIT LIVE"></i></a><a href="https://www.youtube.com/channel/UCKmGquVYo0RkOwfAsxJ-WCQ" target="_blank"> YouTube</a></li>
 <li><a href="http://www.podbbang.com/ch/15150" target="_blank"><i class="fa fa-podcast pr-5 pl-10" title="팟빵 - 쌤팍의 전산쟁이 이야기"></i></a><a href="https://www.sharedit.co.kr/posts/1236" target="_blank"> 팟캐스트</a></li>
 </ul>
@@ -182,7 +182,7 @@ ga("send","pageview");
 <button class="btn dropdown-toggle btn-default btn-sm" data-toggle="dropdown" type="button"><i class="fa fa-lock pr-5"></i> 로그인</button>
 <ul class="dropdown-menu dropdown-menu-right dropdown-animation">
 <li>
-<form accept-charset="UTF-8" action="/users/sign_in" class="login-form margin-clear" id="new_user" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Qt2erU0aAfDQASGVVaFjXCAzsG36vQvHTTV0seD6E/+Y+Vgb1nCDtiBWt6eSPtw4iMsxCmmwI2Zh+znFjzFfvQ=="/>
+<form accept-charset="UTF-8" action="/users/sign_in" class="login-form margin-clear" id="new_user" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="9OBo4d1ibNqwGwq2mhJvKTvPHhmqMugIeE79/20Cgb//dHdxNvyHdza7q8fCZZWZJ9WEsgaMi9NZx/z/vJYn/w=="/>
 <div class="form-group has-feedback">
 <label class="control-label">이메일 주소</label>
 <input autofocus="autofocus" class="form-control" id="user_email" name="user[email]" placeholder="" type="email" value=""/>
@@ -435,12 +435,12 @@ ga("send","pageview");
 <div class="divider"></div>
 <ul class="menu">
 <li class="col-lg-6">
-<a href="/companies/bellins/products">
-<i class="menus bellins" style="margin-left:-15px;"></i> 벨아이앤에스
-</a> </li>
-<li class="col-lg-6">
 <a href="/companies/jiransoft/products">
 <i class="menus jiransoft" style="margin-left:-15px;"></i> 지란지교소프트
+</a> </li>
+<li class="col-lg-6">
+<a href="/companies/synapsoft/products">
+<i class="menus synapsoft" style="margin-left:-15px;"></i> 사이냅소프트
 </a> </li>
 </ul>
 </div>
@@ -448,8 +448,8 @@ ga("send","pageview");
 <div class="divider"></div>
 <ul class="menu">
 <li class="col-lg-6">
-<a href="/companies/synapsoft/products">
-<i class="menus synapsoft" style="margin-left:-15px;"></i> 사이냅소프트
+<a href="/companies/bellins/products">
+<i class="menus bellins" style="margin-left:-15px;"></i> 벨아이앤에스
 </a> </li>
 </ul>
 </div>
@@ -674,16 +674,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <ul class="list" style="min-height: 700px;">
 <div class="tags-cloud2 mb-10" style="color: #000000; margin-top: -20px;">
 <div class="tag">
-<a href="/seminars/2213" title="CrowdStrike l 다온기술 - [0904] CrowdStrike Cloud Security가 필요한 이유">04일 (목)</a>
-</div>
-<div class="tag">
 <a href="/seminars/1899" title="(사)한국인터넷전문가협회 - 2025 UX 디렉터 세미나">10일 (수)</a>
 </div>
 <div class="tag">
 <a href="/seminars/2209" title="엠클라우드브리지 - [무료 웨비나] 9/10(수) Ai 365 Ai Agent LLM 웨비나 초청 및 도입지원 프로그램 _ 기업 맞춤 Copilot LLM 패키지로 업무효율성을 극대화 하세요!">10일 (수)</a>
 </div>
 <div class="tag">
+<a href="/seminars/2222" title="KOSS | 한국소프트웨어서비스 - Microsoft 365 Copilot 라이브 데모 웨비나">10일 (수)</a>
+</div>
+<div class="tag">
 <a href="/seminars/2211" title="엠클라우드브리지 - [무료 웨비나] 9/11(목) Ai 365 Agent 웨비나 _ AI 시대, Ai 365 Agent(지식관리/데이터/업무지원)를 통한 업무 효율 극대화로 기업 경쟁력을 강화하세요!">11일 (목)</a>
+</div>
+<div class="tag">
+<a href="/seminars/2221" title="Sumo Logic - [0916] 분산된 로그 속 진실을 하나로! 클라우드 네이티브 수집과 분석">16일 (화)</a>
 </div>
 <div class="tag">
 <a href="/seminars/2204" title="Dell Technologies - 선착순 얼리버드 오픈! 기술의 미래, #DellTechForum에서.">17일 (수)</a>
@@ -726,6 +729,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd>2025-09-30(화) 09:00 ~ 18:00</dd>
 <dt>장소</dt>
 <dd>고객사로 출강</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -760,6 +765,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd>2025-09-18(목) 14:00 ~ 16:00</dd>
 <dt>장소</dt>
 <dd>서울 강남 예정</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -779,6 +786,24 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt>장소</dt>
 <dd>서울 강남구 영동대로 513 서울 코엑스 컨벤션 센터 </dd>
 <dt>댓글</dt>
+<dd>2개의 댓글이 있습니다.</dd>
+</dl>
+</li>
+<li>
+<figure style="background-image: url('https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/tool/seminar/thumbnail_image/2221/low_0916_thumbnail_sharedit.png');"></figure>
+<header>
+<span class="sponsor">
+               	    Sumo Logic
+               </span>
+<span class="category">웨비나</span>
+<strong>
+<a href="/seminars/2221" title="[0916] 분산된 로그 속 진실을 하나로! 클라우드 네이티브 수집과 분석">[0916] 분산된 로그 속 진실을 하나로! 클라우드 네이티브 수집과 분석</a>
+</strong>
+</header>
+<dl class="info">
+<dt>일시</dt>
+<dd>2025-09-16(화) 14:00 ~ 15:00</dd>
+<dt>댓글</dt>
 <dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
@@ -796,22 +821,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <dl class="info">
 <dt>일시</dt>
 <dd>2025-09-10(수) 14:00 ~ 15:10</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
-<figure style="background-image: url('https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/tool/seminar/thumbnail_image/2213/low_0904_thumbnail_sharedit.png');"></figure>
+<figure style="background-image: url('https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/tool/seminar/thumbnail_image/2222/low_Copilot_%EC%9B%A8%EB%B9%84%EB%82%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png');"></figure>
 <header>
 <span class="sponsor">
-               	    CrowdStrike l 다온기술
+               	    KOSS | 한국소프트웨어서비스
                </span>
 <span class="category">웨비나</span>
 <strong>
-<a href="/seminars/2213" title="[0904] CrowdStrike Cloud Security가 필요한 이유">[0904] CrowdStrike Cloud Security가 필요한 이유</a>
+<a href="/seminars/2222" title="Microsoft 365 Copilot 라이브 데모 웨비나">Microsoft 365 Copilot 라이브 데모 웨비나</a>
 </strong>
 </header>
 <dl class="info">
 <dt>일시</dt>
-<dd>2025-09-04(목) 14:00 ~ 15:00</dd>
+<dd>2025-09-10(수) 09:30 ~ 23:30</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -830,6 +859,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd>2025-09-26(금) 13:10 ~ 17:30</dd>
 <dt>장소</dt>
 <dd>서울시 강남구 테헤란로 518 (대치동) 섬유센터 11층 위워크 삼성2호점 컨퍼런스룸</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -848,6 +879,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd>2025-09-25(목) 13:10 ~ 17:30</dd>
 <dt>장소</dt>
 <dd>서울시 강남구 테헤란로 518 (대치동) 섬유센터 11층 위워크 삼성2호점 컨퍼런스룸</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -864,6 +897,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dl class="info">
 <dt>일시</dt>
 <dd>2025-09-17(수) 14:00 ~ 15:10</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -880,6 +915,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dl class="info">
 <dt>일시</dt>
 <dd>2025-09-17(수) 14:00 ~ 15:10</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -896,6 +933,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <dl class="info">
 <dt>일시</dt>
 <dd>2025-09-11(목) 14:00 ~ 15:10</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 <li>
@@ -916,6 +955,24 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd>서울 강남구 테헤란로 134 포스코타워 역삼 3F 이벤트홀</dd>
 <dt>댓글</dt>
 <dd>3개의 댓글이 있습니다.</dd>
+</dl>
+</li>
+<li>
+<figure style="background-image: url('https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/tool/seminar/thumbnail_image/2213/low_0904_thumbnail_sharedit.png');opacity: .2;"></figure>
+<header>
+<span class="sponsor">
+<small><i aria-hidden="true" class="fa fa-info-circle"> 종료 되었습니다.</i></small>
+</span>
+<span class="category">웨비나</span>
+<strong>
+<a href="/seminars/2213" title="[0904] CrowdStrike Cloud Security가 필요한 이유">[0904] CrowdStrike Cloud Security가 필요한 이유</a>
+</strong>
+</header>
+<dl class="info">
+<dt>일시</dt>
+<dd>2025-09-04(목) 14:00 ~ 15:00</dd>
+<dt>댓글</dt>
+<dd>1개의 댓글이 있습니다.</dd>
 </dl>
 </li>
 </ul>
@@ -962,44 +1019,31 @@ document.addEventListener('DOMContentLoaded', function() {
 </ul>
 </section>
 </div>
-<div class="block clearfix object-non-visible animated object-visible fadeInDownSmall">
-<h5 class="title"><i class="fa fa-connectdevelop"></i> 설문 조사<small> - Event</small></h5>
-<div class="separator-2"></div>
-<ul class="nav product-brands-list">
-<li>
-<a ,="" href="/promotions/1901" title=" [한정 이벤트] 기업 IT 인프라 트렌드 설문 + 스타벅스 커피 &amp; 백서 증정 "> [한정 이벤트] 기업  (설문조사)<span>D-4</span></a>
-</li>
-</ul>
-</div>
 <div class="block clearfix">
 <h5 class="title">세미나 / 프로모션 리스트</h5>
 <div class="separator-2"></div>
 <ul class="nav product-brands-list">
 <li>
-<a ,="" href="/seminars/2218" title="[무료 웨비나] 9월 Microsoft 365 보안 EMS 웨비나 초청 및 도입지원 프로그램 _ 랜섬웨어 예방을 위한 매니지드 서비스도 함께 확인하세요!">[무료 웨비나] 9월 M (웨비나)	<span>D-16</span></a>
+<a ,="" href="/seminars/2216" title=" 9/18(목) 안티랜섬웨어 선제타격의 A to Z 세미나"> 9/18(목) 안티랜섬 (세미나)	<span>D-10</span></a>
 </li>
 <li>
-<a ,="" href="/seminars/2210" title="[기업 교육] 기업 대상 사내 업무 지원 AI Agent 개발 정규 교육">[기업 교육] 기업 대상 (교육)	<span>D-29</span></a>
 </li>
 <li>
-<a ,="" href="/promotions/1897" title="겟스크린미로 원격지원 S/W 전환하고 최대 18개월 무상혜택 받자!">겟스크린미로 원격지원 S (할인혜택)<span>D-59
+<a ,="" href="/seminars/2204" title="선착순 얼리버드 오픈! 기술의 미래, #DellTechForum에서.">선착순 얼리버드 오픈!  (세미나)	<span>D-9</span></a>
+</li>
+<li>
+<a ,="" href="/seminars/2215" title="[0918] 클라우드 시대의 새롭게 쓰는 통합 보안 전략">[0918] 클라우드 시 (웨비나)	<span>D-10</span></a>
+</li>
+<li>
+<a ,="" href="/seminars/2210" title="[기업 교육] 기업 대상 사내 업무 지원 AI Agent 개발 정규 교육">[기업 교육] 기업 대상 (교육)	<span>D-22</span></a>
+</li>
+<li>
+<a ,="" href="/seminars/2221" title="[0916] 분산된 로그 속 진실을 하나로! 클라우드 네이티브 수집과 분석">[0916] 분산된 로그 (웨비나)	<span>D-8</span></a>
+</li>
+<li>
+<a ,="" href="/promotions/1877" title="900명 이상의 IT리더들의 인사이트를 바탕으로 제작된 CIO Playbook2025를 다운받으시고 시원한 아이스크림 기프티콘도 받으십시오!">900명 이상의 IT리더 (자료다운로)<span>D-11
 									
 								</span></a>
-</li>
-<li>
-<a ,="" href="/seminars/2215" title="[0918] 클라우드 시대의 새롭게 쓰는 통합 보안 전략">[0918] 클라우드 시 (웨비나)	<span>D-17</span></a>
-</li>
-<li>
-<a ,="" href="/promotions/1899" title="[네이버페이 1만 포인트] 소버린 AI: 디지털 주권을 위한 필수 전략– 최신 IDC 백서 다운로드">[네이버페이 1만 포인트 (자료다운로)<span>D-18
-									
-								</span></a>
-</li>
-<li>
-<a ,="" href="/promotions/1890" title="해킹알리미 사용료 무료, 사용기간 무제한 DOWNLOAD">해킹알리미 사용료 무료, (기타)<span>D-12
-									
-								</span></a>
-</li>
-<li>
 </li>
 </ul>
 </div>
@@ -1018,21 +1062,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="separator-2"></div>
 <div class="overlay-container overlay-visible" style="width: 100%; border: 1px solid #eee; height:220px; display:table-cell;vertical-align:middle;">
 <div class="sponsor-ad-box" style="width:260px;">
-<img alt="Medium %ec%96%b4%ec%8b%9c%ec%8a%a4%ed%84%b4%ed%8a%b8 %ea%b5%ad%eb%ac%b8 " onclick='ga("send","event","it.infra.evaluations","evaluations.product.click.sponsor_ad","851",null);' src="https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/product/logo/851/medium_%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8_%EA%B5%AD%EB%AC%B8_.png"/>
+<img alt="Medium %eb%b9%84%eb%94%94%ec%98%a4%ed%94%84%eb%a0%88%ec%86%8c %ec%8d%b8%eb%84%a4%ec%9d%bc" onclick='ga("send","event","it.infra.evaluations","evaluations.product.click.sponsor_ad","641",null);' src="https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/product/logo/641/medium_%EB%B9%84%EB%94%94%EC%98%A4%ED%94%84%EB%A0%88%EC%86%8C-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg"/>
 </div>
-<a class="overlay-link" href="/evaluations/products/851">
+<a class="overlay-link" href="/evaluations/products/641">
 <i class="fa fa-link"></i>
 </a>
 <div class="overlay-bottom hidden-xs" style="padding: 10px;">
 <div class="text">
-<p class="lead margin-clear text-left" style="font-size: 16px;">사이냅 어시스턴트</p>
+<p class="lead margin-clear text-left" style="font-size: 16px;">콘텐츠 용량 최적화, 비디오프레소</p>
 </div>
 </div>
 </div>
 <script>
     ;(function($){
       $(function(){
-        ga("send","event","it.infra.evaluations","evaluations.product.impression.sponsor_ad","851",null);
+        ga("send","event","it.infra.evaluations","evaluations.product.impression.sponsor_ad","641",null);
       });
     })(jQuery);
   </script>
@@ -1054,19 +1098,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <nav>
 <ul class="nav product-brands-list">
 <li>
-<a href="/promotions/1857" rel="nofollow" target="_self" title="정보 참고하겠습니다">정보 참고하겠습니다<span>프로모션</span></a>
+<a href="/seminars/2213" rel="nofollow" target="_self" title="잘 들었습니다. 유익한 시간 감사합니다">잘 들었습니다. 유익한 시간 감<span>세미나</span></a>
 </li>
 <li>
-<a href="/promotions/1829" rel="nofollow" target="_self" title="check">check<span>프로모션</span></a>
+<a href="/posts/35173" rel="nofollow" target="_self" title="멀티클라우드 기반 TMS 정보 참고하겠습니다">멀티클라우드 기반 TMS 정보 <span>테크박스</span></a>
 </li>
 <li>
-<a href="/promotions/1814" rel="nofollow" target="_self" title="check">check<span>프로모션</span></a>
+<a href="/posts/35173" rel="nofollow" target="_self" title="참고 하겠습니다. ">참고 하겠습니다. <span>테크박스</span></a>
 </li>
 <li>
-<a href="/promotions/1813" rel="nofollow" target="_self" title="check">check<span>프로모션</span></a>
+<a href="/posts/35174" rel="nofollow" target="_self" title="참고 하겠습니다. ">참고 하겠습니다. <span>테크박스</span></a>
 </li>
 <li>
-<a href="/promotions/1897" rel="nofollow" target="_self" title="check">check<span>프로모션</span></a>
+<a href="/posts/35175" rel="nofollow" target="_self" title="참고 하겠습니다. ">참고 하겠습니다. <span>테크박스</span></a>
 </li>
 </ul>
 </nav>
@@ -1096,7 +1140,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <h4 class="modal-title" id="myModalLabel">알림</h4>
 </div>
 <div class="modal-body">
-<p><a href="/cdn-cgi/l/email-protection#4a272b393e2f380a39222b382f2e233e642925642138"><span class="__cf_email__" data-cfemail="dcb1bdafa8b9ae9cafb4bdaeb9b8b5a8f2bfb3f2b7ae">[email protected]</span></a>로 내용과 파일을 첨부해 보내 주시면 검토 후 업로드 됩니다.<br/>
+<p><a href="/cdn-cgi/l/email-protection#b8d5d9cbccddcaf8cbd0d9cadddcd1cc96dbd796d3ca"><span class="__cf_email__" data-cfemail="117c70626574635162797063747578653f727e3f7a63">[email protected]</span></a>로 내용과 파일을 첨부해 보내 주시면 검토 후 업로드 됩니다.<br/>
 <a href="/memberships">멤버십</a>에 가입하신 후 직접 업로드를 하실 수 있습니다.</p>
 </div>
 </div>
@@ -1117,7 +1161,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <h3 class="title">IT 세미나/교육/프로모션 정보 구독 신청</h3>
 <p>새로운 세미나/교육/프로모션 정보를 메일로 편하게 받아 보세요. 정기적으로 보내 드립니다.</p>
 <div class="separator"></div>
-<form accept-charset="UTF-8" action="/promotions/email_subscribe" class="form-inline margin-clear" id="" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="KWhZavVHlKe7stix2CYDYMNDxrHPts4OTC2f/lzhjQzzTJ/cbi0W4UvlToMfubwEa7tH1ly75q9g49KKMyrBTg=="/>
+<form accept-charset="UTF-8" action="/promotions/email_subscribe" class="form-inline margin-clear" id="" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="MY5pG4nlGly+8+WLM9K6fF/sqad8hQ3FRRrkeCCwHw06GnaLYnvx8ThTRPprpUDMQ/YzDNA7bh5kk+V48SS5TQ=="/>
 <div class="form-group has-feedback">
 <label class="sr-only" for="subscribe2">Email address</label>
 <input class="form-control" id="email" name="email" placeholder="Enter email" required="required" type="text"/>
@@ -1162,7 +1206,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li><i class="text-default fa fa-id-card-o pr-5"></i>사업자 등록번호 : 144-81-29382</li>
 <li><i class="text-default fa fa-id-card-o pr-5"></i>통신판매업신고 : 2017-용인수지-0227</li><br/>
 <li><i class="text-default fa fa-map-marker pr-5"></i>(주) 쉐어드커뮤니케이션</li>
-<li><a class="link-dark" href="/cdn-cgi/l/email-protection#a6cbc7d5d2c3d4e6d5cec7d4c3c2cfd288c5c988cdd4"><i class="text-default fa fa-envelope-o pr-5"></i><span class="__cf_email__" data-cfemail="5538342621302715263d342730313c217b363a7b3e27">[email protected]</span></a></li>
+<li><a class="link-dark" href="/cdn-cgi/l/email-protection#3e535f4d4a5b4c7e4d565f4c5b5a574a105d5110554c"><i class="text-default fa fa-envelope-o pr-5"></i><span class="__cf_email__" data-cfemail="c2afa3b1b6a7b082b1aaa3b0a7a6abb6eca1adeca9b0">[email protected]</span></a></li>
 </ul>
 <ul class="list-inline small" style="margin-top: -9px">
 <li><i class="text-default fa fa-lock pr-5"></i><strong> <a class="link-dark" href="/welcome/terms_of_service" style="color: #777777;" target="_blank">이용약관</a> | <a class="link-dark" href="/welcome/personal_information" style="text-decoration: underline!important;" target="_blank">개인정보처리방침</a></strong></li>
@@ -1251,6 +1295,6 @@ document.addEventListener('DOMContentLoaded', function() {
       });
   });
 </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'977fdd4d0da9ebe7',t:'MTc1NjY3ODI5NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"24c0684dfaa9483a9ff2b683fac3f4a4","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"></script>
-</body>
+<script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"24c0684dfaa9483a9ff2b683fac3f4a4","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97b98a788c932aab',t:'MTc1NzI4MzA3NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
