@@ -81,7 +81,7 @@ var IDG = {"settings":{"cmp":{"account":{"id":"146","base_endpoint":"https:\/\/c
 </script>
 <script id="third-party-integrations-script-js-before">
 			window.dataLayer = window.dataLayer || [];
-			window.dataLayer.push({"adBlockerEnabled":true,"arenaId":"","audience":"enterprise","ccpaOptedOut":"false","environment":"wp_production","sessionNumber":"@TODO","firstSessionDate":"@TODO","lastSessionDate":"@TODO","timestamp":1757283071,"url":"https:\/\/www.itworld.co.kr\/events\/","triblioPixelCode":"","prodIds":"","prodCategories":"","prodManufacturers":"","prodNames":"","prodVendors":"","categories":"","categoryIds":"","categoriesSlugs":"","channel":"","primaryCategory":"","primaryAncestorCategoryList":"","primaryAncestorCategoryListSlugs":"","ancestorGoldenCategories":"","goldenTaxonomyIdPrimary":"","gtaxPrimaryIdsList":"","gtaxPrimarySlugsList":"","gtaxIdList":"","gtaxList":"","bcGtaxIdList":[],"bcGtaxList":[],"language":"Korean","articleId":"100000426","articleTitle":"\ucee8\ud37c\ub7f0\uc2a4","articleType":"","author":"M\u00fcller Magnus","isBlog":"false","blogname":"","blogId":"","brandpost":"false","content_type":"events index","datePublished":"2024-10-16","dateUpdate":"2024-11-19","dateTimePublished":"2024-10-16T07:35:35+00:00","dateTimeUpdate":"2024-11-19T13:14:54+00:00","dateFirstPublished":false,"dateFirstTimePublished":false,"daysSincePublished":"","daysSinceUpdated":"292","description":"","displayType":"events index","fireplace":"false","pageNumber":"1","page_type":"other","platform":"web","podcastSponsored":"false","property":"itworld","source":"","sponsorName":"","sponsorshipId":"","tags":[],"legacyCmsId":"","edition":"","articleLocale":"","isInsiderContent":"false","insiderSignedIn":"true","adSuppression":"false","BCUID":"","legacyCmsName":"","idgAppID":{"SITE_TYPE":[{"type":"delivery","site":"itworld.co.kr","sourcecms":"onecms","connectedhub":"b2b","staff":"ITW Staff","brand":"ITW"}],"IDG_APP_ID":10087},"adestraId":""});
+			window.dataLayer.push({"adBlockerEnabled":true,"arenaId":"","audience":"enterprise","ccpaOptedOut":"false","environment":"wp_production","sessionNumber":"@TODO","firstSessionDate":"@TODO","lastSessionDate":"@TODO","timestamp":1757887857,"url":"https:\/\/www.itworld.co.kr\/events\/","triblioPixelCode":"","prodIds":"","prodCategories":"","prodManufacturers":"","prodNames":"","prodVendors":"","categories":"","categoryIds":"","categoriesSlugs":"","channel":"","primaryCategory":"","primaryAncestorCategoryList":"","primaryAncestorCategoryListSlugs":"","ancestorGoldenCategories":"","goldenTaxonomyIdPrimary":"","gtaxPrimaryIdsList":"","gtaxPrimarySlugsList":"","gtaxIdList":"","gtaxList":"","bcGtaxIdList":[],"bcGtaxList":[],"language":"Korean","articleId":"100000426","articleTitle":"\ucee8\ud37c\ub7f0\uc2a4","articleType":"","author":"M\u00fcller Magnus","isBlog":"false","blogname":"","blogId":"","brandpost":"false","content_type":"events index","datePublished":"2024-10-16","dateUpdate":"2024-11-19","dateTimePublished":"2024-10-16T07:35:35+00:00","dateTimeUpdate":"2024-11-19T13:14:54+00:00","dateFirstPublished":false,"dateFirstTimePublished":false,"daysSincePublished":"","daysSinceUpdated":"299","description":"","displayType":"events index","fireplace":"false","pageNumber":"1","page_type":"other","platform":"web","podcastSponsored":"false","property":"itworld","source":"","sponsorName":"","sponsorshipId":"","tags":[],"legacyCmsId":"","edition":"","articleLocale":"","isInsiderContent":"false","insiderSignedIn":"true","adSuppression":"false","BCUID":"","legacyCmsName":"","idgAppID":{"SITE_TYPE":[{"type":"delivery","site":"itworld.co.kr","sourcecms":"onecms","connectedhub":"b2b","staff":"ITW Staff","brand":"ITW"}],"IDG_APP_ID":10087},"adestraId":""});
 			(function(){
 		const isContentPassOn = false;
 
@@ -386,7 +386,7 @@ var IDG = {"settings":{"cmp":{"account":{"id":"146","base_endpoint":"https:\/\/c
 							let postId = element.getAttribute('post_id');
 							let podcastIframe = document.createElement("iframe");
 							const siteUrl = document.location.origin;
-							podcastIframe.src = siteUrl+"/podcast-player?id="+postId+"&position="+count+'&_ajaxnonce=622b342625';
+							podcastIframe.src = siteUrl+"/podcast-player?id="+postId+"&position="+count+'&_ajaxnonce=b3b60f0c15';
 							podcastIframe.width = "100%";
 							podcastIframe.frameBorder ="0";
 							podcastIframe.scrolling = "0";
@@ -1208,25 +1208,25 @@ var IDG = {"settings":{"cmp":{"account":{"id":"146","base_endpoint":"https:\/\/c
 <section class="suggested-content-various"><div class="container"><div class="grid suggested-content-various__content"><div class="col-12 col-3@lg">
 <h2 class="suggested-content-various__title">추천 콘텐츠</h2><div class="suggested-content-various__filters"><span class="suggested-content-various__filter"><button class="chip chip--filter chip--active" data-filter-key="latest" type="button">Latest</button></span></div>
 </div><div class="col-12 col-9@lg suggested-content-various__items-wrap"><div class="grid grid--cols-9@lg suggested-content-various__items"><div class="col-4@md col-3@lg suggested-content-various__item suggested-content-various__item--active" data-filter-value="
-				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4051914/%ec%99%b8%eb%a1%9c%ec%9b%80-%eb%8b%ac%eb%9e%98%eb%a0%a4%eb%8b%a4-%eb%b9%a0%ec%a7%80%eb%8a%94-%ea%b0%90%ec%a0%95%ec%9d%98-%ed%95%a8%ec%a0%95-ai-%ec%b1%97%eb%b4%87%ec%9d%80.html"><div class="card">
+				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4056224/%eb%b2%94%ec%9d%b8%ec%9d%80-%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8%ea%b0%80-%ec%95%84%eb%8b%88%eb%8b%a4-ssd%eb%a5%bc-%eb%a7%9d%ea%b0%80%eb%9c%a8%eb%a6%ac.html"><div class="card">
 <div class="card__header">
-<span class="card__content-type">오피니언</span> </div> <h3 class="card__title">외로움 달래려다 빠지는 ‘감정의 함정’... AI 챗봇은 친구가 아니다 </h3> <div class="card__info"><span>By Steven Vaughan-Nichols</span></div><div class="card__info card__info--light"><span content="2025-09-05T03:18:56+00:00" itemprop="datePublished">2025.09.05</span><span>5분</span></div>
-<div class="card__tags"><span class="card__tag"><span class="tag">생성형 AI</span></span></div></div>
-<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4051914-0-99597500-1757042353-woman_alone_in_forest_lost_confused_confusion_uncertainty_uncertain_future_challenges_by_gremlin_gettyimages-1077780070_2400x1600-100854063-orig.jpg?quality=50&amp;strip=all&amp;w=375"/></div>
+<span class="card__content-type">하우투</span> </div> <h3 class="card__title">“범인은 윈도우 업데이트가 아니다” SSD를 망가뜨리는 위험한 실수 5가지</h3> <div class="card__info"><span>By Chris Hoffman</span></div><div class="card__info card__info--light"><span content="2025-09-12T07:04:39+00:00" itemprop="datePublished">2025.09.12</span><span>5분</span></div>
+<div class="card__tags"><span class="card__tag"><span class="tag">퍼스널 컴퓨팅</span></span><span class="card__tag"><span class="tag">플래시 스토리지</span></span></div></div>
+<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4056224-0-43575800-1757660721-Aorus-Gen5-10000-PCIe-SSD.jpg?quality=50&amp;strip=all&amp;w=444"/></div>
 </a>
 </div><div class="col-4@md col-3@lg suggested-content-various__item suggested-content-various__item--active" data-filter-value="
-				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4051848/ciso%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%8b%a4%ed%81%ac%ec%9b%b9-%eb%aa%a8%eb%8b%88%ed%84%b0%eb%a7%81-%ea%b0%80%ec%9d%b4%eb%93%9c.html"><div class="card">
+				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4056205/%ed%98%84%eb%8c%80-%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%a5%bc-%ec%9c%84%ed%95%9c-9%ea%b0%80%ec%a7%80-%ed%95%b5%ec%8b%ac-%ea%b0%9c%eb%85%90.html"><div class="card">
 <div class="card__header">
-<span class="card__content-type">분석</span> </div> <h3 class="card__title">CISO를 위한 다크웹 모니터링 가이드</h3> <div class="card__info"><span>By Josh Fruhlinger</span></div><div class="card__info card__info--light"><span content="2025-09-05T02:07:40+00:00" itemprop="datePublished">2025.09.05</span><span>9분</span></div>
-<div class="card__tags"><span class="card__tag"><span class="tag">IT 리더십</span></span><span class="card__tag"><span class="tag">보안</span></span></div></div>
-<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4051848-0-90695000-1757038065-cso_security_dark-web_hacker_breach_storm_detective_gettyimages-1062560098_by-grandfailure_2400x1600px-100861751-orig-100942742-orig.jpg?quality=50&amp;strip=all&amp;w=375"/></div>
+<span class="card__content-type">기획</span> </div> <h3 class="card__title">현대 자바스크립트를 위한 9가지 핵심 개념</h3> <div class="card__info"><span>By Matthew Tyson</span></div><div class="card__info card__info--light"><span content="2025-09-12T06:52:30+00:00" itemprop="datePublished">2025.09.12</span><span>8분</span></div>
+<div class="card__tags"><span class="card__tag"><span class="tag">자바스크립트</span></span><span class="card__tag"><span class="tag">프로그래밍 언어</span></span><span class="card__tag"><span class="tag">타입스크립트</span></span></div></div>
+<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4056205-0-84219400-1757659962-shutterstock_380441044.jpg?quality=50&amp;strip=all&amp;w=416"/></div>
 </a>
 </div><div class="col-4@md col-3@lg suggested-content-various__item suggested-content-various__item--active" data-filter-value="
-				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4051897/10%eb%85%84%ea%b0%84-%ea%b0%90%ec%97%bc-%ec%a0%9c%eb%a1%9cpc%eb%a5%bc-%ec%95%88%ec%a0%84%ed%95%98%ea%b2%8c-%ec%a7%80%ed%82%a8-7%ea%b0%80%ec%a7%80-%eb%b9%84%ea%b2%b0.html"><div class="card">
+				latest,article"><a aria-label="Go to content" class="suggested-content-various__link" href="https://www.itworld.co.kr/article/4056190/%eb%98%91%eb%98%91%ed%95%9c-%eb%b3%b4%ec%95%88%ed%8c%80%ec%9d%80-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%93%b4%eb%8b%a4%ec%8b%a4%eb%ac%b4%ec%97%90%ec%84%9c-%ea%b2%80%ec%a6%9d%eb%90%9c-ai-%ed%99%9c.html"><div class="card">
 <div class="card__header">
-<span class="card__content-type">기획</span> </div> <h3 class="card__title">10년간 맬웨어 감염 ‘제로’…PC를 안전하게 지킨 7가지 비결</h3> <div class="card__info"><span>By Dominic Bayley</span></div><div class="card__info card__info--light"><span content="2025-09-05T01:59:11+00:00" itemprop="datePublished">2025.09.05</span><span>3분</span></div>
-<div class="card__tags"><span class="card__tag"><span class="tag">퍼스널 컴퓨팅</span></span><span class="card__tag"><span class="tag">보안</span></span></div></div>
-<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4051897-0-26448500-1757037685-shutterstock_2550174839.jpg?quality=50&amp;strip=all&amp;w=375"/></div>
+<span class="card__content-type">기획</span> </div> <h3 class="card__title">똑똑한 보안팀은 이렇게 쓴다…실무에서 검증된 AI 활용법 5가지</h3> <div class="card__info"><span>By Rosalyn Page</span></div><div class="card__info card__info--light"><span content="2025-09-12T05:57:45+00:00" itemprop="datePublished">2025.09.12</span><span>9분</span></div>
+<div class="card__tags"><span class="card__tag"><span class="tag">생성형 AI</span></span><span class="card__tag"><span class="tag">위험 관리</span></span><span class="card__tag"><span class="tag">보안 운영 센터</span></span></div></div>
+<div class="image"><img alt="이미지" src="https://www.itworld.co.kr/wp-content/uploads/2025/09/4056190-0-34460400-1757656689-one-glowing-light-bulb-standing-out-from-the-unlit-incandescent-bulbs-on-cyan-background-with.jpgs1024x1024wisk20cjcs3kzzpf1ftkskqmqys7bbfb6bjcafkmxlp75fkbzy-100937210-orig.jpg?quality=50&amp;strip=all&amp;w=375"/></div>
 </a>
 </div></div></div></div></div></section>
 <br/>
@@ -1238,7 +1238,7 @@ var IDG = {"settings":{"cmp":{"account":{"id":"146","base_endpoint":"https:\/\/c
 <h2 class="newsletter-subscription-inline__title">글로벌 뉴스와 IT 트렌드 보고서를 무료로 받으세요!</h2> <div class="newsletter-subscription-inline__text">
 						이메일 주소를 입력해 쉽게 가입할 수 있습니다.					</div>
 <form id="single-nl-form" method="post">
-<input id="newsletter_signup_nonce" name="newsletter_signup_nonce" type="hidden" value="4b4e0919f4"/><input name="_wp_http_referer" type="hidden" value="/events/"/> <div class="newsletter-subscription-inline__input-container">
+<input id="newsletter_signup_nonce" name="newsletter_signup_nonce" type="hidden" value="a7028bfc7b"/><input name="_wp_http_referer" type="hidden" value="/events/"/> <div class="newsletter-subscription-inline__input-container">
 <div class="newsletter-subscription-inline__input">
 <div class="email-field">
 <input class="email-field__input" id="nl_user_email" name="nl_user_email" placeholder="이메일 주소를 입력해 주세요" type="email"/>
@@ -1645,17 +1645,17 @@ var IDG = {"settings":{"cmp":{"account":{"id":"146","base_endpoint":"https:\/\/c
 				});
 			</script>
 <script id="child_ajaxload_posts-js-extra">
-var ajaxload_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"12b28984b1"};
+var ajaxload_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"2ab9e5dd59"};
 </script>
 <script id="frontend-scripts-js-extra">
 var siteData = {"site":"itworld.co.kr","connectedhub":"b2b"};
 var googleSearch = {"search_engine_id":"916a04a5ca6944709","search_title":"Search","search_slug":"search"};
 </script>
 <script id="ajaxload_posts-js-extra">
-var ajaxload_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"34716510a1"};
+var ajaxload_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"ce0b260a14"};
 </script>
 <script id="ajaxload_events-js-extra">
-var ajaxload_event_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"70c9d7036f"};
+var ajaxload_event_params = {"ajaxurl":"https:\/\/www.itworld.co.kr\/wp-admin\/admin-ajax.php","nonce":"4783dc58d7"};
 </script>
 <script src="https://www.itworld.co.kr/_static/??-eJyl0NEKwjAMBdAfMhZFp3sQv6Vt6tbZtaVJnf69dQ9DwSHMp0Dgnlwihgg6eDaehXa2DOgzRJcb60lYbIBbmxCiTPwQaIkF6WQjk7ikMYegkvQYAzEoF/R13dFKvLHcmt4UiwdQWwW6tQ5hXH56spN3FyRCI9mUiwWkOav0ellKkvlGqezRmYXhqcc/DSbE3EpqVvn5kxiXRsdVCZ/70+awr+r6WO3q7gl63reH" type="text/javascript"></script><script id="enqueued-script-consent-manager-js" src="https://www.itworld.co.kr/wp-content/themes/idg-b2b-base-theme/lib/scripts/class.ConsentManager.js?ver=1.0.1"></script>
 <script id="enqueued-script-consent-manager-js-after">
