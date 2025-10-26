@@ -1046,6 +1046,66 @@
 <tbody>
 <tr>
 <th class="col-xs-1 text-center" scope="row">
+<a href="763">763</a>
+</th>
+<td class="col-xs-5">
+<a href="763">[모집중] 전국 중소기업 및 주요 CISO 대상 순회 사이버보안 교육, 침해사고 무료점검 설명회 11월 참가자 모집</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="763">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="763">2025년 10월 21일 4:56 오후</a>
+</td>
+</tr>
+</tbody>
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="762">762</a>
+</th>
+<td class="col-xs-5">
+<a href="762">한국게임산업협회 &amp; 한국정보보호산업협회 공동주관 사이버 보안 기술 세미나 개최 안내 (10.27)</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="762">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="762">2025년 10월 21일 4:43 오후</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="761">761</a>
+</th>
+<td class="col-xs-5">
+<a href="761">2025년 정보보호산업 발전 유공 장관표창 후보자 추천 안내(~10. 29.(수))</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="761">홍보협력팀</a>
+</td>
+<td class="col-xs-3">
+<a href="761">2025년 10월 21일 1:30 오후</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="760">760</a>
+</th>
+<td class="col-xs-5">
+<a href="760">[KISIA] 2025 ACDC 전시참가 및 협찬 신청 안내(~10. 30.(목))</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="760">홍보협력팀</a>
+</td>
+<td class="col-xs-3">
+<a href="760">2025년 10월 20일 7:14 오후</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
 <a href="759">759</a>
 </th>
 <td class="col-xs-5">
@@ -1058,7 +1118,7 @@
 <a href="759">2025년 10월 10일 5:15 오후</a>
 </td>
 </tr>
-</tbody>
+
 <tr>
 <th class="col-xs-1 text-center" scope="row">
 <a href="758">758</a>
@@ -1131,66 +1191,6 @@
 </td>
 <td class="col-xs-3">
 <a href="754">2025년 9월 9일 11:18 오전</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="753">753</a>
-</th>
-<td class="col-xs-5">
-<a href="753">[모집중] 2025 정보보호제품 CC 수습평가자 양성교육 : CC평가자로 가는 첫걸음 교육생 모집</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="753">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="753">2025년 9월 1일 12:56 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="750">750</a>
-</th>
-<td class="col-xs-5">
-<a href="750">[마감] 국내 기업 정보보호 강화 지원을 위한 보안 솔루션 공급기업 모집(~9/2)</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="750">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="750">2025년 8월 22일 4:50 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="749">749</a>
-</th>
-<td class="col-xs-5">
-<a href="749">[마감] 금융정보보호 컨퍼런스(FISCON 2025) 제품 전시회 참가기업 모집</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="749">홍보협력팀</a>
-</td>
-<td class="col-xs-3">
-<a href="749">2025년 8월 22일 3:00 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="748">748</a>
-</th>
-<td class="col-xs-5">
-<a href="748">[모집중]2025년 국가인적자원개발컨소시엄(개인정보보호 교육) 10월 재직자 교육생 모집</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="748">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="748">2025년 8월 20일 2:13 오후</a>
 </td>
 </tr>
 
