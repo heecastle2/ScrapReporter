@@ -1414,7 +1414,7 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,826</em>건
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,830</em>건
             (1페이지 / 183페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
@@ -1501,7 +1501,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 9883</em>
+<em>조회수 11227</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1578,11 +1578,321 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.12.27</em>
-<em>조회수 2642</em>
+<em>조회수 2740</em>
 </span>
 <span class="writer">
 <em>장호영</em>
 <em>감사실</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28702','16010100','28702');return false;" title="2025년 오픈데이터포럼(ODF) 제1차 열린세미나 개최('25.10.31.)(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년 오픈데이터포럼(ODF) 제1차 열린세미나 개최('25.10.31.)
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.10.29</em>
+<em>조회수 195</em>
+</span>
+<span class="writer">
+<em>정혜린</em>
+<em>공공지능데이터개방팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28698','16010100','28698');return false;" title="「2025 AI NoCode·MCP Hackathon 시즌2」 개최 안내(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             「2025 AI NoCode·MCP Hackathon 시즌2」 개최 안내
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.10.28</em>
+<em>조회수 342</em>
+</span>
+<span class="writer">
+<em>박설빈</em>
+<em>플랫폼혁신팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28697','16010100','28697');return false;" title="양자 테스트베드 – 양자인터넷 회선 지원 이용기관 추가모집(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             양자 테스트베드 – 양자인터넷 회선 지원 이용기관 추가모집
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.10.28</em>
+<em>조회수 93</em>
+</span>
+<span class="writer">
+<em>정래진</em>
+<em>양자기술활용센터</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28690','16010100','28690');return false;" title="2025년 디지털포용 포럼 개최 안내(11.7.(금), 14시)(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년 디지털포용 포럼 개최 안내(11.7.(금), 14시)
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.10.27</em>
+<em>조회수 343</em>
+</span>
+<span class="writer">
+<em>유성희</em>
+<em>디지털포용기획팀</em>
 </span>
 </a>
 </li>
@@ -1656,7 +1966,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.10.24</em>
-<em>조회수 94</em>
+<em>조회수 219</em>
 </span>
 <span class="writer">
 <em>김지영</em>
@@ -1665,7 +1975,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28670','16010100','28670');return false;" title="「AI 응용제품 신속 상용화(AX-Sprint)」 과제(네트워크) 사전 수요조사 공고(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28670','16010100','28670');return false;" title="「AI 응용제품 신속 상용화(AX-Sprint)」 과제(네트워크) 사전 수요조사 공고-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1728,11 +2038,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.10.20</em>
-<em>조회수 629</em>
+<em>조회수 852</em>
 </span>
 <span class="writer">
 <em>윤지영</em>
@@ -1807,7 +2116,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.10.15</em>
-<em>조회수 882</em>
+<em>조회수 1201</em>
 </span>
 <span class="writer">
 <em>신명진</em>
@@ -1882,315 +2191,11 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.10.14</em>
-<em>조회수 316</em>
+<em>조회수 415</em>
 </span>
 <span class="writer">
 <em>이가영</em>
 <em>양자기술활용센터</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28654','16010100','28654');return false;" title="(모집기간 연장) 국산 양자기술 소부장 보급활용 지원사업 -국산 양자기술 소부장 이용 희망 수요처 모집--첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             (모집기간 연장) 국산 양자기술 소부장 보급활용 지원사업 -국산 양자기술 소부장 이용 희망 수요처 모집-
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                    </span>
-<span class="src">
-<em>2025.10.13</em>
-<em>조회수 323</em>
-</span>
-<span class="writer">
-<em>정현철</em>
-<em>양자기술활용센터</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28653','16010100','28653');return false;" title="2025년 디지털정부 해외진출 2차 경력자 과정 온라인 청강 모집 안내-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 디지털정부 해외진출 2차 경력자 과정 온라인 청강 모집 안내
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                    </span>
-<span class="src">
-<em>2025.10.13</em>
-<em>조회수 799</em>
-</span>
-<span class="writer">
-<em>김기택</em>
-<em>글로벌아카데미</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28651','16010100','28651');return false;" title="2025 공공데이터 제공 및 데이터기반행정 평가 운영방안(10.2.) 안내-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025 공공데이터 제공 및 데이터기반행정 평가 운영방안(10.2.) 안내
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.10.02</em>
-<em>조회수 2895</em>
-</span>
-<span class="writer">
-<em>김소영</em>
-<em>지능데이터기반행정팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28644','16010100','28644');return false;" title="2025년 NIA 탄소중립 혁신 아이디어 공모전 안내-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 NIA 탄소중립 혁신 아이디어 공모전 안내
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.10.01</em>
-<em>조회수 1537</em>
-</span>
-<span class="writer">
-<em>이동환</em>
-<em>안전보건환경팀</em>
 </span>
 </a>
 </li>

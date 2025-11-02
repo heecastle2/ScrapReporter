@@ -102,7 +102,7 @@
 </link></link></link></meta></meta></head>
 <head>
 <script type="text/javascript">
-	var totalNum = 1332; // 전체 조회 건수
+	var totalNum = 1335; // 전체 조회 건수
 	var currentPage = 1; // 현재 page 번호
 	var pageSize = 10; // 페이지당 최대 데이터 갯수
 	var pageScale = 5; // 페이지당 최대 페이징 갯수
@@ -188,7 +188,7 @@ function oneDepMenu() {
 </div>
 <div class="board_top">
 <p class="lb count">
-<span>총 <b>1332</b>건
+<span>총 <b>1335</b>건
 								</span> <span>페이지 <b><span id="currentPage"></span>/<span id="totalPage"></span></b></span>
 </p>
 <div class="board_search_box">
@@ -230,49 +230,55 @@ function oneDepMenu() {
 <td class="sbj txtL"><a href="/401/form?postSeq=3541&amp;page=1">2025 블록체인 진흥주간 x 웹 3.0 컨퍼런스 개최 안내(11/4~5, 서울 코엑스)</a>
 </td>
 <td class="date">2025-10-24</td>
-<td class="count">9599</td>
+<td class="count">12406</td>
 <td class="attach">
 </td>
 </tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3555&amp;page=1">2025 ACDC 전시참가 기업 모집 안내(~10.30.)</a>
+<tr>
+<td class="num">1334</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3558&amp;page=1">KISA 누리집 정기점검 안내(25.11.03.(월) 18:00~18:30)</a>
 </td>
-<td class="date">2025-10-22</td>
-<td class="count">2193</td>
+<td class="date">2025-10-30</td>
+<td class="count">1155</td>
 <td class="attach">
 </td>
 </tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3551&amp;page=1">2027년도 개인정보 보호·활용 R&amp;D사업 기술·표준 수요조사(~25년 10월 27일)</a>
+<tr>
+<td class="num">1333</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3557&amp;page=1">2025 글로벌 개인정보 보호 웨비나 개최 안내</a>
 </td>
-<td class="date">2025-10-15</td>
-<td class="count">4986</td>
+<td class="date">2025-10-30</td>
+<td class="count">1308</td>
 <td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3551', 1, 'KO');">
-<img alt="첨부파일 HWPX" src="/resource/kor/images/common/hwpx.png"/>
-</a>
-</td>
-</tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3549&amp;page=1">2025년도 암호모듈검증 전문교육 심화과정 신청·접수 안내(10.13~11.5, 무료/선착순 200명)</a>
-</td>
-<td class="date">2025-10-13</td>
-<td class="count">5675</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3549', 1, 'KO');">
-<img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
+<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3557', 1, 'KO');">
+<img alt="첨부파일 PNG" src="/resource/kor/images/common/png.png"/>
 </a>
 </td>
 </tr>
 <tr>
-<td class="num">1328</td>
+<td class="num">1332</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3556&amp;page=1">2025년도 위치정보 보호조치 비대면 이론교육(6차) 안내</a>
+</td>
+<td class="date">2025-10-29</td>
+<td class="count">1442</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1331</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3555&amp;page=1">2025 ACDC 전시참가 기업 모집 안내(~10.30.)</a>
+</td>
+<td class="date">2025-10-22</td>
+<td class="count">4445</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1330</td>
 <td class="sbj txtL"><a href="/401/form?postSeq=3554&amp;page=1"> 2025 신기술 기반 보안기업 비즈니스·투자 상담회 수요처·투자사 모집 안내(~10.24)</a>
 </td>
 <td class="date">2025-10-17</td>
-<td class="count">3383</td>
+<td class="count">5023</td>
 <td class="attach">
 <a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3554', 1, 'KO');">
 <img alt="첨부파일 HWPX" src="/resource/kor/images/common/hwpx.png"/>
@@ -280,20 +286,20 @@ function oneDepMenu() {
 </td>
 </tr>
 <tr>
-<td class="num">1327</td>
+<td class="num">1329</td>
 <td class="sbj txtL"><a href="/401/form?postSeq=3553&amp;page=1">2025년도 위치정보 보호조치 대면 실습교육(2차) 안내</a>
 </td>
 <td class="date">2025-10-16</td>
-<td class="count">3035</td>
+<td class="count">4194</td>
 <td class="attach">
 </td>
 </tr>
 <tr>
-<td class="num">1326</td>
+<td class="num">1328</td>
 <td class="sbj txtL"><a href="/401/form?postSeq=3552&amp;page=1">2025년 8차 정보보호 인증제품 조달청 벤처나라 추천 희망기업 모집 공고(11월 지정심사) (~10.24(금) 18시까지)</a>
 </td>
 <td class="date">2025-10-16</td>
-<td class="count">1580</td>
+<td class="count">2603</td>
 <td class="attach">
 <a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3552', 1, 'KO');">
 <img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
@@ -301,36 +307,27 @@ function oneDepMenu() {
 </td>
 </tr>
 <tr>
-<td class="num">1325</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3550&amp;page=1">2025년 미래암호워크숍 개최 안내(10.23(목) 13:00~16:00)</a>
+<td class="num">1327</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3551&amp;page=1">[기간연장] 2027년도 개인정보 보호·활용 R&amp;D사업 기술·표준 수요조사(~25년 11월 03일)</a>
 </td>
-<td class="date">2025-10-14</td>
-<td class="count">4235</td>
+<td class="date">2025-10-15</td>
+<td class="count">6170</td>
 <td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3550', 1, 'KO');">
-<img alt="첨부파일 JPG" src="/resource/kor/images/common/JPG.png"/>
-</a>
-</td>
-</tr>
-<tr>
-<td class="num">1324</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3548&amp;page=1">「AI 응용제품 신속 상용화(AX-Sprint)」과제(보안) 사전 수요 조사 공고</a>
-</td>
-<td class="date">2025-10-01</td>
-<td class="count">8095</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3548', 1, 'KO');">
+<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3551', 1, 'KO');">
 <img alt="첨부파일 HWPX" src="/resource/kor/images/common/hwpx.png"/>
 </a>
 </td>
 </tr>
 <tr>
-<td class="num">1323</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3547&amp;page=1">2025년 제12회 소프트웨어 개발보안 경진대회 개최</a>
+<td class="num">1326</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3550&amp;page=1">2025년 미래암호워크숍 개최 안내(10.23(목) 13:00~16:00)</a>
 </td>
-<td class="date">2025-09-29</td>
-<td class="count">5894</td>
+<td class="date">2025-10-14</td>
+<td class="count">4781</td>
 <td class="attach">
+<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3550', 1, 'KO');">
+<img alt="첨부파일 JPG" src="/resource/kor/images/common/JPG.png"/>
+</a>
 </td>
 </tr>
 </tbody>
@@ -358,10 +355,10 @@ function oneDepMenu() {
 <div class="info">
 <dl class="date">
 <dt>최종수정일 : </dt>
-<dd>2025-10-25</dd>
+<dd>2025-10-31</dd>
 </dl>
 </div>
-<input name="_csrf" type="hidden" value="bd51cb76-0113-4cb4-9b17-3eaf76a3545c">
+<input name="_csrf" type="hidden" value="5165132f-a62c-4658-b335-7d0433a21c07">
 </input></article>
 <!-- // 만족도 조사 -->
 <script type="text/javascript">
@@ -384,7 +381,7 @@ function oneDepMenu() {
 			data: {menu_seq : 401, satisfy_code : radioVal, satisfy_opinion : $('.txt_sati').val()},
 		    beforeSend : function(xhr)
             {   /*데이터를 전송하기 전에 헤더에 csrf값을 설정한다*/
-            	xhr.setRequestHeader("X-CSRF-TOKEN", "bd51cb76-0113-4cb4-9b17-3eaf76a3545c");
+            	xhr.setRequestHeader("X-CSRF-TOKEN", "5165132f-a62c-4658-b335-7d0433a21c07");
             },			
 			success: function(data) {
 				alert(data.message)

@@ -41,7 +41,7 @@
             XE.setup({
                 baseURL: 'https://www.oss.kr',
                 assetsURL: 'https://www.oss.kr',
-                userToken: 'hYbfMw4iAL2EU6sAKTfW7emLzzFBGdY5BfQX1FF7',
+                userToken: 'G4oNhjQk5hfIAqc84LS0nYtzYRwYUfSPlAwV1I82',
                 loginUserId: '', // @DEPRECATED
                 useXeSpinner: true, // @DEPRECATED
                 locale: 'ko',
@@ -958,11 +958,67 @@
 <!-- /NOTICE -->
 <!-- LIST -->
 <tr>
+<td>11522</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/11c276dd-cab6-49fc-a87f-cf103f459834" id="title_11c276dd-cab6-49fc-a87f-cf103f459834">오픈AI, 개발자가 직접 안전 정책 설정 가능한 오픈소스 AI 모델 공개</a>
+</td>
+<td class="read_num xe-hidden-xs">38</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-31</td>
+</tr>
+<tr>
+<td>11521</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/e0dd082b-d06c-4202-bfea-fcc6232049b9" id="title_e0dd082b-d06c-4202-bfea-fcc6232049b9">깃허브, 한국 개발자 266만 명 돌파…AI 확산으로 역대 최고 국내 성장률 기록</a>
+</td>
+<td class="read_num xe-hidden-xs">42</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-31</td>
+</tr>
+<tr>
+<td>11520</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/d14bb45b-575f-40fc-9d56-0718925d80ed" id="title_d14bb45b-575f-40fc-9d56-0718925d80ed">소버린 AI 핵심은 오픈소스...엔터프라이즈 AI 추론 주목해야"</a>
+</td>
+<td class="read_num xe-hidden-xs">32</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-31</td>
+</tr>
+<tr>
+<td>11519</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/2ab3a6b8-0e47-4877-86f7-72f94c66f36a" id="title_2ab3a6b8-0e47-4877-86f7-72f94c66f36a">글로벌 오픈소스 리더들과 함께 하는 혁신 플랫폼...‘오픈소스 서밋 코리아 2025’ 서울 첫 개최</a>
+</td>
+<td class="read_num xe-hidden-xs">123</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-28</td>
+</tr>
+<tr>
+<td>11518</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/55445925-e2ef-4576-948b-7b4e7c932b9b" id="title_55445925-e2ef-4576-948b-7b4e7c932b9b">[K-오픈소스]“AI 시대 오픈소스 해법, '보안 거버넌스·하이브리드 DB'에서 찾아야”</a>
+</td>
+<td class="read_num xe-hidden-xs">87</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-28</td>
+</tr>
+<tr>
+<td>11517</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/dfca3215-1a28-4dc5-a901-bda6c8516c66" id="title_dfca3215-1a28-4dc5-a901-bda6c8516c66">[주간 OSS 동향리포트] 국내외 테크기업, 'AI 에이전트-MCP' 생태계 주도권 확보 경쟁 본격화</a>
+</td>
+<td class="read_num xe-hidden-xs">324</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-27</td>
+</tr>
+<tr>
+<td>11516</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/9e55f9c2-168b-4ad2-9cd1-96df57bec510" id="title_9e55f9c2-168b-4ad2-9cd1-96df57bec510">텍스트 입력만으로 영상 제작…무료·오픈소스 AI 모델 '오비' 등장</a>
+</td>
+<td class="read_num xe-hidden-xs">96</td>
+<td class="time xe-hidden-xs column-created_at">2025-10-27</td>
+</tr>
+<tr>
 <td>11515</td>
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/93293598-fdab-4730-9b91-278217b880a7" id="title_93293598-fdab-4730-9b91-278217b880a7">中 딥시크, LLM의 긴 문서처리 효율 극대화할 ‘딥시크-OCR’ 공개</a>
 </td>
-<td class="read_num xe-hidden-xs">94</td>
+<td class="read_num xe-hidden-xs">208</td>
 <td class="time xe-hidden-xs column-created_at">2025-10-22</td>
 </tr>
 <tr>
@@ -970,7 +1026,7 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/ad15450c-6d93-47e1-9268-aa83f6f098bf" id="title_ad15450c-6d93-47e1-9268-aa83f6f098bf">[주간 OSS 동향리포트] 학습에 사용된 데이터, 코드, 모델 구성 요소 모두 공개된 한국 오픈소스 AI 모델이 등장</a>
 </td>
-<td class="read_num xe-hidden-xs">95</td>
+<td class="read_num xe-hidden-xs">401</td>
 <td class="time xe-hidden-xs column-created_at">2025-10-21</td>
 </tr>
 <tr>
@@ -978,64 +1034,8 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/6dff47cf-c141-478f-a651-5623b37f9bf7" id="title_6dff47cf-c141-478f-a651-5623b37f9bf7">삼성·카카오·네이버와 구글·MS까지…'AI 에이전트-MCP' 생태계 선점 경쟁 본격화</a>
 </td>
-<td class="read_num xe-hidden-xs">82</td>
+<td class="read_num xe-hidden-xs">136</td>
 <td class="time xe-hidden-xs column-created_at">2025-10-20</td>
-</tr>
-<tr>
-<td>11512</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/3f20d414-4e2e-40dc-b03b-51218982ee66" id="title_3f20d414-4e2e-40dc-b03b-51218982ee66">ETRI, '오픈소스 테크데이' 개최…R&amp;D 성과 공개</a>
-</td>
-<td class="read_num xe-hidden-xs">91</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-20</td>
-</tr>
-<tr>
-<td>11511</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/9a9466a4-82ac-4c1f-8f2a-55877af02bd9" id="title_9a9466a4-82ac-4c1f-8f2a-55877af02bd9">센티언트, 세계 최초 ‘커뮤니티 기반 오픈 AGI’ 구축</a>
-</td>
-<td class="read_num xe-hidden-xs">147</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-17</td>
-</tr>
-<tr>
-<td>11510</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/59512639-06d5-478f-ac98-467d0ccd49fe" id="title_59512639-06d5-478f-ac98-467d0ccd49fe">학습 데이터·코드 모두 공개...‘완전한 오픈소스’ 한국 AI 모델 나왔다</a>
-</td>
-<td class="read_num xe-hidden-xs">162</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-15</td>
-</tr>
-<tr>
-<td>11509</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/f4972fb2-269f-445c-905e-e7cd36f87406" id="title_f4972fb2-269f-445c-905e-e7cd36f87406">‘오픈소스 AI’ 선호도 中업체 1~5위 싹쓸이 </a>
-</td>
-<td class="read_num xe-hidden-xs">122</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-15</td>
-</tr>
-<tr>
-<td>11508</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/73948e4c-1322-4c28-a92b-71d9b917600a" id="title_73948e4c-1322-4c28-a92b-71d9b917600a">메타, 오픈소스 데이터 압축 프레임워크 공개했다</a>
-</td>
-<td class="read_num xe-hidden-xs">131</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-14</td>
-</tr>
-<tr>
-<td>11507</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/bfd3d721-376f-46bd-a71c-70881dc9a79b" id="title_bfd3d721-376f-46bd-a71c-70881dc9a79b">[주간 OSS 동향리포트] 국내 AI 스타트업 트릴리온랩스,  70B 모델 '중간 체크포인트' 공개</a>
-</td>
-<td class="read_num xe-hidden-xs">121</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-14</td>
-</tr>
-<tr>
-<td>11506</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/2101ea4a-f2f4-4cb9-b679-ae96e4ef63d6" id="title_2101ea4a-f2f4-4cb9-b679-ae96e4ef63d6">구글 딥마인드, 코드멘더 공개…AI가 소프트웨어 취약점 자동 패치</a>
-</td>
-<td class="read_num xe-hidden-xs">215</td>
-<td class="time xe-hidden-xs column-created_at">2025-10-10</td>
 </tr>
 <!-- /LIST -->
 </tbody>
@@ -1054,15 +1054,15 @@
 <a href="https://www.oss.kr/news?page=7">7</a>
 <a href="https://www.oss.kr/news?page=8">8</a>
 <span>...</span>
-<a href="https://www.oss.kr/news?page=1151">1151</a>
 <a href="https://www.oss.kr/news?page=1152">1152</a>
+<a href="https://www.oss.kr/news?page=1153">1153</a>
 <a class="btn_pg btn_next" href="https://www.oss.kr/news?page=2"><i class="xi-angle-right"><span class="bd_hidden">다음 페이지로 이동</span></i></a>
 </div>
 <!-- /PAGINATION PC-->
 <!-- PAGINATAION Mobile -->
 <div class="bd_paginate v2 xe-visible-xs">
 <span class="btn_pg btn_prev"><i class="xi-angle-left"><span class="bd_hidden">«</span></i></span>
-<span class="pg_box"><strong>1</strong> / <span>1152</span></span>
+<span class="pg_box"><strong>1</strong> / <span>1153</span></span>
 <a class="btn_pg btn_next" href="https://www.oss.kr/news?page=2"><i class="xi-angle-right"><span class="bd_hidden">»</span></i></a>
 </div>
 <!-- /PAGINATION Mobile -->
