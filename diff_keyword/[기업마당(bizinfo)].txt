@@ -3,7 +3,7 @@
 
 <html lang="ko">
 <head>
-<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="971ea633-0212-4c75-a2e1-c1c1f2ba95cb" name="_csrf"/>
+<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="82fc7098-c957-4484-ae8b-1ea1d6e3c6cd" name="_csrf"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, user-scalable=0, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
@@ -856,16 +856,16 @@
 <div class="category">
 <div class="scroll_x">
 <div class="category_list icon_1">
-<a alt="분야(1730) 공고보기" class="on" href="#" id="hashAll" onclick="fn_hashCode_Change('')" title="분야(1730) 공고보기"><span>분야(1730)</span></a>
+<a alt="분야(1749) 공고보기" class="on" href="#" id="hashAll" onclick="fn_hashCode_Change('')" title="분야(1749) 공고보기"><span>분야(1749)</span></a>
 </div>
 <div class="category_list icon_2">
 <a alt="금융" href="javascript:void(0); return false;" id="01" onclick="fn_hashCode_Change('01')" title="금융">
-<span>금융(284)</span>
+<span>금융(288)</span>
 </a>
 </div>
 <div class="category_list icon_3">
 <a alt="기술" href="javascript:void(0); return false;" id="02" onclick="fn_hashCode_Change('02')" title="기술">
-<span>기술(310)</span>
+<span>기술(323)</span>
 </a>
 </div>
 <div class="category_list icon_4">
@@ -875,7 +875,7 @@
 </div>
 <div class="category_list icon_8">
 <a alt="수출" href="javascript:void(0); return false;" id="07" onclick="fn_hashCode_Change('07')" title="수출">
-<span>수출(146)</span>
+<span>수출(136)</span>
 </a>
 </div>
 <div class="category_list icon_9">
@@ -885,17 +885,17 @@
 </div>
 <div class="category_list icon_10">
 <a alt="창업" href="javascript:void(0); return false;" id="09" onclick="fn_hashCode_Change('09')" title="창업">
-<span>창업(75)</span>
+<span>창업(77)</span>
 </a>
 </div>
 <div class="category_list icon_11">
 <a alt="경영" href="javascript:void(0); return false;" id="10" onclick="fn_hashCode_Change('10')" title="경영">
-<span>경영(623)</span>
+<span>경영(632)</span>
 </a>
 </div>
 <div class="category_list icon_13">
 <a alt="기타" href="javascript:void(0); return false;" id="12" onclick="fn_hashCode_Change('12')" title="기타">
-<span>기타(5)</span>
+<span>기타(6)</span>
 </a>
 </div>
 </div>
@@ -905,61 +905,61 @@
 <div class="area_btn_list">
 <ul>
 <li class="total_area_btn">
-<button class="toggle_area_btn" id="wnty" name="지역" title="지역(1112) 공고보기" type="button">
-				                	지역(1112)
+<button class="toggle_area_btn" id="wnty" name="지역" title="지역(1125) 공고보기" type="button">
+				                	지역(1125)
 				                </button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6110000" name="6110000" type="button">서울(54)</button>
+<button class="toggle_area_btn" id="6110000" name="6110000" type="button">서울(58)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6260000" name="6260000" type="button">부산(68)</button>
+<button class="toggle_area_btn" id="6260000" name="6260000" type="button">부산(73)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6270000" name="6270000" type="button">대구(43)</button>
+<button class="toggle_area_btn" id="6270000" name="6270000" type="button">대구(45)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6280000" name="6280000" type="button">인천(68)</button>
+<button class="toggle_area_btn" id="6280000" name="6280000" type="button">인천(73)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6290000" name="6290000" type="button">광주(58)</button>
+<button class="toggle_area_btn" id="6290000" name="6290000" type="button">광주(59)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6300000" name="6300000" type="button">대전(24)</button>
+<button class="toggle_area_btn" id="6300000" name="6300000" type="button">대전(22)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6310000" name="6310000" type="button">울산(51)</button>
+<button class="toggle_area_btn" id="6310000" name="6310000" type="button">울산(49)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="5690000" name="5690000" type="button">세종(21)</button>
+<button class="toggle_area_btn" id="5690000" name="5690000" type="button">세종(22)</button>
 </li>
 <div style="height:10px;"></div>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6410000" name="6410000" type="button">경기(155)</button>
+<button class="toggle_area_btn" id="6410000" name="6410000" type="button">경기(160)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6420000" name="6420000" type="button">강원(51)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6430000" name="6430000" type="button">충북(75)</button>
+<button class="toggle_area_btn" id="6430000" name="6430000" type="button">충북(74)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6440000" name="6440000" type="button">충남(55)</button>
+<button class="toggle_area_btn" id="6440000" name="6440000" type="button">충남(57)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6450000" name="6450000" type="button">전북(63)</button>
+<button class="toggle_area_btn" id="6450000" name="6450000" type="button">전북(60)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6460000" name="6460000" type="button">전남(57)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6470000" name="6470000" type="button">경북(123)</button>
+<button class="toggle_area_btn" id="6470000" name="6470000" type="button">경북(120)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6480000" name="6480000" type="button">경남(96)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6500000" name="6500000" type="button">제주(50)</button>
+<button class="toggle_area_btn" id="6500000" name="6500000" type="button">제주(49)</button>
 </li>
 </ul>
 </div>
@@ -1016,163 +1016,7 @@
 </thead>
 <tbody>
 <tr>
-<td>1730</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116008" title="제조 DX멘토단 활용지원(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                제조 DX멘토단 활용지원(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    세부사업별 상이
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1429</td>
-</tr>
-<tr>
-<td>1729</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116007" title="공급기업 역량진단(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                공급기업 역량진단(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1104</td>
-</tr>
-<tr>
-<td>1728</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116005" title="클라우드 제조솔루션(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                클라우드 제조솔루션(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1116</td>
-</tr>
-<tr>
-<td>1727</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116004" title="스마트 공장 수준 확인(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                스마트 공장 수준 확인(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    상시 접수
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1223</td>
-</tr>
-<tr>
-<td>1726</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116003" title="자동화지원_자동화 공정 구축(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                자동화지원_자동화 공정 구축(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>국가뿌리산업진흥센터</td>
-<td>2025-10-31</td>
-<td>1226</td>
-</tr>
-<tr>
-<td>1725</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116027" title="자동화지원_제조로봇 도입(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                자동화지원_제조로봇 도입(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>한국로봇산업진흥원</td>
-<td>2025-10-31</td>
-<td>1129</td>
-</tr>
-<tr>
-<td>1724</td>
+<td>1749</td>
 <td>
                             
                                 
@@ -1180,25 +1024,25 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116026" title="2025년 민관협력 오픈이노베이션 지원사업 방위산업 스타트업 챌린지 모집 공고 페이지 이동">
-                                2025년 민관협력 오픈이노베이션 지원사업 방위산업 스타트업 챌린지 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116160" title="2026년 글로벌 기업 협업 프로그램(AroundX) 지원사업 신규 주관기관 모집 공고 페이지 이동">
+                                2026년 글로벌 기업 협업 프로그램(AroundX) 지원사업 신규 주관기관 모집 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-10-31 ~ 2025-11-20
+                                    2025-11-12 ~ 2025-11-27
                                 
                             
                         </td>
 <td>중소벤처기업부</td>
-<td>대구창조경제혁신센터</td>
-<td>2025-10-31</td>
-<td>1144</td>
+<td>창업진흥원</td>
+<td>2025-11-07</td>
+<td>1395</td>
 </tr>
 <tr>
-<td>1723</td>
+<td>1748</td>
 <td>
                             
                                 
@@ -1206,25 +1050,51 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116002" title="스마트공장 구축_R&amp;D성과확산 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                스마트공장 구축_R&amp;D성과확산 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고)
+<a href="view.do?pblancId=PBLN_000000000116180" title="2025년 방사선 기술 IP보증연계 지식재산평가 지원사업 공고 페이지 이동">
+                                2025년 방사선 기술 IP보증연계 지식재산평가 지원사업 공고
                             </a>
 </td>
 <td>
                             
                                 
-                                    추후 공지
+                                    예산 소진시까지
                                 
                                 
                             
                         </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1091</td>
+<td>과학기술정보통신부</td>
+<td>한국방사선진흥협회</td>
+<td>2025-11-07</td>
+<td>1151</td>
 </tr>
 <tr>
-<td>1722</td>
+<td>1747</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116179" title="[충북] 2025년 IP디딤돌 프로그램 후속지원 추가모집 공고 페이지 이동">
+                                [충북] 2025년 IP디딤돌 프로그램 후속지원 추가모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-07 ~ 2025-12-05
+                                
+                            
+                        </td>
+<td>충청북도</td>
+<td>충북지식재산센터</td>
+<td>2025-11-07</td>
+<td>313</td>
+</tr>
+<tr>
+<td>1746</td>
 <td>
                             
                                 
@@ -1232,51 +1102,25 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116025" title="[경북] 2025년 경북청년 신세계 백화점 대구 팝업스토어 참여기업 모집 공고(청년창업제품 판로개척 지원사업) 페이지 이동">
-                                [경북] 2025년 경북청년 신세계 백화점 대구 팝업스토어 참여기업 모집 공고(청년창업제품 판로개척 지원사업)
+<a href="view.do?pblancId=PBLN_000000000116178" title="2025년 3차 수산물직매장 설치 및 창업지원플랫폼 구축 관련 수산물 직매장 창업희망자 지원 모집 연장 공고 페이지 이동">
+                                2025년 3차 수산물직매장 설치 및 창업지원플랫폼 구축 관련 수산물 직매장 창업희망자 지원 모집 연장 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-10-30 ~ 2025-11-05
+                                    2025-10-23 ~ 2025-11-16
                                 
                             
                         </td>
-<td>경상북도</td>
-<td>경상북도경제진흥원</td>
-<td>2025-10-31</td>
-<td>415</td>
+<td>해양수산부</td>
+<td>수협유통</td>
+<td>2025-11-07</td>
+<td>1002</td>
 </tr>
 <tr>
-<td>1721</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116024" title="스마트공장 구축_디지털 협업공장(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                스마트공장 구축_디지털 협업공장(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>1042</td>
-</tr>
-<tr>
-<td>1720</td>
+<td>1745</td>
 <td>
                             
                                 
@@ -1284,103 +1128,25 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116023" title="[부산] 2025년 급경사지ㆍ산사태 안전산업 진흥시설 구축 사업 급경사지ㆍ산사태 안전 산업 분야 기술닥터제 참여기업 모집 공고 페이지 이동">
-                                [부산] 2025년 급경사지ㆍ산사태 안전산업 진흥시설 구축 사업 급경사지ㆍ산사태 안전 산업 분야 기술닥터제 참여기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116159" title="[인천] 2026년CES 혁신상 수상(2단계 쇼케이스) 지원사업 참가기업 모집 공고 페이지 이동">
+                                [인천] 2026년CES 혁신상 수상(2단계 쇼케이스) 지원사업 참가기업 모집 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-10-31 ~ 2025-11-14
+                                    2025-11-05 ~ 2025-11-14
                                 
                             
                         </td>
-<td>부산광역시</td>
-<td>부산테크노파크</td>
-<td>2025-10-31</td>
-<td>241</td>
+<td>인천광역시</td>
+<td>인천테크노파크</td>
+<td>2025-11-07</td>
+<td>270</td>
 </tr>
 <tr>
-<td>1719</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116022" title="스마트공장 구축_대중소 상생형(AI트랙) 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                스마트공장 구축_대중소 상생형(AI트랙) 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>935</td>
-</tr>
-<tr>
-<td>1718</td>
-<td>
-                            
-                                
-                                기술
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116000" title="스마트공장 구축_대중소 상생형 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고) 페이지 이동">
-                                스마트공장 구축_대중소 상생형 스마트공장(2026년 스마트 제조혁신 지원사업 통합 공고)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                    추후 공지
-                                
-                                
-                            
-                        </td>
-<td>중소벤처기업부</td>
-<td>스마트제조혁신추진단</td>
-<td>2025-10-31</td>
-<td>278</td>
-</tr>
-<tr>
-<td>1717</td>
-<td>
-                            
-                                
-                                경영
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000115999" title="[세종] 2025년 2차 청년농업인 영농기반 구축 지원사업 추진 계획 공고 페이지 이동">
-                                [세종] 2025년 2차 청년농업인 영농기반 구축 지원사업 추진 계획 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-10-31 ~ 2025-11-14
-                                
-                            
-                        </td>
-<td>세종특별자치시</td>
-<td>직접수행</td>
-<td>2025-10-31</td>
-<td>252</td>
-</tr>
-<tr>
-<td>1716</td>
+<td>1744</td>
 <td>
                             
                                 
@@ -1388,22 +1154,256 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116001" title="[인천] 지역 기업 생산제품 홍보 지원사업 참여기업 모집 공고 페이지 이동">
-                                [인천] 지역 기업 생산제품 홍보 지원사업 참여기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116177" title="[인천] 동구 2025년 국내 전시회 참가기업 지원사업 추가 공고 페이지 이동">
+                                [인천] 동구 2025년 국내 전시회 참가기업 지원사업 추가 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-10-30 ~ 2025-11-04
+                                    2025-11-06 ~ 2025-11-14
                                 
                             
                         </td>
 <td>인천광역시</td>
-<td>직접수행</td>
-<td>2025-10-31</td>
-<td>333</td>
+<td>기초자치단체</td>
+<td>2025-11-07</td>
+<td>260</td>
+</tr>
+<tr>
+<td>1743</td>
+<td>
+                            
+                                
+                                경영
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116176" title="2026년 정보통신 및 정보문화 유공 정부포상 계획 공고 페이지 이동">
+                                2026년 정보통신 및 정보문화 유공 정부포상 계획 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-06 ~ 2025-12-12
+                                
+                            
+                        </td>
+<td>과학기술정보통신부</td>
+<td>한국정보방송통신대연합</td>
+<td>2025-11-07</td>
+<td>1012</td>
+</tr>
+<tr>
+<td>1742</td>
+<td>
+                            
+                                
+                                경영
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116175" title="2025년 9차 정보보호 인증제품 조달청 벤처나라 추천기업 모집 공고(12월 지정심사) 페이지 이동">
+                                2025년 9차 정보보호 인증제품 조달청 벤처나라 추천기업 모집 공고(12월 지정심사)
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-04 ~ 2025-11-21
+                                
+                            
+                        </td>
+<td>과학기술정보통신부</td>
+<td>한국인터넷진흥원</td>
+<td>2025-11-07</td>
+<td>992</td>
+</tr>
+<tr>
+<td>1741</td>
+<td>
+                            
+                                
+                                경영
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116158" title="2025년 우수농식품신선도제고 지원사업 모집 공고 페이지 이동">
+                                2025년 우수농식품신선도제고 지원사업 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-07 ~ 2025-11-19
+                                
+                            
+                        </td>
+<td>농림축산식품부</td>
+<td>한국농수산식품유통공사</td>
+<td>2025-11-07</td>
+<td>1006</td>
+</tr>
+<tr>
+<td>1740</td>
+<td>
+                            
+                                
+                                수출
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116174" title="[경남] 창원시 2025년 수소산업 해외 교류 지원사업 참여기업 추가 모집 공고 페이지 이동">
+                                [경남] 창원시 2025년 수소산업 해외 교류 지원사업 참여기업 추가 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-05 ~ 2025-11-18
+                                
+                            
+                        </td>
+<td>경상남도</td>
+<td>창원산업진흥원</td>
+<td>2025-11-07</td>
+<td>215</td>
+</tr>
+<tr>
+<td>1739</td>
+<td>
+                            
+                                
+                                수출
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116173" title="2026년 키즈스크린 서밋(Kidscreen Summit) 한국공동관 참가기업 모집 공고 페이지 이동">
+                                2026년 키즈스크린 서밋(Kidscreen Summit) 한국공동관 참가기업 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-06 ~ 2025-11-20
+                                
+                            
+                        </td>
+<td>문화체육관광부</td>
+<td>한국콘텐츠진흥원</td>
+<td>2025-11-07</td>
+<td>1069</td>
+</tr>
+<tr>
+<td>1738</td>
+<td>
+                            
+                                
+                                경영
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116172" title="2025년 에듀테크 소프트랩 우수 실증사례 및 공모전 공고 페이지 이동">
+                                2025년 에듀테크 소프트랩 우수 실증사례 및 공모전 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-05 ~ 2025-11-24
+                                
+                            
+                        </td>
+<td>교육부</td>
+<td>한국교육학술정보원</td>
+<td>2025-11-07</td>
+<td>1018</td>
+</tr>
+<tr>
+<td>1737</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116171" title="2025년 제4차 과학기술분야 연구기획과제 공모 페이지 이동">
+                                2025년 제4차 과학기술분야 연구기획과제 공모
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-11-06 ~ 2025-11-19
+                                
+                            
+                        </td>
+<td>과학기술정보통신부</td>
+<td>한국연구재단</td>
+<td>2025-11-07</td>
+<td>1107</td>
+</tr>
+<tr>
+<td>1736</td>
+<td>
+                            
+                                
+                                창업
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116157" title="2025년 KoDATA 오픈이노베이션 지원사업 참여 스타트업 모집 공고 페이지 이동">
+                                2025년 KoDATA 오픈이노베이션 지원사업 참여 스타트업 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-10-21 ~ 2025-11-10
+                                
+                            
+                        </td>
+<td>대구광역시</td>
+<td>대구창조경제혁신센터</td>
+<td>2025-11-07</td>
+<td>358</td>
+</tr>
+<tr>
+<td>1735</td>
+<td>
+                            
+                                
+                                창업
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116170" title="[인천] 옹진군 2026년 청년어촌정착 지원사업 신청 공고 페이지 이동">
+                                [인천] 옹진군 2026년 청년어촌정착 지원사업 신청 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-10-29 ~ 2025-11-17
+                                
+                            
+                        </td>
+<td>인천광역시</td>
+<td>기초자치단체</td>
+<td>2025-11-07</td>
+<td>309</td>
 </tr>
 </tbody>
 </table>
@@ -1436,7 +1436,7 @@
 <a href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=9" title="9페이지">9</a>
 <a href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=10" title="10페이지">10</a>
 <a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=11" title="다음페이지">다음</a>
-<a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=116" title="마지막페이지">마지막</a>
+<a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=117" title="마지막페이지">마지막</a>
 </div>
 <!-- 만족도 조사-->
 </div>

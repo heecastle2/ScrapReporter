@@ -1414,8 +1414,8 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,830</em>건
-            (1페이지 / 183페이지)</span>
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,835</em>건
+            (1페이지 / 184페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
 <span class="bar"></span>
@@ -1501,7 +1501,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 11227</em>
+<em>조회수 11906</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1578,7 +1578,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.12.27</em>
-<em>조회수 2740</em>
+<em>조회수 2796</em>
 </span>
 <span class="writer">
 <em>장호영</em>
@@ -1587,7 +1587,391 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28702','16010100','28702');return false;" title="2025년 오픈데이터포럼(ODF) 제1차 열린세미나 개최('25.10.31.)(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28731','16010100','28731');return false;" title="제13회 공공데이터 활용 창업경진대회 왕중왕전 국민평가단 모집(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             제13회 공공데이터 활용 창업경진대회 왕중왕전 국민평가단 모집
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.07</em>
+<em>조회수 208</em>
+</span>
+<span class="writer">
+<em>김보람</em>
+<em>공공지능데이터기획팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28728','16010100','28728');return false;" title="(안내) 국산 양자기술 소부장 보급활용 지원사업의 수요처 선정 결과(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             (안내) 국산 양자기술 소부장 보급활용 지원사업의 수요처 선정 결과
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.05</em>
+<em>조회수 127</em>
+</span>
+<span class="writer">
+<em>정현철</em>
+<em>양자기술활용센터</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28726','16010100','28726');return false;" title="2025년도 3/4분기 한국지능정보사회진흥원 신규채용자와 재직 임직원과의 친인척 현황 공개(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년도 3/4분기 한국지능정보사회진흥원 신규채용자와 재직 임직원과의 친인척 현황 공개
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.05</em>
+<em>조회수 154</em>
+</span>
+<span class="writer">
+<em>박연홍</em>
+<em>인사총무팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28719','16010100','28719');return false;" title='"2025년 전자정부 성과관리 업무매뉴얼" 배포(새 글)-첨부파일 있음'>
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             "2025년 전자정부 성과관리 업무매뉴얼" 배포
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.03</em>
+<em>조회수 209</em>
+</span>
+<span class="writer">
+<em>배보배</em>
+<em>디지털혁신성과팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28717','16010100','28717');return false;" title="2025년 AI 에이전트 서비스 시나리오 공모전 안내(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년 AI 에이전트 서비스 시나리오 공모전 안내
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.03</em>
+<em>조회수 491</em>
+</span>
+<span class="writer">
+<em>황혜원</em>
+<em>디지털혁신성과팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28702','16010100','28702');return false;" title="2025년 오픈데이터포럼(ODF) 제1차 열린세미나 개최('25.10.31.)-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1652,11 +2036,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.10.29</em>
-<em>조회수 195</em>
+<em>조회수 286</em>
 </span>
 <span class="writer">
 <em>정혜린</em>
@@ -1665,7 +2048,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28698','16010100','28698');return false;" title="「2025 AI NoCode·MCP Hackathon 시즌2」 개최 안내(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28698','16010100','28698');return false;" title="「2025 AI NoCode·MCP Hackathon 시즌2」 개최 안내-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1730,11 +2113,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.10.28</em>
-<em>조회수 342</em>
+<em>조회수 509</em>
 </span>
 <span class="writer">
 <em>박설빈</em>
@@ -1743,7 +2125,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28697','16010100','28697');return false;" title="양자 테스트베드 – 양자인터넷 회선 지원 이용기관 추가모집(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28697','16010100','28697');return false;" title="양자 테스트베드 – 양자인터넷 회선 지원 이용기관 추가모집-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1806,11 +2188,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.10.28</em>
-<em>조회수 93</em>
+<em>조회수 156</em>
 </span>
 <span class="writer">
 <em>정래진</em>
@@ -1818,391 +2199,10 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 </a>
 </li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28690','16010100','28690');return false;" title="2025년 디지털포용 포럼 개최 안내(11.7.(금), 14시)(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 디지털포용 포럼 개최 안내(11.7.(금), 14시)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.10.27</em>
-<em>조회수 343</em>
-</span>
-<span class="writer">
-<em>유성희</em>
-<em>디지털포용기획팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28686','16010100','28686');return false;" title="스마트워크센터 홈페이지 이용안내(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             스마트워크센터 홈페이지 이용안내
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.10.24</em>
-<em>조회수 219</em>
-</span>
-<span class="writer">
-<em>김지영</em>
-<em>디지털혁신성과팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28670','16010100','28670');return false;" title="「AI 응용제품 신속 상용화(AX-Sprint)」 과제(네트워크) 사전 수요조사 공고-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             「AI 응용제품 신속 상용화(AX-Sprint)」 과제(네트워크) 사전 수요조사 공고
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.10.20</em>
-<em>조회수 852</em>
-</span>
-<span class="writer">
-<em>윤지영</em>
-<em>AI기술전략팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28663','16010100','28663');return false;" title="「2025년 공공 AI 대전환 챌린지」 우수사례 왕중왕전 안내(신청기한 연장)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             「2025년 공공 AI 대전환 챌린지」 우수사례 왕중왕전 안내(신청기한 연장)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.10.15</em>
-<em>조회수 1201</em>
-</span>
-<span class="writer">
-<em>신명진</em>
-<em>지능데이터기반행정팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28658','16010100','28658');return false;" title="2025년 개방형 양자 테스트베드 이용 안내-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 개방형 양자 테스트베드 이용 안내
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.10.14</em>
-<em>조회수 415</em>
-</span>
-<span class="writer">
-<em>이가영</em>
-<em>양자기술활용센터</em>
-</span>
-</a>
-</li>
 </ul>
 </div>
 <div class="pageNation">
-<span class="last_prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="처음으로 이동"><i class="ion-ios-arrow-left"></i><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">처음으로 이동</span></a></span><span class="prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="이전 페이지"><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">이전 페이지</span></a></span><span><a class="active" href="javascript:" title="현재 페이지">1</a></span><span><a href="?pageIndex=2" onclick="doBbsFPag(2);return false;" title="2페이지로 이동">2</a></span><span><a href="?pageIndex=3" onclick="doBbsFPag(3);return false;" title="3페이지로 이동">3</a></span><span><a href="?pageIndex=4" onclick="doBbsFPag(4);return false;" title="4페이지로 이동">4</a></span><span><a href="?pageIndex=5" onclick="doBbsFPag(5);return false;" title="5페이지로 이동">5</a></span><span class="next"><a href="?pageIndex=6" onclick="doBbsFPag(6);return false;" title="다음 페이지"><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">다음 페이지</span></a></span><span class="last_next"><a href="?pageIndex=183" onclick="doBbsFPag(183);return false;" title="맨 뒤로 이동"><i class="ion-ios-arrow-right"></i><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">맨 뒤로 이동</span></a></span>
+<span class="last_prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="처음으로 이동"><i class="ion-ios-arrow-left"></i><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">처음으로 이동</span></a></span><span class="prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="이전 페이지"><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">이전 페이지</span></a></span><span><a class="active" href="javascript:" title="현재 페이지">1</a></span><span><a href="?pageIndex=2" onclick="doBbsFPag(2);return false;" title="2페이지로 이동">2</a></span><span><a href="?pageIndex=3" onclick="doBbsFPag(3);return false;" title="3페이지로 이동">3</a></span><span><a href="?pageIndex=4" onclick="doBbsFPag(4);return false;" title="4페이지로 이동">4</a></span><span><a href="?pageIndex=5" onclick="doBbsFPag(5);return false;" title="5페이지로 이동">5</a></span><span class="next"><a href="?pageIndex=6" onclick="doBbsFPag(6);return false;" title="다음 페이지"><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">다음 페이지</span></a></span><span class="last_next"><a href="?pageIndex=184" onclick="doBbsFPag(184);return false;" title="맨 뒤로 이동"><i class="ion-ios-arrow-right"></i><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">맨 뒤로 이동</span></a></span>
 </div>
 </section>
 <!-- 0926수정 top버튼추가 --><!-- 0928 -->

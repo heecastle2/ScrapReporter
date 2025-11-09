@@ -1049,7 +1049,7 @@
 <a href="765">765</a>
 </th>
 <td class="col-xs-5">
-<a href="765">[KISIA] 2025 ACDC 전시참가 및 협찬 추가 신청 안내(~11. 7.(금)</a>
+<a href="765">[KISIA] 2025 ACDC 전시참가 및 협찬 추가 신청 안내(~11. 7.(금))</a>
 </td>
 <td class="col-xs-3 text-center">
 <a href="765">홍보협력팀</a>
