@@ -1289,11 +1289,11 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 </div>
 <div class="notice_list" id="main_sbjt_plnn_list">
 <ul>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2027년 바이오분야  신규 R&amp;D 사업 발굴을 위한 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.13</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 탄소중립산업핵심기술개발사업 기획대상과제 인터넷 공시<i class="blank"></i></a><span class="date">2025.11.12</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 제1차 자동차산업기술개발사업(그린카, 스마트카) 기획후보과제 인터넷공시<i class="blank"></i></a><span class="date">2025.11.11</span></li>
 <li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 제1차 국가표준기술력향상사업 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.07</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 국가전략기획물질개발사업 신규과제 기술수요조사<i class="blank"></i></a><span class="date">2025.11.06</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 제품안전관리기술개발및실증사업 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.06</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2027년 산업기술 R&amp;D사업(스마트전자분야-HVDC 차단기, HVDC 해저케이블, 친환경 절연가스) 기술수요조사<i class="blank"></i></a><span class="date">2025.10.30</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">재난안전산업 우수기술개발 지원(R&amp;D) 기술수요조사(침수)<i class="blank"></i></a><span class="date">2025.10.27</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 국가전략기준물질개발사업 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.06</span></li>
 </ul>
 </div>
 </div>
@@ -1530,6 +1530,14 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 <a class="rollingPrevNext" href="#"><img alt="다음보기" src="img/main/arrNext_icon.png"/></a>
 <a class="rollingStop" href="#"><img alt="정지" src="img/main/stop_icon.png"/></a>
 </div>
+<div class="techlist_wrap rollingItem"><a href="#" onclick="window.open('https://techfocus.kr'); return false;" target="_blank" title="새창으로 열림"><img alt="" onerror="this.src=contextRoot + '/img/common/noimage.png'" src="/app/file/pms/2025/11/10/30AFADEF-06C0-0980-006F-2C754031B842_W435.png"/></a>
+<!-- 텍스트 영역 -->
+<dl>
+<dt>[이달의 신기술]</dt>
+<dd>테크 포커스 2025년 11월호 (Vol.25)</dd>
+</dl>
+<!--// 텍스트 영역 -->
+</div>
 <div class="techlist_wrap rollingItem"><a href="#" onclick="window.open('https://techfocus.kr'); return false;" target="_blank" title="새창으로 열림"><img alt="" onerror="this.src=contextRoot + '/img/common/noimage.png'" src="/app/file/pms/2025/10/13/C87900CC-1CF6-3810-EF3F-B0154C10E529_W435.png"/></a>
 <!-- 텍스트 영역 -->
 <dl>
@@ -1559,14 +1567,6 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 <dl>
 <dt>[이달의 신기술]</dt>
 <dd>테크 포커스 2025년 7월호 (Vol.21)</dd>
-</dl>
-<!--// 텍스트 영역 -->
-</div>
-<div class="techlist_wrap rollingItem"><a href="#" onclick="window.open('https://techfocus.kr'); return false;" target="_blank" title="새창으로 열림"><img alt="" onerror="this.src=contextRoot + '/img/common/noimage.png'" src="/app/file/pms/2025/06/10/B72C71EC-9356-7B9C-ABFB-0763E9DF162F_W435.png"/></a>
-<!-- 텍스트 영역 -->
-<dl>
-<dt>[이달의 신기술]</dt>
-<dd>테크 포커스 2025년 6월호 (Vol.20)</dd>
 </dl>
 <!--// 텍스트 영역 -->
 </div>
