@@ -41,7 +41,7 @@
             XE.setup({
                 baseURL: 'https://www.oss.kr',
                 assetsURL: 'https://www.oss.kr',
-                userToken: 'AfaWpdKdCvizqwfG6oTBZx0l1dMJ5X3MmgyBS8GK',
+                userToken: 'F0KDM0NbWfXNzONdLdYAn6uCaSMTWxjXd8IZfnwl',
                 loginUserId: '', // @DEPRECATED
                 useXeSpinner: true, // @DEPRECATED
                 locale: 'ko',
@@ -958,11 +958,51 @@
 <!-- /NOTICE -->
 <!-- LIST -->
 <tr>
+<td>11547</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/23113513-acc2-4a17-9f95-c788e51a2770" id="title_23113513-acc2-4a17-9f95-c788e51a2770">수퍼톤, TTS 모델 ‘수퍼토닉’ 오픈소스 공개..."클라우드 없어도 OK"</a>
+</td>
+<td class="read_num xe-hidden-xs">77</td>
+<td class="time xe-hidden-xs column-created_at">2025-11-21</td>
+</tr>
+<tr>
+<td>11546</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/fe9c17c1-ff18-49ca-82e4-83ab24e0d5f2" id="title_fe9c17c1-ff18-49ca-82e4-83ab24e0d5f2">[주간 OSS 동향리포트] 메타, 차세대 다국어 음성 인식 시스템 오픈소스 출시... 전 세계 1600개 이상의 언어 지원</a>
+</td>
+<td class="read_num xe-hidden-xs">72</td>
+<td class="time xe-hidden-xs column-created_at">2025-11-21</td>
+</tr>
+<tr>
+<td>11545</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/ad94a1ce-a40d-4df1-8602-b1726069c679" id="title_ad94a1ce-a40d-4df1-8602-b1726069c679">카카오, AI 포럼서 '카나나' 개발 전략 공개…'오픈소스'로 생태계 확장</a>
+</td>
+<td class="read_num xe-hidden-xs">73</td>
+<td class="time xe-hidden-xs column-created_at">2025-11-19</td>
+</tr>
+<tr>
+<td>11544</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/959519e2-905d-416e-b4a3-22e948fdfbef" id="title_959519e2-905d-416e-b4a3-22e948fdfbef">마이크로소프트, 기상·기후 예측 AI ‘오로라’ 전면 오픈소스화 선언</a>
+</td>
+<td class="read_num xe-hidden-xs">92</td>
+<td class="time xe-hidden-xs column-created_at">2025-11-17</td>
+</tr>
+<tr>
+<td>11543</td>
+<td class="title column-title">
+<a class="title_text" href="https://www.oss.kr/news/show/a2367f5a-2d2c-479b-8087-e75634d43f69" id="title_a2367f5a-2d2c-479b-8087-e75634d43f69">中 휴머노이드로봇 센터, ‘세계 최강’ 오픈소스 초거대 모델 발표</a>
+</td>
+<td class="read_num xe-hidden-xs">90</td>
+<td class="time xe-hidden-xs column-created_at">2025-11-17</td>
+</tr>
+<tr>
 <td>11542</td>
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/8a8fb9b3-7f69-437d-9dc8-1ca3643512c1" id="title_8a8fb9b3-7f69-437d-9dc8-1ca3643512c1">바이두, 도면 분석까지 가능한 고성능 'VLM 추론 모델' 오픈소스 출시</a>
 </td>
-<td class="read_num xe-hidden-xs">57</td>
+<td class="read_num xe-hidden-xs">135</td>
 <td class="time xe-hidden-xs column-created_at">2025-11-14</td>
 </tr>
 <tr>
@@ -970,7 +1010,7 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/ab401694-231d-410d-af30-b8643d0ccdc4" id="title_ab401694-231d-410d-af30-b8643d0ccdc4">메타, 전 세계 대부분 언어 지원하는 음성 인식 시스템 오픈소스 출시</a>
 </td>
-<td class="read_num xe-hidden-xs">90</td>
+<td class="read_num xe-hidden-xs">153</td>
 <td class="time xe-hidden-xs column-created_at">2025-11-12</td>
 </tr>
 <tr>
@@ -978,7 +1018,7 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/02ec3f57-39b6-42b3-9549-e2b2fbe48b1a" id="title_02ec3f57-39b6-42b3-9549-e2b2fbe48b1a">[주간 OSS 동향리포트] 구글 리서치, '증명 가능한 개인 정보 보호' AI 분석 시스템 공개</a>
 </td>
-<td class="read_num xe-hidden-xs">84</td>
+<td class="read_num xe-hidden-xs">126</td>
 <td class="time xe-hidden-xs column-created_at">2025-11-12</td>
 </tr>
 <tr>
@@ -986,7 +1026,7 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/c25d08db-21d9-4f53-bc35-d1842f266881" id="title_c25d08db-21d9-4f53-bc35-d1842f266881">소니 AI, 세계 최초 ‘인간 중심 AI 데이터셋’ 오픈소스로 공개</a>
 </td>
-<td class="read_num xe-hidden-xs">89</td>
+<td class="read_num xe-hidden-xs">129</td>
 <td class="time xe-hidden-xs column-created_at">2025-11-11</td>
 </tr>
 <tr>
@@ -994,48 +1034,8 @@
 <td class="title column-title">
 <a class="title_text" href="https://www.oss.kr/news/show/f3684b77-06a4-407d-b2cb-0180b0054cbe" id="title_f3684b77-06a4-407d-b2cb-0180b0054cbe">텔레칩스, 오픈소스 관리체계 '국제표준 인증' 획득</a>
 </td>
-<td class="read_num xe-hidden-xs">78</td>
+<td class="read_num xe-hidden-xs">119</td>
 <td class="time xe-hidden-xs column-created_at">2025-11-11</td>
-</tr>
-<tr>
-<td>11537</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/33adb25f-a06c-4787-b6ac-2ded4f867d4b" id="title_33adb25f-a06c-4787-b6ac-2ded4f867d4b">CJ대한통운, 글로벌 오픈소스 표준 뚫었다…업계 첫 ISO 인증</a>
-</td>
-<td class="read_num xe-hidden-xs">90</td>
-<td class="time xe-hidden-xs column-created_at">2025-11-11</td>
-</tr>
-<tr>
-<td>11536</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/ac5b2fce-ac93-41e4-adb2-91b3f1619f6d" id="title_ac5b2fce-ac93-41e4-adb2-91b3f1619f6d">퍼플렉시티, 비용 부담 없이 조(兆) 단위 모델 실행하는 오픈소스 ‘트랜스퍼엔진’ 공개</a>
-</td>
-<td class="read_num xe-hidden-xs">74</td>
-<td class="time xe-hidden-xs column-created_at">2025-11-11</td>
-</tr>
-<tr>
-<td>11535</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/b3965987-c78d-42df-ba68-4627ba546639" id="title_b3965987-c78d-42df-ba68-4627ba546639">문샷, 오픈 소스 최강 ‘키미 K2 싱킹’ 출시..."300단계 연속 도구 호출"</a>
-</td>
-<td class="read_num xe-hidden-xs">156</td>
-<td class="time xe-hidden-xs column-created_at">2025-11-10</td>
-</tr>
-<tr>
-<td>11534</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/0030be53-8201-4e8d-a4b2-095ba8e66e54" id="title_0030be53-8201-4e8d-a4b2-095ba8e66e54">한컴, 오픈소스 국제 표준 인증(ISO/IEC 5230) 획득</a>
-</td>
-<td class="read_num xe-hidden-xs">135</td>
-<td class="time xe-hidden-xs column-created_at">2025-11-07</td>
-</tr>
-<tr>
-<td>11533</td>
-<td class="title column-title">
-<a class="title_text" href="https://www.oss.kr/news/show/fe16f9bf-c644-4742-a889-e405bbe1e213" id="title_fe16f9bf-c644-4742-a889-e405bbe1e213">AI 확산 관건은 ‘오픈소스’…국내 산업·공공 적용 논의 확산</a>
-</td>
-<td class="read_num xe-hidden-xs">156</td>
-<td class="time xe-hidden-xs column-created_at">2025-11-06</td>
 </tr>
 <!-- /LIST -->
 </tbody>

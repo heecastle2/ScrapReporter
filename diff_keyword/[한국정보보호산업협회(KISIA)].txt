@@ -1046,6 +1046,36 @@
 <tbody>
 <tr>
 <th class="col-xs-1 text-center" scope="row">
+<a href="769">769</a>
+</th>
+<td class="col-xs-5">
+<a href="769">2025 ACDC(AI Cyber Defense Contest) 참관객 모집 안내</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="769">홍보협력팀</a>
+</td>
+<td class="col-xs-3">
+<a href="769">2025년 11월 21일 10:14 오전</a>
+</td>
+</tr>
+</tbody>
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="768">768</a>
+</th>
+<td class="col-xs-5">
+<a href="768">[KISIA] 2026년 글로벌 사이버 보안 시장 전망 및 권역별 진출 전략 웨비나 신청(~11.28.(금))</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="768">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="768">2025년 11월 18일 1:12 오후</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
 <a href="767">767</a>
 </th>
 <td class="col-xs-5">
@@ -1058,7 +1088,7 @@
 <a href="767">2025년 11월 13일 1:02 오후</a>
 </td>
 </tr>
-</tbody>
+
 <tr>
 <th class="col-xs-1 text-center" scope="row">
 <a href="766">766</a>
@@ -1161,36 +1191,6 @@
 </td>
 <td class="col-xs-3">
 <a href="760">2025년 10월 20일 7:14 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="759">759</a>
-</th>
-<td class="col-xs-5">
-<a href="759">[모집중] 2025 ICT융합산업보안 인력양성사업 10,11월 교육생</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="759">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="759">2025년 10월 10일 5:15 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="758">758</a>
-</th>
-<td class="col-xs-5">
-<a href="758">[모집중]  전국 중소기업 및 주요 CISO 대상 순회 사이버보안 교육, 침해사고 무료점검 설명회 10월 참가자 모집</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="758">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="758">2025년 10월 10일 1:08 오후</a>
 </td>
 </tr>
 

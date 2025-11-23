@@ -18,16 +18,16 @@
 <link href="/contents/main_vendors/swiper-11.0.7/package/swiper-bundle.min.css" rel="stylesheet"/>
 <link href="/contents/main_vendors/bootstrap-3.3.7/dist/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/contents/main_vendors/rd-navbar-2.1.8/dist/css/rd-navbar.css" rel="stylesheet"/>
-<link href="/contents/main_css/animation.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/main_css/layout.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/main_css/main-content.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/main_css/slick.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/css/new_base.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/css/sub_cont.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/css/login.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/nav_common/nav_css/common.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/nav_common/nav_css/layout.css?ver=2025-11-17" rel="stylesheet"/>
-<link href="/contents/nav_common/nav_css/nav.css?ver=2025-11-17" rel="stylesheet"/>
+<link href="/contents/main_css/animation.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/main_css/layout.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/main_css/main-content.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/main_css/slick.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/css/new_base.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/css/sub_cont.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/css/login.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/nav_common/nav_css/common.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/nav_common/nav_css/layout.css?ver=2025-11-24" rel="stylesheet"/>
+<link href="/contents/nav_common/nav_css/nav.css?ver=2025-11-24" rel="stylesheet"/>
 <link href="/contents/js/jquery-ui/jquery-ui.css" rel="stylesheet"/>
 <script src="/contents/main_js/core.min.js"></script>
 <script src="/contents/main_js/easings.min.js"></script>
@@ -37,9 +37,9 @@
 <script src="/contents/js/jquery-ui-1.14.1/jquery-ui.min.js"></script>
 <script defer="" src="/contents/js/jquery-validation-1.19.5/dist/jquery.validate.js"></script>
 <script defer="" src="/contents/js/jquery-validation-1.19.5/src/localization/messages_ko.js"></script>
-<script src="/contents/js/func.js?ver=2025-11-17"></script>
-<script src="/contents/js/common.js?ver=2025-11-17"></script>
-<script src="/contents/js/action.js?ver=2025-11-17"></script>
+<script src="/contents/js/func.js?ver=2025-11-24"></script>
+<script src="/contents/js/common.js?ver=2025-11-24"></script>
+<script src="/contents/js/action.js?ver=2025-11-24"></script>
 <script src="/contents/nav_common/nav_js/core.min.js"></script>
 <script src="/contents/js/google_analytics.js"></script>
 </head>
@@ -159,7 +159,7 @@ $(function() {
 				{ menuName: "인재양성", menuUrl: "https://www.iitp.kr/web/lay1/program/S1T43C48/business/index.do" },
 				{ menuName: "국제공동연구·표준화", menuUrl: "https://www.iitp.kr/web/lay1/program/S1T43C49/business/index.do" },
 				{ menuName: "기반조성·사업화", menuUrl: "https://www.iitp.kr/web/lay1/program/S1T43C50/business/index.do" },
-				{ menuName: "ICT 연구지원 서비스", menuUrl: "https://www.iitp.kr/web/lay1/program/S1T45C139/ict_support/support.do" },
+				{ menuName: "AI·ICT 연구지원 서비스", menuUrl: "https://www.iitp.kr/web/lay1/program/S1T45C139/ict_support/support.do" },
 			]
 		},
 		{ menuName: "세미나·포럼", menuUrl: "/seminar/seminar.do", childMenu: [
@@ -258,9 +258,9 @@ function registData() {
 <h4>세미나·포럼 - 행사 일정</h4>
 <div class="ContArea">
 <ul class="TabMenu">
-<li class="M_on"><a href="javascript:goToUrl('/seminar/seminar.do?countryTab=', '#searchForm');">전체 세미나·포럼</a></li>
-<li class=""><a href="javascript:goToUrl('/seminar/seminar.do?countryTab=ko', '#searchForm');">국내 세미나·포럼</a></li>
-<li class=""><a href="javascript:goToUrl('/seminar/seminar.do?countryTab=etc', '#searchForm');">국외 세미나·포럼</a></li>
+<li class="M_on"><a href="/seminar/seminar.do?countryTab=">전체 세미나·포럼</a></li>
+<li class=""><a href="/seminar/seminar.do?countryTab=ko">국내 세미나·포럼</a></li>
+<li class=""><a href="/seminar/seminar.do?countryTab=etc">국외 세미나·포럼</a></li>
 </ul>
 <form action="/seminar/seminar.do" id="searchForm" method="get">
 <input name="countryTab" type="hidden" value=""/>
@@ -288,12 +288,12 @@ function registData() {
 </div>
 <div class="BoardHeader">
 <div class="BoardCount">
-<span>총 게시물 : <strong>4,016건</strong></span>
+<span>총 게시물 : <strong>4,029건</strong></span>
 <span>현재페이지 : 
 						<strong>
 							1
 							/
-							402
+							403
 						</strong>
 </span>
 <select name="recordCountPerPage" onchange="goToPage(1)" title="건 수 선택">
@@ -329,12 +329,110 @@ function registData() {
 <tbody>
 <tr>
 <th data-cell-header="번호" scope="row">
-									4016
+									4029
 								</th>
 <td data-cell-header="구분">예정</td>
 <td data-cell-header="개최국">한국</td>
 <td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14594', '#searchForm');">
+<a href="/seminar/seminarDetail.do?id=14609">
+										ACC 2025(AI &amp; CLOUD CONFERENCE 2025)
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-12-11 ~ 2025-12-01</td>
+<td data-cell-header="접수기간">2025-11-10 ~ 2025-12-10</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4028
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14604">
+										2025 자율주행과 모빌리티
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-12-11 ~ 2025-12-11</td>
+<td data-cell-header="접수기간">2025-11-14 ~ 2025-12-10</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4027
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">일본</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14613">
+										일본 도쿄 IREX 국제로봇 전시회 2025 
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-12-03 ~ 2025-12-06</td>
+<td data-cell-header="접수기간">2025-11-04 ~ 2025-12-02</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4026
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14579">
+										2025년 대전 전략산업 포럼
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-12-02 ~ 2025-12-02</td>
+<td data-cell-header="접수기간">2025-10-28 ~ 2025-12-02</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4025
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14606">
+										2026 SW 산업전망 컨퍼런스
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-12-02 ~ 2025-12-02</td>
+<td data-cell-header="접수기간">2025-11-10 ~ 2025-12-01</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4024
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14601">
+										제1회 PyAI 심포지움
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-11-30 ~ 2025-11-30</td>
+<td data-cell-header="접수기간">2025-11-11 ~ 2025-11-29</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4023
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14603">
+										AI로 만드는 새로운 이커머스 성장 전략 - SotaTek Korea Tech Day 11월
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-11-26 ~ 2025-11-26</td>
+<td data-cell-header="접수기간">2025-11-03 ~ 2025-11-26</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4022
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14594">
 										Next Smart Work Summit 2025
 									</a>
 </td>
@@ -343,129 +441,31 @@ function registData() {
 </tr>
 <tr>
 <th data-cell-header="번호" scope="row">
-									4015
+									4021
 								</th>
 <td data-cell-header="구분">예정</td>
 <td data-cell-header="개최국">한국</td>
 <td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14598', '#searchForm');">
+<a href="/seminar/seminarDetail.do?id=14602">
+										MilesCon 25 (마일스콘 25)
+									</a>
+</td>
+<td data-cell-header="행사기간">2025-11-26 ~ 2025-11-26</td>
+<td data-cell-header="접수기간">2025-11-05 ~ 2025-11-25</td>
+</tr>
+<tr>
+<th data-cell-header="번호" scope="row">
+									4020
+								</th>
+<td data-cell-header="구분">예정</td>
+<td data-cell-header="개최국">한국</td>
+<td data-cell-header="제목">
+<a href="/seminar/seminarDetail.do?id=14598">
 										2025 AIoT Week Korea
 									</a>
 </td>
 <td data-cell-header="행사기간">2025-11-26 ~ 2025-11-28</td>
 <td data-cell-header="접수기간">2025-11-01 ~ 2025-11-25</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4014
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14592', '#searchForm');">
-										AI. Cloud Future Summit 2026
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-26 ~ 2025-11-26</td>
-<td data-cell-header="접수기간">2025-10-25 ~ 2025-11-25</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4013
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14595', '#searchForm');">
-										K-클라우드 네이티브 서밋 2025
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-25 ~ 2025-11-25</td>
-<td data-cell-header="접수기간">2025-10-24 ~ 2025-11-24</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4012
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14590', '#searchForm');">
-										MENDIX CONNECT 2025
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-25 ~ 2025-11-25</td>
-<td data-cell-header="접수기간">2025-10-24 ~ 2025-11-24</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4011
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14588', '#searchForm');">
-										WhaTap Observe Summit 2025
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-21 ~ 2025-11-21</td>
-<td data-cell-header="접수기간">2025-10-20 ~ 2025-11-20</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4010
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14589', '#searchForm');">
-										2025 인공지능서비스 이용자보호 컨퍼런스
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-19 ~ 2025-11-19</td>
-<td data-cell-header="접수기간">2025-10-18 ~ 2025-11-18</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4009
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14512', '#searchForm');">
-										2025년도 한국통신학회 추계종합학술발표회 
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-19 ~ 2025-11-21</td>
-<td data-cell-header="접수기간">2025-10-18 ~ 2025-11-18</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4008
-								</th>
-<td data-cell-header="구분">예정</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14597', '#searchForm');">
-										[GAIF 2025] 제12회 이데일리 글로벌 AI포럼
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-19 ~ 2025-11-19</td>
-<td data-cell-header="접수기간">2025-10-02 ~ 2025-11-16</td>
-</tr>
-<tr>
-<th data-cell-header="번호" scope="row">
-									4007
-								</th>
-<td data-cell-header="구분">종료</td>
-<td data-cell-header="개최국">한국</td>
-<td data-cell-header="제목">
-<a href="javascript:goToUrl('/seminar/seminarDetail.do?id=14576', '#searchForm');">
-										2026 AI ICT 산업·기술전망 컨퍼런스
-									</a>
-</td>
-<td data-cell-header="행사기간">2025-11-12 ~ 2025-11-14</td>
-<td data-cell-header="접수기간">2025-10-27 ~ 2025-11-13</td>
 </tr>
 </tbody>
 </table>
@@ -473,7 +473,7 @@ function registData() {
 <!-- 			<button type="button" class="btnstyle01" onclick="registData()">등록</button> -->
 <!-- 		</div> -->
 <div class="Paging">
-<a class="BtnFirst off" href="javascript:void(0);">이전</a><a class="BtnForward off" href="javascript:void(0);">이전</a><div class="No_PC"> <a class="M_on">1</a> <a href="javascript:void(0);" onclick="goToPage(2);">2</a> <a href="javascript:void(0);" onclick="goToPage(3);">3</a> <a href="javascript:void(0);" onclick="goToPage(4);">4</a> <a href="javascript:void(0);" onclick="goToPage(5);">5</a></div><div class="No_Mobile"> <strong>1</strong>/402</div><a class="BtnNext" href="javascript:void(0);" onclick="goToPage(2);">다음</a><a class="BtnLast" href="javascript:void(0);" onclick="goToPage(402);">다음</a>
+<a class="BtnFirst off" href="javascript:void(0);">이전</a><a class="BtnForward off" href="javascript:void(0);">이전</a><div class="No_PC"> <a class="M_on">1</a> <a href="javascript:void(0);" onclick="goToPage(2);">2</a> <a href="javascript:void(0);" onclick="goToPage(3);">3</a> <a href="javascript:void(0);" onclick="goToPage(4);">4</a> <a href="javascript:void(0);" onclick="goToPage(5);">5</a></div><div class="No_Mobile"> <strong>1</strong>/403</div><a class="BtnNext" href="javascript:void(0);" onclick="goToPage(2);">다음</a><a class="BtnLast" href="javascript:void(0);" onclick="goToPage(403);">다음</a>
 </div>
 </div>
 </article>
