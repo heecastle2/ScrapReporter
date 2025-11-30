@@ -1046,6 +1046,21 @@
 <tbody>
 <tr>
 <th class="col-xs-1 text-center" scope="row">
+<a href="770">770</a>
+</th>
+<td class="col-xs-5">
+<a href="770">[KISIA]  2025 정보보호 인재양성 교육사업 성과공유회  개최 및 사전등록 안내(~12.18(목) 13시)</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="770">교육운영팀</a>
+</td>
+<td class="col-xs-3">
+<a href="770">2025년 11월 26일 3:03 오후</a>
+</td>
+</tr>
+</tbody>
+<tr>
+<th class="col-xs-1 text-center" scope="row">
 <a href="769">769</a>
 </th>
 <td class="col-xs-5">
@@ -1058,13 +1073,13 @@
 <a href="769">2025년 11월 21일 10:14 오전</a>
 </td>
 </tr>
-</tbody>
+
 <tr>
 <th class="col-xs-1 text-center" scope="row">
 <a href="768">768</a>
 </th>
 <td class="col-xs-5">
-<a href="768">[KISIA] 2026년 글로벌 사이버 보안 시장 전망 및 권역별 진출 전략 웨비나 신청(~11.28.(금))</a>
+<a href="768">[KISIA] 2026년 글로벌 사이버 보안 시장 전망 및 권역별 진출 전략 웨비나 신청(~12. 5.(금))</a>
 </td>
 <td class="col-xs-3 text-center">
 <a href="768">관리자</a>
@@ -1176,21 +1191,6 @@
 </td>
 <td class="col-xs-3">
 <a href="761">2025년 10월 21일 1:30 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="760">760</a>
-</th>
-<td class="col-xs-5">
-<a href="760">[KISIA] 2025 ACDC 전시참가 및 협찬 신청 안내(~10. 30.(목))</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="760">홍보협력팀</a>
-</td>
-<td class="col-xs-3">
-<a href="760">2025년 10월 20일 7:14 오후</a>
 </td>
 </tr>
 

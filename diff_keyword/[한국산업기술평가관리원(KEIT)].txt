@@ -1292,11 +1292,11 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 </div>
 <div class="notice_list" id="main_sbjt_plnn_list">
 <ul>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 재난안전산업 진흥시설 조성지원사업 신규 과제 기획을 위한 기술수요조사<i class="blank"></i></a><span class="date">2025.11.28</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 첨단소재공정고도화사업 기술수요조사<i class="blank"></i></a><span class="date">2025.11.26</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 신산업 대응 차세대 공통·핵심 뿌리기술개발사업 기획대상과제  인터넷공시<i class="blank"></i></a><span class="date">2025.11.25</span></li>
 <li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 해외인증지원체계기반구축(해외인증지원시험인프라구축) 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.21</span></li>
 <li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 해외인증지원체계기반구축(해외인증취득을 위한 성능개선 지원사업) 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.21</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 로봇산업기술개발사업 추가 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.19</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 시험인증산업경쟁력및신뢰성제고(유망시험서비스개발) 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.19</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 재난및안전관리연구개발사업 신규지원 과제기획 결과 인터넷공시<i class="blank"></i></a><span class="date">2025.11.18</span></li>
 </ul>
 </div>
 </div>
@@ -1336,11 +1336,11 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 </div>
 <div class="notice_list" id="main_notice_list">
 <ul>
+<li><a href="#" onclick="f_gotoDetailPage('C', '159049'); return false;">[재공고] 2025년도 바이오파운드리 인프라 및 활용기반 구축 사업 위탁연구 공고문</a> <span class="date">2025.11.24</span> </li>
 <li><a href="#" onclick="f_gotoDetailPage('C', '158659'); return false;">『범부처 첨단 의료기기 연구개발사업』사업단장 공모 </a> <span class="date">2025.11.20</span> </li>
 <li><a href="#" onclick="f_gotoDetailPage('C', '156955'); return false;">2025년 산업기술 국제협력 유공자 포상계획 안내</a> <span class="date">2025.10.31</span> </li>
 <li><a href="#" onclick="f_gotoDetailPage('C', '156557'); return false;">2025년도 바이오파운드리 인프라 및 활용기반 구축 사업 위탁연구 공고문</a> <span class="date">2025.10.22</span> </li>
 <li><a href="#" onclick="f_gotoDetailPage('C', '156449'); return false;">2025년 11월 산업기술 R&amp;D 실무과정 교육 안내</a> <span class="date">2025.10.20</span> </li>
-<li><a href="#" onclick="f_gotoDetailPage('C', '156050'); return false;">AI 응용제품 신속 상용화 지원사업(AX Sprint) 설명회 개최 안내 </a> <span class="date">2025.10.14</span> </li>
 </ul>
 </div>
 </div>

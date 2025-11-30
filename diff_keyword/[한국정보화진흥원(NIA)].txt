@@ -1414,7 +1414,7 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,846</em>건
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,849</em>건
             (1페이지 / 185페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
@@ -1434,6 +1434,82 @@ function doOrderby(cbIdx,orderbyDiv){
 </form>
 <div class="board_type01">
 <ul>
+<li class="nia_noti">
+<a href="#view" onclick="doBbsFView('99835','28771','16010100','28771');return false;" title="NIA 인공지능 전환(AX) 추진 전략(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             NIA 인공지능 전환(AX) 추진 전략
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.24</em>
+<em>조회수 1728</em>
+</span>
+<span class="writer">
+<em>박은명</em>
+<em>기획조정팀</em>
+</span>
+</a>
+</li>
 <li class="nia_noti">
 <a href="#view" onclick="doBbsFView('99835','28600','16010100','28600');return false;" title="인공지능기본법 하위법령 및 가이드라인(안) 대국민 의견수렴(080-137-1300)-첨부파일 있음">
 <span class="subject searchItem">
@@ -1501,7 +1577,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 13341</em>
+<em>조회수 14050</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1578,11 +1654,167 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.12.27</em>
-<em>조회수 2930</em>
+<em>조회수 3034</em>
 </span>
 <span class="writer">
 <em>장호영</em>
 <em>감사실</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28789','16010100','28789');return false;" title="AI 에이전트 서비스 시나리오 공모전 시상후보자 사전공개검증(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             AI 에이전트 서비스 시나리오 공모전 시상후보자 사전공개검증
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.28</em>
+<em>조회수 125</em>
+</span>
+<span class="writer">
+<em>백범현</em>
+<em>디지털혁신성과팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28779','16010100','28779');return false;" title="「2025년 공공 AI 대전환 챌린지」 국민투표단 모집 안내(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             「2025년 공공 AI 대전환 챌린지」 국민투표단 모집 안내
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.11.25</em>
+<em>조회수 338</em>
+</span>
+<span class="writer">
+<em>신명진</em>
+<em>지능데이터기반행정팀</em>
 </span>
 </a>
 </li>
@@ -1656,7 +1888,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.11.21</em>
-<em>조회수 389</em>
+<em>조회수 874</em>
 </span>
 <span class="writer">
 <em>신명진</em>
@@ -1665,7 +1897,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28764','16010100','28764');return false;" title="2025년 정보화정책연구사업 만족도 조사 참여 안내(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28764','16010100','28764');return false;" title="2025년 정보화정책연구사업 만족도 조사 참여 안내-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1730,11 +1962,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.11.19</em>
-<em>조회수 148</em>
+<em>조회수 274</em>
 </span>
 <span class="writer">
 <em>이석형</em>
@@ -1743,7 +1974,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28759','16010100','28759');return false;" title="「AI 응용제품 신속 상용화(AX-Sprint)」 과제(정보통신) 수요조사(2차) 공고(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28759','16010100','28759');return false;" title="「AI 응용제품 신속 상용화(AX-Sprint)」 과제(정보통신) 수요조사(2차) 공고-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1806,11 +2037,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.11.17</em>
-<em>조회수 787</em>
+<em>조회수 1151</em>
 </span>
 <span class="writer">
 <em>윤지영</em>
@@ -1819,7 +2049,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28756','16010100','28756');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28756','16010100','28756');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1882,11 +2112,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.11.17</em>
-<em>조회수 251</em>
+<em>조회수 409</em>
 </span>
 <span class="writer">
 <em>이은수</em>
@@ -1895,7 +2124,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28754','16010100','28754');return false;" title="2025년 오픈데이터포럼(ODF) 제2차 열린세미나 개최('25.11.20.)(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28754','16010100','28754');return false;" title="2025년 오픈데이터포럼(ODF) 제2차 열린세미나 개최('25.11.20.)-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1960,241 +2189,14 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.11.17</em>
-<em>조회수 164</em>
+<em>조회수 283</em>
 </span>
 <span class="writer">
 <em>정혜린</em>
 <em>공공지능데이터개방팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28748','16010100','28748');return false;" title="인공지능(AI)사회적 영향평가_에너지와 일자리에 대한 영향평가(새 글)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             인공지능(AI)사회적 영향평가_에너지와 일자리에 대한 영향평가
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.11.14</em>
-<em>조회수 707</em>
-</span>
-<span class="writer">
-<em>채은선</em>
-<em>AI정책연구팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28743','16010100','28743');return false;" title="기업 공공데이터 문제해결 지원센터 운영지침 제정(안) 입안예고-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             기업 공공데이터 문제해결 지원센터 운영지침 제정(안) 입안예고
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.11.12</em>
-<em>조회수 149</em>
-</span>
-<span class="writer">
-<em>남원미</em>
-<em>공공지능데이터기획팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28739','16010100','28739');return false;" title="2025년 우선구매대상 지능정보제품 검증 시험평가 비용 지원 사업 공고(3차)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 우선구매대상 지능정보제품 검증 시험평가 비용 지원 사업 공고(3차)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.11.12</em>
-<em>조회수 210</em>
-</span>
-<span class="writer">
-<em>이혜림</em>
-<em>디지털접근성팀</em>
 </span>
 </a>
 </li>

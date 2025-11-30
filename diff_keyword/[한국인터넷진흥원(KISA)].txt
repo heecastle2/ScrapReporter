@@ -102,7 +102,7 @@
 </link></link></link></meta></meta></head>
 <head>
 <script type="text/javascript">
-	var totalNum = 1345; // 전체 조회 건수
+	var totalNum = 1350; // 전체 조회 건수
 	var currentPage = 1; // 현재 page 번호
 	var pageSize = 10; // 페이지당 최대 데이터 갯수
 	var pageScale = 5; // 페이지당 최대 페이징 갯수
@@ -188,7 +188,7 @@ function oneDepMenu() {
 </div>
 <div class="board_top">
 <p class="lb count">
-<span>총 <b>1345</b>건
+<span>총 <b>1350</b>건
 								</span> <span>페이지 <b><span id="currentPage"></span>/<span id="totalPage"></span></b></span>
 </p>
 <div class="board_search_box">
@@ -227,43 +227,13 @@ function oneDepMenu() {
 <tbody>
 <tr class="notice">
 <td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3569&amp;page=1">KISA 정원 이름 짓기 공모전(~11.30, 일)</a>
+<td class="sbj txtL"><a href="/401/form?postSeq=3571&amp;page=1">'25년 양자내성암호 시범전환 성과공유회 개최(12.3, 세텍 컨벤션홀)</a>
 </td>
-<td class="date">2025-11-19</td>
-<td class="count">1830</td>
+<td class="date">2025-11-25</td>
+<td class="count">2470</td>
 <td class="attach">
-</td>
-</tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3567&amp;page=1">2025 ACDC(AI Cyber Defense Contest) 참관객 모집 안내</a>
-</td>
-<td class="date">2025-11-18</td>
-<td class="count">2982</td>
-<td class="attach">
-</td>
-</tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3564&amp;page=1">「개인정보 기술포럼」제4기 신규위원 모집 안내</a>
-</td>
-<td class="date">2025-11-12</td>
-<td class="count">4363</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3564', 1, 'KO');">
-<img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
-</a>
-</td>
-</tr>
-<tr class="notice">
-<td class="num"><span class="cate">공지</span></td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3562&amp;page=1">2026년 블록체인 공공분야 실증사업 수요조사 안내(~12.11.(목), 14시까지)</a>
-</td>
-<td class="date">2025-11-10</td>
-<td class="count">5387</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3562', 1, 'KO');">
-<img alt="첨부파일 HWPX" src="/resource/kor/images/common/hwpx.png"/>
+<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3571', 1, 'KO');">
+<img alt="첨부파일 JPG" src="/resource/kor/images/common/JPG.png"/>
 </a>
 </td>
 </tr>
@@ -272,7 +242,7 @@ function oneDepMenu() {
 <td class="sbj txtL"><a href="/401/form?postSeq=3557&amp;page=1">2025 글로벌 개인정보 보호 웨비나 개최 안내</a>
 </td>
 <td class="date">2025-10-30</td>
-<td class="count">5173</td>
+<td class="count">7220</td>
 <td class="attach">
 <a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3557', 1, 'KO');">
 <img alt="첨부파일 PNG" src="/resource/kor/images/common/png.png"/>
@@ -280,11 +250,59 @@ function oneDepMenu() {
 </td>
 </tr>
 <tr>
-<td class="num">1340</td>
+<td class="num">1348</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3574&amp;page=1">2025년 전자문서산업 실태조사 공표예정일 공지</a>
+</td>
+<td class="date">2025-11-27</td>
+<td class="count">1039</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1347</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3573&amp;page=1">2025 제로트러스트 &amp; 통합보안 서밋 개최 안내(12.9, 피스앤파크 컨벤션)</a>
+</td>
+<td class="date">2025-11-27</td>
+<td class="count">1504</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1346</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3572&amp;page=1">「2025 전자문서 산업인의 날」개최 안내 ('25.12.01(월), 서울 SC컨벤션센터)</a>
+</td>
+<td class="date">2025-11-25</td>
+<td class="count">1175</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1345</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3570&amp;page=1">2025년 위치정보 보호조치 교육 자료 공유 및 정기교육 사항 안내</a>
+</td>
+<td class="date">2025-11-24</td>
+<td class="count">1294</td>
+<td class="attach">
+<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3570', 1, 'KO');">
+<img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td class="num">1344</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3569&amp;page=1">KISA 정원 이름 짓기 공모전(~11.30, 일)</a>
+</td>
+<td class="date">2025-11-19</td>
+<td class="count">3978</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1343</td>
 <td class="sbj txtL"><a href="/401/form?postSeq=3568&amp;page=1">KOREA FINTECH WEEK 2025 행사 안내</a>
 </td>
 <td class="date">2025-11-19</td>
-<td class="count">1458</td>
+<td class="count">2345</td>
 <td class="attach">
 <a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3568', 1, 'KO');">
 <img alt="첨부파일 PNG" src="/resource/kor/images/common/png.png"/>
@@ -292,46 +310,22 @@ function oneDepMenu() {
 </td>
 </tr>
 <tr>
-<td class="num">1339</td>
+<td class="num">1342</td>
+<td class="sbj txtL"><a href="/401/form?postSeq=3567&amp;page=1">2025 ACDC(AI Cyber Defense Contest) 참관객 모집 안내</a>
+</td>
+<td class="date">2025-11-18</td>
+<td class="count">5877</td>
+<td class="attach">
+</td>
+</tr>
+<tr>
+<td class="num">1341</td>
 <td class="sbj txtL"><a href="/401/form?postSeq=3566&amp;page=1">글로벌 블록체인 기술·정책·산업 동향분석(2025년 10월 1주차)</a>
 </td>
 <td class="date">2025-11-13</td>
-<td class="count">2053</td>
+<td class="count">2292</td>
 <td class="attach">
 <a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3566', 1, 'KO');">
-<img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
-</a>
-</td>
-</tr>
-<tr>
-<td class="num">1338</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3565&amp;page=1">「2025 우수 정보보호 기술(제품·서비스) 선정집」 공개 및 브로슈어 다운로드 안내</a>
-</td>
-<td class="date">2025-11-13</td>
-<td class="count">1879</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3565', 1, 'KO');">
-<img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
-</a>
-</td>
-</tr>
-<tr>
-<td class="num">1337</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3563&amp;page=1">2025 KISA ESG경영 이해관계자 설문조사(~11.17, 월)</a>
-</td>
-<td class="date">2025-11-11</td>
-<td class="count">2937</td>
-<td class="attach">
-</td>
-</tr>
-<tr>
-<td class="num">1336</td>
-<td class="sbj txtL"><a href="/401/form?postSeq=3560&amp;page=1">2025년 9차 정보보호 인증제품 조달청 벤처나라 추천 희망기업 모집 공고(12월 지정심사) (~11.21(금) 18시까지)</a>
-</td>
-<td class="date">2025-11-04</td>
-<td class="count">4327</td>
-<td class="attach">
-<a href="#fnPostAttachDownload" onclick="javascript:fnPostAttachDownload(401, '3560', 1, 'KO');">
 <img alt="첨부파일 PDF" src="/resource/kor/images/common/pdf.png"/>
 </a>
 </td>
@@ -361,10 +355,10 @@ function oneDepMenu() {
 <div class="info">
 <dl class="date">
 <dt>최종수정일 : </dt>
-<dd>2025-11-21</dd>
+<dd>2025-12-01</dd>
 </dl>
 </div>
-<input name="_csrf" type="hidden" value="a3b8e48b-54b6-4ac2-87b6-417312e18f85">
+<input name="_csrf" type="hidden" value="2d4049d5-5e3c-487d-b08b-ef8e0d6b98ff">
 </input></article>
 <!-- // 만족도 조사 -->
 <script type="text/javascript">
@@ -387,7 +381,7 @@ function oneDepMenu() {
 			data: {menu_seq : 401, satisfy_code : radioVal, satisfy_opinion : $('.txt_sati').val()},
 		    beforeSend : function(xhr)
             {   /*데이터를 전송하기 전에 헤더에 csrf값을 설정한다*/
-            	xhr.setRequestHeader("X-CSRF-TOKEN", "a3b8e48b-54b6-4ac2-87b6-417312e18f85");
+            	xhr.setRequestHeader("X-CSRF-TOKEN", "2d4049d5-5e3c-487d-b08b-ef8e0d6b98ff");
             },			
 			success: function(data) {
 				alert(data.message)
@@ -462,7 +456,7 @@ function oneDepMenu() {
 <option value="">-- 정부기관 --</option>
 <option value="https://www.msit.go.kr">과학기술정보통신부</option>
 <option value="https://www.mois.go.kr">행정안전부</option>
-<option value="https://www.kcc.go.kr">방송통신위원회</option>
+<option value="https://www.kcc.go.kr">방송미디어통신위원회</option>
 <option value="https://www.pipc.go.kr">개인정보보호위원회</option>
 <option value="">-----------------</option>
 <option value="">-- 유관기관 --</option>
