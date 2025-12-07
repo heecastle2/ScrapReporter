@@ -3,7 +3,7 @@
 
 <html lang="ko">
 <head>
-<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="889de79c-65df-4c17-9ab7-85d2f801fa5e" name="_csrf"/>
+<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="aeaaaa58-9f43-4945-a490-2a643eca225c" name="_csrf"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
@@ -40,14 +40,14 @@
 <script>
 		var site_id = 1;
 		var getIp = '20.130.1.171'
-		var getId = 'C288E0B84C8F82DD29D7D5C06C293823'
+		var getId = '20111A5A8E6BCA5DBAC1C6A5AC102116'
 	</script>
 </head>
 <body>
 <div class="wrap">
 <div id="skipNavi">
 <a class="main_skip" href="#main">본문으로 바로가기</a>
-<a class="sub_skip" href="#sub">본문으로 바로가기</a>
+<a class="sub_skip" href="#sub2">본문으로 바로가기</a>
 <a href="#lnb">메뉴로 바로가기</a>
 </div>
 <header id="header">
@@ -1020,7 +1020,7 @@
 </div>
 <div class="img_inner">
 <div class="img">
-<img alt="" src="/images/main/reflected_img.png"/>
+<img alt="정보통신기획평가원 리플렛 - 30년의 도전 100년의 기대" src="/images/main/reflected_img.png"/>
 </div>
 </div>
 </div>
@@ -1077,28 +1077,72 @@
 											우리가 개발한 정보통신기술은<br/>
 											우리의 삶을 즐겁고<br/>
 											안전하고<br/>
-											편리하게 변화시키고 있습니다<br/>
+											편리하게 변화시키고 있습니다.<br/>
+											[자동번역 AI]
+											정보통신기획평가원에 대해서 소개하자면<br/>
+											Let me introduce IITP<br/>
 											바로 이곳에<br/>
 											이러한 변화를 만들어가는 사람들이 있습니다.<br/>
-											대한민국을 이끌 전략기술을 기획하고 실행하는 사람들이 있습니다<br/>
-											불가능을 가능케하는 ICT R&amp;D·인재양성 전문기관<br/>
+											[2025 IITP 예산 - 1.6조]<br/>
+											기술개발 65%<br/>
+											인재양성 25%<br/>
+											국제공동연구 및 사업화 10%<br/>
+											실행하는 사람들이 있습니다.
+											불가능을 가능케하는<br/>
+											ICT R&amp;D·인재양성 전문기관<br/>
 											IITP입니다<br/>
 											이 모든 것은 작은 사무실에서 시작되었습니다<br/>
+											(1가구 1전화 시대 개막)<br/>
 											처음에는 불가능해 보였습니다<br/>
-											그러나 우리의 꿈은 점점 더 거대해졌습니다<br/>
-											이 거대한 꿈으로 인해, 세상은 연결되었습니다<br/>
+											(세계 최고 광대역통합망(BcN) 구축)<br/>
+											(세계최초 CDMA 상용화 이동통신 강국 대한민국의 서막을 열다)<br/>
+											(UHD와 DMB 세계 최초 상용화)<br/>
+											(나만의 초고화질 방송 시대 개막)<br/>
+											이 거대한 꿈으로 인해 세상은 연결되었습니다.<br/>
+											(상상을 이끄는 미디어 콘텐츠 기술 - 고려거란 전쟁)<br/>
+											(천리안 위성 1호)<br/>
 											기술은 사람을 통하여 완성되고<br/>
-											이러한 기술들이 모여 더 밝은 미래가 펼쳐집니다<br/>
+											이러한 기술들이 모여 더 밝은 미래가 펼쳐집니다.<br/>
+											인공지능 세계 최초 인간수준 범용지능(AGI) 구현
+											양자 AI, 엣지 AI, 뇌인지 묘사, 저전력·경량화<br/>
+											안정성·신뢰성, 임베디드 AI<br/>
+											초격차 AI반도체 기술 확보로 글로벌 강국 도약<br/>
+											K-클라우드, 뉴로모픽 반도체, PIM반도체<br/>
+											AI 반도체 시스템 SW, 고성능·저전력 구현<br/>
+											온디바이스 AI 반도체<br/>
+											양자정보기술<br/>
+											양자네트워크 확장 및<br/>
+											양자센싱 상용화로 퀀텀시대 도약<br/>
+											양자센서, 양자 인터넷, 양자 암호, 양자 메모리<br/>
+											차세대 통신<br/>
+											세계 최고 초연결 인프라 확보로<br/>
+											네트워크 경쟁우위 선점<br/>
+											6G 표준기반 저궤도 위성통신 시스템, 6G<br/>
+											Pre-6G 세계 최초 시연, 6G 상용 기술 선점<br/>
+											사이버 보안<br/>
+											AI 활용확산에 따른<br/>
+											초신뢰 안전 확보 기술 개발<br/>
+											AI·클라우드 보안, AI 공격 탐지 및 대응<br/>
+											사이버범죄 억제 및 피해저감<br/>
+											능동·자율형 정보보호 대응체계<br/>
+											AI·디지털융합<br/>
+											시·공간 한계를 극복하고<br/>
+											미래사회를 위한 AI·디지털 기술개발<br/>
+											초감각 인지 공간컴퓨팅, 디지털 공간<br/>
+											산업용 메타버스<br/>
+											AI·ICT 미래 인재양성<br/>
+											[IT 소프트웨어학가 신입생 입학전 SW 교육캠프 개최]<br/>
 											IITP는 대한민국을 이끌어 나갈<br/>
-											AI·ICT 미래 인재를 양성합니다<br/>
+											AI·ICT 미래 인재를 양성합니다.<br/>
 											디지털 핵심 기술을 설계하고<br/>
-											전주기를 지원하는 인재를 양성하겠습니다<br/>
+											전주기를 지원하는 인재를 양성하겠습니다.<br/>
 											IITP는 R&amp;D 프로세스를 혁신하고<br/>
 											국내·외 파트너들과 협력하여<br/>
-											대한민국의 AI 강국 도약을 선도하겠습니다<br/>
-											상상해 보세요<br/>
-											앞으로 우리가 함께 꿈꾸며 변화시킬 세상을<br/>
-</div>
+											대한민국의 AI강국 도양을 선도하겠습니다.<br/>
+											상상해보세요.<br/>
+											앞으로 우리가 함께 꿈꾸며 변화시길 세상을<br/>
+											IITP 정보통신기획평가원
+										</div>
 </div>
 </div>
 </div>
@@ -1123,31 +1167,31 @@
 </div>
 <div class="list_area">
 <ul class="list pc">
-<li class="on" data-link="/web/lay1/bbs/S1T12C37/A/7/list.do" data-tab="tab01">
+<li class="on" data-link="/web/lay1/bbs/S1T12C37/A/7/list.do" data-name="공지사항" data-tab="tab01">
 <button class="tab_btn" type="button">전체 <span class="hide">선택됨</span></button>
 </li>
-<li data-link="/web/lay1/bbs/S1T12C37/A/7/list.do" data-tab="tab02">
+<li data-link="/web/lay1/bbs/S1T12C37/A/7/list.do" data-name="공지사항" data-tab="tab02">
 <button class="tab_btn" type="button">공지사항 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/bbs/S1T12C38/A/8/list.do" data-tab="tab03">
+<li data-link="/web/lay1/bbs/S1T12C38/A/8/list.do" data-name="입찰공고" data-tab="tab03">
 <button class="tab_btn" type="button">입찰공고 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/program/S1T39C42/hire/list.do" data-tab="tab04">
+<li data-link="/web/lay1/program/S1T39C42/hire/list.do" data-name="채용공고" data-tab="tab04">
 <button class="tab_btn" type="button">채용공고 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/bbs/S1T11C31/A/4/list.do" data-tab="tab05">
+<li data-link="/web/lay1/bbs/S1T11C31/A/4/list.do" data-name="보도자료" data-tab="tab05">
 <button class="tab_btn" type="button">보도자료 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/program/S1T14C60/itfind/list.do" data-tab="tab06">
+<li data-link="/web/lay1/program/S1T14C60/itfind/list.do" data-name="디지털 동향정보" data-tab="tab06">
 <button @click="getItfind01();" class="tab_btn" type="button">디지털 동향정보 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/program/S1T14C61/itfind/list.do" data-tab="tab07">
+<li data-link="/web/lay1/program/S1T14C61/itfind/list.do" data-name="정책/통계" data-tab="tab07">
 <button @click="getItfind02();" class="tab_btn" type="button">정책/통계 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/program/S1T62C65/itfind/list.do" data-tab="tab08">
+<li data-link="/web/lay1/program/S1T62C65/itfind/list.do" data-name="정기간행물" data-tab="tab08">
 <button @click="getItfind03();" class="tab_btn" type="button">정기간행물 <span class="hide">선택되지 않음</span></button>
 </li>
-<li data-link="/web/lay1/bbs/S1T56C227/A/12/list.do" data-tab="tab09">
+<li data-link="/web/lay1/bbs/S1T56C227/A/12/list.do" data-name="법령 및 규정" data-tab="tab09">
 <button class="tab_btn" type="button">법령 및 규정 <span class="hide">선택되지 않음</span></button>
 </li>
 </ul>
@@ -1163,7 +1207,7 @@
 <option data-tab="tab09" value="/web/lay1/bbs/S1T56C227/A/12/list.do">법령 및 규정</option>
 </select>
 </div>
-<a class="com_view_btn pc" href="/web/lay1/S1T12C37/contents.do"><span class="text">더보기 +</span></a>
+<a class="com_view_btn pc" href="/web/lay1/S1T12C37/contents.do" title="공지사항"><span class="text">더보기 +</span></a>
 </div>
 </div>
 <div class="tab_cont on" id="tab01">
@@ -1847,8 +1891,8 @@
 <div class="f_etc">
 <ul class="list">
 <li>
-<a @click="return wahPopup('wah');" class="box icon01" href="javascript:void(0);" title="웹 접근성 우수사이트 인증마크(WA인증마크)를 새창으로 보여줍니다.">
-<img alt="(사)한국장애인단체총연합회 한국웹접근성인증평가원 웹 접근성 우수사이트 인증마크(WA인증마크)" src="/images/footer/f_etc_img01.png"/>
+<a @click="return wahPopup('wah');" class="box icon01" href="javascript:void(0);" title="웹와치(WebWatch)을 새창으로 보여줍니다.">
+<img alt="과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2025.12.02 ~ 2026.12.01" src="/images/footer/f_etc_img01.png" style="width: 70px;"/>
 </a>
 </li>
 <li>

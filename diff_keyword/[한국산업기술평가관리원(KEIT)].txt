@@ -1292,11 +1292,11 @@ JOIN R&D를 눌렀을 때 로그인 안한 상태이면 “산업기술정보공
 </div>
 <div class="notice_list" id="main_sbjt_plnn_list">
 <ul>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 재난안전산업 진흥시설 조성지원사업 신규 과제 기획을 위한 기술수요조사<i class="blank"></i></a><span class="date">2025.11.28</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 첨단소재공정고도화사업 기술수요조사<i class="blank"></i></a><span class="date">2025.11.26</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 신산업 대응 차세대 공통·핵심 뿌리기술개발사업 기획대상과제  인터넷공시<i class="blank"></i></a><span class="date">2025.11.25</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 해외인증지원체계기반구축(해외인증지원시험인프라구축) 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.21</span></li>
-<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 해외인증지원체계기반구축(해외인증취득을 위한 성능개선 지원사업) 기술수요조사 공고<i class="blank"></i></a><span class="date">2025.11.21</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2025년 국가핵심기술 신규 변경 해제 수요조사 공고<i class="blank"></i></a><span class="date">2025.12.05</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년도 한국형수소환원제철실증기술개발사업 신규 기획대상과제 인터넷 공시<i class="blank"></i></a><span class="date">2025.12.04</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 자동차핵심부품용 저탄소 철강판재기술개발사업(R&amp;D) 신규지원 과제기획 결과 인터넷공시<i class="blank"></i></a><span class="date">2025.12.04</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 나노소재기반 핵심전략산업 열관리기술개발사업 신규지원 기획대상과제 인터넷공시<i class="blank"></i></a><span class="date">2025.12.03</span></li>
+<li><a href="#" onclick="cf_goPlnnRome('','','','ROME1'); return false;" target="_blank" title="새창으로 열림">2026년 첨단나노소재 산업안전성 평가기술개발사업 신규지원 기획대상과제 인터넷공시<i class="blank"></i></a><span class="date">2025.12.03</span></li>
 </ul>
 </div>
 </div>
