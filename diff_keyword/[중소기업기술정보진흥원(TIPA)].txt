@@ -1344,7 +1344,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--12 12 12 8-->
+<!--12 12 12 15-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1361,7 +1361,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--11 12 12 8-->
+<!--11 12 12 15-->
 <img alt="접수중" class="va_t" src="/images/common/icon08.gif"/>
 </td>
 </tr>
@@ -1378,7 +1378,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--11 12 12 8-->
+<!--11 12 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1395,7 +1395,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--11 12 12 8-->
+<!--11 12 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1412,7 +1412,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--11 11 12 8-->
+<!--11 11 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1429,7 +1429,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--10 11 12 8-->
+<!--10 11 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1446,7 +1446,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--10 10 12 8-->
+<!--10 10 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1463,7 +1463,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--7 7 12 8-->
+<!--7 7 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1480,7 +1480,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 10 12 8-->
+<!--9 10 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1497,7 +1497,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 10 12 8-->
+<!--9 10 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1514,7 +1514,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 10 12 8-->
+<!--9 10 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1531,7 +1531,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--9 9 12 8-->
+<!--9 9 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1548,7 +1548,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 9 12 8-->
+<!--8 9 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1565,7 +1565,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--8 8 12 8-->
+<!--8 8 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>
@@ -1582,7 +1582,7 @@ $(document).ready(function () {
 
 	                    </td>
 <td class="ac ll">
-<!--7 7 12 8-->
+<!--7 7 12 15-->
 <img alt="접수완료" class="va_t" src="/images/common/icon07.gif"/>
 </td>
 </tr>

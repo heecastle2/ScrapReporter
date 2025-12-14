@@ -97,17 +97,17 @@ function hasScrolled() {
 </div>
 <div id="scroll_up">
 <ul>
-<li><a href="view.asp?idx=140782&amp;kind=1"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/20251207vul-s.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=140782&amp;kind=1"><font color="#091545">“리액트 서버 뚫리면 끝장”... 국...</font></a></p></li>
+<li><a href="view.asp?idx=140922&amp;kind=12"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/tn coupang hearing.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=140922&amp;kind=12"><font color="#091545">[쿠핑 해킹] “글로벌 기업 CEO라...</font></a></p></li>
 </ul>
-<li><a href="view.asp?idx=140778&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/1207-1.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=140778&amp;kind=2"><font color="#091545">의무화·실증심사·인증취소... 확 달...</font></a></p></li>
+<li><a href="view.asp?idx=140921&amp;kind=3"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/tn lg snu.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=140921&amp;kind=3"><font color="#091545">[AI와 보안] LG전자-서울대, A...</font></a></p></li>
 
-<li><a href="view.asp?idx=140776&amp;kind=6"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/1206-9.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=140776&amp;kind=6"><font color="#091545">[이슈칼럼] 2025년 ‘보안의 역설...</font></a></p></li>
+<li><a href="view.asp?idx=140920&amp;kind=2"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/tn most.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=140920&amp;kind=2"><font color="#091545">양자키분배, 메타버스에 우리나라 제안...</font></a></p></li>
 
-<li><a href="view.asp?idx=140771&amp;kind=56"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/1205-13.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
-<p><a href="view.asp?idx=140771&amp;kind=56"><font color="#091545">[테크칼럼] 보안팀이 손댈 수 없는 ...</font></a></p></li>
+<li><a href="view.asp?idx=140890&amp;kind=12"><img align="left" alt="" height="50" src="/media/upFiles2/2025/12/20251214prack-s.jpg" style="border:1px solid #DDDDDD" width="80"/></a>
+<p><a href="view.asp?idx=140890&amp;kind=12"><font color="#091545">[2025 보안 사고·이슈 결산-1]...</font></a></p></li>
 
 </div>
 <!--Include virtual="/secu_admin/ad_log/log.asp"-->
@@ -322,6 +322,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <iframe frameborder="0" height="100" name="media_center" src="/media/include/media_center_banner.asp" width="750"></iframe>
 <div id="news_area">
 <div class="news_list">
+<a href="/media/view.asp?idx=140898&amp;page=1&amp;kind=1">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/12/1212 st th.png">
+<span class="news_txt">‘스파이더맨’ <b>피싱</b> 키트 등장…초보 해커도 은행 로그인 복제한다</span>
+</img></a><br/>
+<a class="news_content" href="/media/view.asp?idx=140898&amp;page=1&amp;kind=1">‘스파이더맨’(Spiderman)이라는 새로운 피싱 프레임워크가 등장해 금융 사기 진입 장벽을 크게 낮추고 있다.  보안업체 바로니스 분석 결과 툴킷은 최소한의 ...</a> <span class="news_writer">여이레 기자 | 2025년 12월 12일 11:44</span>
+</div>
+<div class="news_line"></div>
+<div class="news_list">
+<a href="/media/view.asp?idx=140802&amp;page=1&amp;kind=2">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/12/1208 K TH.png">
+<span class="news_txt">[이슈칼럼] 계정 보안을 넘어, 이제는 ‘기계 신원’과 ‘키’를 지켜야 할 때</span>
+</img></a><br/>
+<a class="news_content" href="/media/view.asp?idx=140802&amp;page=1&amp;kind=2">기업 보안에서 계정 탈취는 여전히 중요한 위협이다. 그런데 최근 몇 년 사이 공격 양상이 달라지고 있다. 비밀번호가 사라지고 OTP와 패스키 같은 피싱 저항 MF...</a> <span class="news_writer">여이레 기자 | 2025년 12월 09일 09:33</span>
+</div>
+<div class="news_line"></div>
+<div class="news_list">
 <a href="/media/view.asp?idx=140773&amp;page=1&amp;kind=4">
 <img alt="" class="news_img" height="70" src="/media/upFiles2/2025/12/1206-3.jpg">
 <span class="news_txt">러시아 해커 ‘칼리스토’, NATO 넘어 동유럽 NGO까지 노린다</span>
@@ -379,17 +395,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="news_line"></div>
 <div class="news_list">
 <a href="/media/view.asp?idx=140631&amp;page=1&amp;kind=2">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/sc-1(2).png">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/sc-1(2).png"/>
 <span class="news_txt">KT 보이스<b>피싱</b> 탐지, ‘ICT 규제샌드박스’ 대표 시례... 성과공유회 열려</span>
-</img></a><br/>
+</a><br/>
 <a class="news_content" href="/media/view.asp?idx=140631&amp;page=1&amp;kind=2">과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈)가  ICT 규제샌드박스의 성과 사례로 KT의 실시간 통화기반 보이스피싱 탐지 서비스 등을 발표한다. </a> <span class="news_writer">강현주 기자 | 2025년 11월 30일 15:33</span>
 </div>
 <div class="news_line"></div>
 <div class="news_list">
 <a href="/media/view.asp?idx=140593&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/1127-15.jpg">
+<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/1127-15.jpg"/>
 <span class="news_txt">또 터진 ‘공급망 보안’... 오픈AI, 협력사 해킹에 고객정보 노출 불똥</span>
-</img></a><br/>
+</a><br/>
 <a class="news_content" href="/media/view.asp?idx=140593&amp;page=1&amp;kind=1">챗GPT 개발사 ‘오픈AI’(OpenAI)는 데이터 분석 파트너사인 ‘믹스패널’(Mixpanel)의 보안사고로 인해 일부 이용자의 정보가 유출됐다고 밝혔다. 다만...</a> <span class="news_writer">조재호 기자 | 2025년 11월 27일 17:34</span>
 </div>
 <div class="news_line"></div>
@@ -449,38 +465,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a class="news_content" href="/media/view.asp?idx=140433&amp;page=1&amp;kind=3">모바일 안티 해킹 솔루션 기업 시큐리온은 19일 모바일 안티바이러스 솔루션 ‘온백신’(OnAV)의 보이스피싱 악성 앱 탐지 성능을 강화하는 업데이트를 진행했다고 ...</a> <span class="news_writer">여이레 기자 | 2025년 11월 19일 11:30</span>
 </div>
 <div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=140332&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/1113-34.jpg"/>
-<span class="news_txt">MS365 사용자 겨냥 원클릭 <b>피싱</b> 도구 ‘퀀텀 라우트 리디렉트’ 등장 </span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=140332&amp;page=1&amp;kind=1">새롭게 발견된 ‘퀀텀 라우트 리디렉트’(QRR)라는 고도화된 툴을 통해 마이크로소프트 365 사용자를 노리는 정교한 피싱 캠페인이 전 세계적으로 확산되고 있다. ...</a> <span class="news_writer">여이레 기자 | 2025년 11월 13일 14:48</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=140280&amp;page=1&amp;kind=2">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/ulsan-s.jpg"/>
-<span class="news_txt">울산시청 직원 사칭 허위 용역발주 잇따라... 의심스러운 전화 즉시 신고</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=140280&amp;page=1&amp;kind=2">울산시는 최근 울산시청 직원을 사칭한 신종 전자금융사기(피싱) 수법이 잇따라 발생하면서 시민 피해가 우려되고 있어 각별한 주의를 당부하고 나섰다.</a> <span class="news_writer">강초희 기자 | 2025년 11월 11일 11:12</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=140275&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/1111 i th.png"/>
-<span class="news_txt">“(잃어버린) 아이폰 찾았다” 문자 받으면 사기 조심!…애플 ID 노리는 스미싱 공격 경고 </span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=140275&amp;page=1&amp;kind=1">스위스 국립사이버보안센터(NCSC)가 아이폰 사용자들에게 피싱 사기에 대한 경고를 보냈다. 이 사기는 분실되거나 도난당한 아이폰을 찾았다고 속여 사용자의 애플 I...</a> <span class="news_writer">여이레 기자 | 2025년 11월 11일 10:31</span>
-</div>
-<div class="news_line"></div>
-<div class="news_list">
-<a href="/media/view.asp?idx=140276&amp;page=1&amp;kind=1">
-<img alt="" class="news_img" height="70" src="/media/upFiles2/2025/11/sum(1).jpg"/>
-<span class="news_txt">[카드뉴스] 빼빼로데이 쿠폰 <b>피싱</b> 급증… “클릭 한 번에 결제정보 탈취, 200만 원 피해”</span>
-</a><br/>
-<a class="news_content" href="/media/view.asp?idx=140276&amp;page=1&amp;kind=1">11월 11일 ‘빼빼로데이’ 시즌에는 가짜 쿠폰·이벤트 링크를 통한 피싱 공격이 평소보다 3배 이상 증가한다. 사용자가 문자나 DM의 ‘선물쿠폰 링크’를 클릭하면...</a> <span class="news_writer">지진솔 기자 | 2025년 11월 11일 10:25</span>
-</div>
-<div class="news_line"></div>
 </div>
 <div id="PageNation"><img border="0" height="8" src="/images/body/list_icon02.gif" width="11"/>&#160;&#160;<b><font color="#D00000">1</font></b>&#160;&#160;<img border="0" height="8" src="/images/body/list_icon01.gif" width="11"/></div>
 <div id="news_top" style="text-align:right;">
@@ -501,16 +485,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="main_HitNews_area"><div id="main_HitNews_title" onclick="location.href='/media/o_list.asp';"><span>가장 많이 본 기사 [주간]</span></div>
 <div id="main_HitNews"><ul>
-<li><img class="HitNews_img" height="13" src="/images/new/1.gif" width="13"> <a href="/media/view.asp?idx=140637">[쿠팡 해킹] 쿠팡 앱 ‘내정보관리’에 낯선 기기 ...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/2.gif" width="13"> <a href="/media/view.asp?idx=140706">[쿠팡 해킹] “890억 쓰고 ‘기본’에 뚫렸다”....</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/3.gif" width="13"> <a href="/media/view.asp?idx=140656">[쿠팡 해킹] 3370만명 털어놓고 “보안 강화하라...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/4.gif" width="13"> <a href="/media/view.asp?idx=140766" style="color:#999999;">[긴급] React·Next.js서 심각도 10 취...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=140762" style="color:#999999;">“북한 해커가 역으로 털렸다” 바이비트 14억달러 ...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=140698" style="color:#999999;">브라우저 확장 프로그램 430만 건, 스파이웨어로 ...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=140672" style="color:#999999;">[쿠팡 해킹] 결제정보 안털려 괜찮다?... 정보 ...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/8.gif" width="13"> <a href="/media/view.asp?idx=140701" style="color:#999999;">[이슈칼럼] 쿠팡 사태 등 계속되는 해킹, ISMS...</a></img></li>
-<li><img class="HitNews_img" height="13" src="/images/new/9.gif" width="13"/> <a href="/media/view.asp?idx=140682" style="color:#999999;">[쿠팡 해킹] “김범석 의장 나오라” “최고 수준 ...</a></li>
-<li><img class="HitNews_img" height="13" src="/images/new/10.gif" width="13"/> <a href="/media/view.asp?idx=140653" style="color:#999999;">[쿠팡 해킹] 쿠팡 사태로 본 ‘내부자 위협’…글로...</a></li>
+<li><img class="HitNews_img" height="13" src="/images/new/1.gif" width="13"> <a href="/media/view.asp?idx=140790">[쿠팡 해킹] 쿠팡 꼼수, ‘빅데이터’는 알고 있다...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/2.gif" width="13"> <a href="/media/view.asp?idx=140887">“디카프리오 공짜로 보려다가” 영화 불법 다운으로 ...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/3.gif" width="13"> <a href="/media/view.asp?idx=140796">러시아서 포르쉐 수백 대 동시 멈춰...커넥티드 차...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/4.gif" width="13"> <a href="/media/view.asp?idx=140910" style="color:#999999;">[쿠팡 해킹] ‘탈팡’ 막던 미로 사라졌다...쿠팡...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/5.gif" width="13"> <a href="/media/view.asp?idx=140819" style="color:#999999;">리액트 취약점 악용 급증... KISA·보안업계 긴...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/6.gif" width="13"> <a href="/media/view.asp?idx=140867" style="color:#999999;">비슷한 듯 다른 국정원 vs 과기정통부 AI 보안 ...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/7.gif" width="13"> <a href="/media/view.asp?idx=140906" style="color:#999999;">[2025 시스템 접근제어·계정관리·패스워드 관리 ...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/8.gif" width="13"> <a href="/media/view.asp?idx=140828" style="color:#999999;">[특별기고] 쿠팡 사태 이후, ISMS 무용론이 아...</a></img></li>
+<li><img class="HitNews_img" height="13" src="/images/new/9.gif" width="13"/> <a href="/media/view.asp?idx=140911" style="color:#999999;">李 대통령, KISA·개보위 ‘특사경 도입’  주장...</a></li>
+<li><img class="HitNews_img" height="13" src="/images/new/10.gif" width="13"/> <a href="/media/view.asp?idx=140888" style="color:#999999;">정보보호 공시에 ‘IT 자산 식별’ 신설... 현황...</a></li>
 </ul></div></div>
 <script src="/js/jquery-1.12.4.min.js" type="text/javascript"></script>
 <style type="text/css">
@@ -635,7 +619,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="https://www.instagram.com/boannews" target="_blank"><img src="/images/new/instagram.png" width="40"/></a>
 </div>
 <!--[if gte IE 10]><!--
-    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=728329943" charset="utf-8"></script>
+    <script type="text/javascript" src="http://cdnprism.pandora.tv/_adv_img/prism_ad/prismSDK/prismADP/js/PrismADP_1.3.1.min.js?lan=937413614" charset="utf-8"></script>
     <script type="text/javascript">
       /************************************************
                     Prism 광고
@@ -817,7 +801,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <div id="powerbiz_area">
 <div id="powerbiz">
-<a class="AD_Click" href="/custom/banner_advertising_link_count.asp?idx=1167" onfocus="this.blur();" target="_blank"><img alt="보안시장 백서" border="0" height="95" src="/images/banner/2026WP_banner300x95.gif" width="300"/></a>
+<a class="AD_Click" href="/custom/banner_advertising_link_count.asp?idx=1167" onfocus="this.blur();" target="_blank"><img alt="보안시장 백서" border="0" height="95" src="/images/banner/2026WP_banner300x95(0).gif" width="300"/></a>
 <a class="AD_Click" href="/custom/banner_advertising_link_count.asp?idx=437" onfocus="this.blur();" target="_blank"><img alt="" border="0" height="95" src="/images/banner/ciso.gif" width="300"/></a>
 <a class="AD_Click" href="/custom/banner_advertising_link_count.asp?idx=578" onfocus="this.blur();" target="_blank"><img alt="위즈디엔에스 2018" border="0" height="95" src="/images/banner/weeds_250715_300x95.gif" width="300"/></a>
 <a class="AD_Click" href="/custom/banner_advertising_link_count.asp?idx=694" onfocus="this.blur();" target="_blank"><img alt="넷앤드 파워비즈 진행 2020년1월8일 시작~2021년 1월8일까지" border="0" height="95" src="/images/banner/pbb.gif" width="300"/></a>
@@ -825,19 +809,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="main_clipping_area"><div id="main_clipping_title" onclick="location.href='/media/s_list.asp?skind=5';"><span>취약점 경고 및 보안 업데이트</span></div>
 <div id="main_clipping"><ul>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140871&amp;skind=5"><b>[2025.12.11]</b> 이반티 제품에서 CVSS 9....</a></li>
 <li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140782&amp;skind=5"><b>[2025.12.07]</b> “리액트 서버 뚫리면 끝장”....</a></li>
 <li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140766&amp;skind=5"><b>[2025.12.05]</b> [긴급] React·Next....</a></li>
 <li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140765&amp;skind=5"><b>[2025.12.05]</b> 파이오링크, ‘웹프론트-K’에...</a></li>
 <li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140762&amp;skind=5"><b>[2025.12.05]</b> “북한 해커가 역으로 털렸다”...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140760&amp;skind=5"><b>[2025.12.05]</b> 금융 SW 업체 ‘마르퀴스’ ...</a></li>
 </ul></div></div>
 <div id="main_clipping_area"><div id="main_clipping_title" onclick="location.href='/media/s_list.asp?skind=i';"><span>보안ㆍIT산업 동향</span></div>
 <div id="main_clipping"><ul>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140782&amp;skind=i">“리액트 서버 뚫리면 끝장”... 국내 보안...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140780&amp;skind=i">슈프리마, 연간 최다 판매 기록 돌파와 글로...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140779&amp;skind=i">한화비전, 2026년 영상보안 트렌드 전망 ...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140775&amp;skind=i">“제로트러스트 핵심 기술 선도”... 옥타코...</a></li>
-<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140765&amp;skind=i">파이오링크, ‘웹프론트-K’에 React·N...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140921&amp;skind=i">[AI와 보안] LG전자-서울대, AI 보안...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140916&amp;skind=i">파인더갭, 연말 버그바운티 대회 ‘캡처 더 ...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140914&amp;skind=i">이스트시큐리티 기업 고객 대상 연말 특별 프...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140912&amp;skind=i">지란지교소프트, 토스미니앱에서 내 계정 유출...</a></li>
+<li><img src="/search/images/directory/directory_dot02.gif"/> <a href="/media/view.asp?idx=140910&amp;skind=i">[쿠팡 해킹] ‘탈팡’ 막던 미로 사라졌다....</a></li>
 </ul></div></div>
 <script type="text/javascript">
 jQuery(function(jQuery){
@@ -880,50 +864,62 @@ jQuery(function(jQuery){
 </ul>
 <ul class="tab-newslist"><!-- 조회순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
-<a href="/media/view.asp?idx=140766"><span><img alt="" src="/media/upFiles2/2025/12/1205 rn th.png"/></span>
-<span style="font-weight:400;">[긴급] React·Next.js서 심각도 ...</span></a>
+<a href="/media/view.asp?idx=140910"><span><img alt="" src="/media/upFiles2/2025/12/1212-7.jpg"/></span>
+<span style="font-weight:400;">[쿠팡 해킹] ‘탈팡’ 막던 미로 사라졌다....</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
-<a href="/media/view.asp?idx=140762"><span><img alt="" src="/media/upFiles2/2025/12/0902 nk th.png"/></span>
-<span style="font-weight:400;">“북한 해커가 역으로 털렸다” 바이비트 14...</span></a>
+<a href="/media/view.asp?idx=140906"><span><img alt="" src="/media/upFiles2/2025/12/2219578059_m.jpg"/></span>
+<span style="font-weight:400;">[2025 시스템 접근제어·계정관리·패스워드...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">3</p>
-<a href="/media/view.asp?idx=140770"><span><img alt="" src="/media/upFiles2/2025/12/tn passkey media.jpg"/></span>
-<span style="font-weight:400;">FIDO얼라이언스, 패스키 넘어 디지털 크리...</span></a>
+<a href="/media/view.asp?idx=140911"><span><img alt="" src="/media/upFiles2/2025/12/1-1(16).jpg"/></span>
+<span style="font-weight:400;">李 대통령, KISA·개보위 ‘특사경 도입’...</span></a>
 </li>
 <li><p class="news_count">4</p>
-<a href="/media/view.asp?idx=140771"><span><img alt="" src="/media/upFiles2/2025/12/1205-13.jpg"/></span>
-<span style="font-weight:400;">[테크칼럼] 보안팀이 손댈 수 없는 영역, ...</span></a>
+<a href="/media/view.asp?idx=140913"><span><img alt="" src="/media/upFiles2/2025/12/1212 dojj th.png"/></span>
+<span style="font-weight:400;">美 법무부, 군 조달 위해 클라우드 인증 자...</span></a>
 </li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=140763"><span><img alt="" src="/media/upFiles2/2025/12/1205-9.jpg"/></span>
-<span style="font-weight:400;">금융권 ‘보안 리스크’ 비상... 전자금융거...</span></a>
+<a href="/media/view.asp?idx=140908"><span><img alt="" src="/media/upFiles2/2025/12/1212 ma th.png"/></span>
+<span style="font-weight:400;">금주 글로벌 보안업계 투자 동향…프루프포인트...</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 추천순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
-<a href="/media/view.asp?idx=140707"><span><img alt="" src="/media/upFiles2/2025/12/5.jpg"/></span>
-<span style="font-weight:400;">[IP칼럼] 中 기술굴기 시대, 대한민국 특...</span></a>
+<a href="/media/view.asp?idx=140790"><span><img alt="" src="/media/upFiles2/2025/12/1208-12.jpg"/></span>
+<span style="font-weight:400;">[쿠팡 해킹] 쿠팡 꼼수, ‘빅데이터’는 알...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">2</p>
-<a href="/media/view.asp?idx=140706"><span><img alt="" src="/media/upFiles2/2025/12/1203-5.jpg"/></span>
-<span style="font-weight:400;">[쿠팡 해킹] “890억 쓰고 ‘기본’에 뚫...</span></a>
+<a href="/media/view.asp?idx=140867"><span><img alt="" src="/media/upFiles2/2025/12/1-1(1).png"/></span>
+<span style="font-weight:400;">비슷한 듯 다른 국정원 vs 과기정통부 AI...</span></a>
 </li>
 <li><p class="news_count" style="color:#B71E1E;">3</p>
-<a href="/media/view.asp?idx=140701"><span><img alt="" src="/media/upFiles2/2025/12/20251203colum-s.jpg"/></span>
-<span style="font-weight:400;">[이슈칼럼] 쿠팡 사태 등 계속되는 해킹, ...</span></a>
+<a href="/media/view.asp?idx=140817"><span><img alt="" src="/media/upFiles2/2025/12/1209 uuid th.png"/></span>
+<span style="font-weight:400;">악성 Go 패키지, 구글 UUID 라이브러리...</span></a>
 </li>
 <li><p class="news_count">4</p>
-<a href="/media/view.asp?idx=140656"><span><img alt="" src="/media/upFiles2/2025/12/1-1(0).jpg"/></span>
-<span style="font-weight:400;">[쿠팡 해킹] 3370만명 털어놓고 “보안 ...</span></a>
+<a href="/media/view.asp?idx=140887"><span><img alt="" src="/media/upFiles2/2025/12/1211 movie th.png"/></span>
+<span style="font-weight:400;">“디카프리오 공짜로 보려다가” 영화 불법 다...</span></a>
 </li>
 <li><p class="news_count">5</p>
-<a href="/media/view.asp?idx=140653"><span><img alt="" src="/media/upFiles2/2025/12/1201 c th.png"/></span>
-<span style="font-weight:400;">[쿠팡 해킹] 쿠팡 사태로 본 ‘내부자 위협...</span></a>
+<a href="/media/view.asp?idx=140796"><span><img alt="" src="/media/upFiles2/2025/12/1208 p th.png"/></span>
+<span style="font-weight:400;">러시아서 포르쉐 수백 대 동시 멈춰...커넥...</span></a>
 </li>
 </ul>
 <ul class="tab-newslist"><!-- 스크랩순 -->
 <li><p class="news_count" style="color:#B71E1E;">1</p>
+<a href="/media/view.asp?idx=140776"><span><img alt="" src="/media/upFiles2/2025/12/1206-9.jpg"/></span>
+<span style="font-weight:400;">[이슈칼럼] 2025년 ‘보안의 역설’, 왜...</span></a>
+</li>
+<li><p class="news_count" style="color:#B71E1E;">2</p>
+<a href="/media/view.asp?idx=140828"><span><img alt="" src="/media/upFiles2/2025/12/20251209ISMS-S.jpg"/></span>
+<span style="font-weight:400;">[특별기고] 쿠팡 사태 이후, ISMS 무용...</span></a>
+</li>
+<li><p class="news_count" style="color:#B71E1E;">3</p>
+<a href="/media/view.asp?idx=140773"><span><img alt="" src="/media/upFiles2/2025/12/1206-3.jpg"/></span>
+<span style="font-weight:400;">러시아 해커 ‘칼리스토’, NATO 넘어 동...</span></a>
+</li>
+<li><p class="news_count">4</p>
 <a href="/media/view.asp?idx=140701"><span><img alt="" src="/media/upFiles2/2025/12/20251203colum-s.jpg"/></span>
 <span style="font-weight:400;">[이슈칼럼] 쿠팡 사태 등 계속되는 해킹, ...</span></a>
 </li>
@@ -969,26 +965,26 @@ return true;
 <div id="bottom">
 <div id="main_news">
 <ul>
-<li><a href="/media/view.asp?idx=140782&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/12/20251207vul-s.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140782&amp;kind=1"><font color="#282828">“리액트 서버 뚫리면 끝장”... 국내 보안기업, 치명...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140783&amp;kind=12"><img alt="" height="160" src="/media/upFiles2/2025/12/trans-asdfasdf.png" width="250"/></a>
-<p><a href="/media/view.asp?idx=140783&amp;kind=12"><font color="#282828">韓 ‘뉴로모픽 반도체’ 특허출원 증가율, 中 이어 세계...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140778&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/12/1207-1.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140778&amp;kind=2"><font color="#282828">의무화·실증심사·인증취소... 확 달라지는 정보보호 인...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140776&amp;kind=6"><img alt="" height="160" src="/media/upFiles2/2025/12/1206-9.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140776&amp;kind=6"><font color="#282828">[이슈칼럼] 2025년 ‘보안의 역설’, 왜 거대 테크...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140922&amp;kind=12"><img alt="" height="160" src="/media/upFiles2/2025/12/tn coupang hearing.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140922&amp;kind=12"><font color="#282828">[쿠핑 해킹] “글로벌 기업 CEO라...” 김범석 쿠...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140921&amp;kind=3"><img alt="" height="160" src="/media/upFiles2/2025/12/tn lg snu.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140921&amp;kind=3"><font color="#282828">[AI와 보안] LG전자-서울대, AI 보안 특화 산학...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140920&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/12/tn most.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140920&amp;kind=2"><font color="#282828">양자키분배, 메타버스에 우리나라 제안한 표준 채택 논의...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140890&amp;kind=12"><img alt="" height="160" src="/media/upFiles2/2025/12/20251214prack-s.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140890&amp;kind=12"><font color="#282828">[2025 보안 사고·이슈 결산-1] ‘프랙 보고서’가...</font></a></p></li>
 </ul>
 </div>
 <div id="main_news">
 <ul>
-<li><a href="/media/view.asp?idx=140773&amp;kind=4"><img alt="" height="160" src="/media/upFiles2/2025/12/1206-3.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140773&amp;kind=4"><font color="#282828">러시아 해커 ‘칼리스토’, NATO 넘어 동유럽 NGO...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140771&amp;kind=56"><img alt="" height="160" src="/media/upFiles2/2025/12/1205-13.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140771&amp;kind=56"><font color="#282828">[테크칼럼] 보안팀이 손댈 수 없는 영역, ‘비인간 신...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140770&amp;kind=23"><img alt="" height="160" src="/media/upFiles2/2025/12/tn passkey media.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140770&amp;kind=23"><font color="#282828">FIDO얼라이언스, 패스키 넘어 디지털 크리덴셜로 확장...</font></a></p></li>
-<li><a href="/media/view.asp?idx=140769&amp;kind=345"><img alt="" height="160" src="/media/upFiles2/2025/12/2025120502ss.jpg" width="250"/></a>
-<p><a href="/media/view.asp?idx=140769&amp;kind=345"><font color="#282828">일본 디지털 신원확인의 현재와 미래는? 마이넘버 카드와...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140918&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/12/1212-18.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140918&amp;kind=2"><font color="#282828">과기정통부, 보안 사고 반복 시 ‘매출 3%’ 과징금....</font></a></p></li>
+<li><a href="/media/view.asp?idx=140915&amp;kind=1"><img alt="" height="160" src="/media/upFiles2/2025/12/1212 drk th.png" width="250"/></a>
+<p><a href="/media/view.asp?idx=140915&amp;kind=1"><font color="#282828">해고 근로자부터 10대까지 빨려드는 ‘다크웹 구직 시장...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140906&amp;kind=35"><img alt="" height="160" src="/media/upFiles2/2025/12/2219578059_m.jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140906&amp;kind=35"><font color="#282828">[2025 시스템 접근제어·계정관리·패스워드 관리 리포...</font></a></p></li>
+<li><a href="/media/view.asp?idx=140911&amp;kind=2"><img alt="" height="160" src="/media/upFiles2/2025/12/1-1(16).jpg" width="250"/></a>
+<p><a href="/media/view.asp?idx=140911&amp;kind=2"><font color="#282828">李 대통령, KISA·개보위 ‘특사경 도입’  주장에 ...</font></a></p></li>
 </ul>
 </div>
 </div>

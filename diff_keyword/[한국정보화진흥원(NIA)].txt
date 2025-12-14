@@ -1414,8 +1414,8 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,855</em>건
-            (1페이지 / 186페이지)</span>
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,864</em>건
+            (1페이지 / 187페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
 <span class="bar"></span>
@@ -1501,7 +1501,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.11.24</em>
-<em>조회수 2095</em>
+<em>조회수 2463</em>
 </span>
 <span class="writer">
 <em>박은명</em>
@@ -1576,7 +1576,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 14443</em>
+<em>조회수 15148</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1653,7 +1653,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.12.27</em>
-<em>조회수 3079</em>
+<em>조회수 3125</em>
 </span>
 <span class="writer">
 <em>장호영</em>
@@ -1662,7 +1662,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28827','16010100','28827');return false;" title="디지털서비스 서밋 2025 with PlugFest 개최 안내(2025.12.17.(수))(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28851','16010100','28851');return false;" title="「한국형 데이터스페이스 우선분야 사전 수요조사」안내(새 글)-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1674,85 +1674,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             디지털서비스 서밋 2025 with PlugFest 개최 안내(2025.12.17.(수))
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.05</em>
-<em>조회수 73</em>
-</span>
-<span class="writer">
-<em>이은진</em>
-<em>AI-클라우드기술혁신팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28826','16010100','28826');return false;" title="(안내) 국산 양자기술 소부장 보급활용 지원사업의 공급기업 Pool 등록 결과(새 글)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             (안내) 국산 양자기술 소부장 보급활용 지원사업의 공급기업 Pool 등록 결과
+                                             「한국형 데이터스페이스 우선분야 사전 수요조사」안내
                                         
                                     
                                     
@@ -1806,17 +1728,17 @@ function doOrderby(cbIdx,orderbyDiv){
 <em class="list_new">new</em>
 </span>
 <span class="src">
-<em>2025.12.05</em>
-<em>조회수 42</em>
+<em>2025.12.11</em>
+<em>조회수 171</em>
 </span>
 <span class="writer">
-<em>정현철</em>
-<em>양자기술활용센터</em>
+<em>성연지</em>
+<em>국가데이터인프라팀</em>
 </span>
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28818','16010100','28818');return false;" title="제5차 국가정보통신서비스(GNS) 이용지침서(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28850','16010100','28850');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고(연장)(새 글)-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1828,7 +1750,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             제5차 국가정보통신서비스(GNS) 이용지침서
+                                             2026년도 정보문화 유공 정부포상 계획 공고(연장)
                                         
                                     
                                     
@@ -1882,95 +1804,17 @@ function doOrderby(cbIdx,orderbyDiv){
 <em class="list_new">new</em>
 </span>
 <span class="src">
-<em>2025.12.04</em>
-<em>조회수 141</em>
+<em>2025.12.11</em>
+<em>조회수 102</em>
 </span>
 <span class="writer">
-<em>박준영</em>
-<em>네트워크전략팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28813','16010100','28813');return false;" title="2025 AI 대전환 오픈 세미나 개최 안내(2025.12.10.(수))(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025 AI 대전환 오픈 세미나 개최 안내(2025.12.10.(수))
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.04</em>
-<em>조회수 475</em>
-</span>
-<span class="writer">
-<em>이은경</em>
+<em>이은수</em>
 <em>디지털포용문화팀</em>
 </span>
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28803','16010100','28803');return false;" title="2025년 NIA 탄소중립 혁신 아이디어 공모전 결과 발표(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28849','16010100','28849');return false;" title="2025 AI를 위한 데이터&amp;클라우드 진흥주간(새 글)-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1982,7 +1826,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             2025년 NIA 탄소중립 혁신 아이디어 공모전 결과 발표
+                                             2025 AI를 위한 데이터&amp;클라우드 진흥주간
                                         
                                     
                                     
@@ -2038,17 +1882,17 @@ function doOrderby(cbIdx,orderbyDiv){
                         <em class="list_new">new</em>
 </span>
 <span class="src">
-<em>2025.12.01</em>
-<em>조회수 204</em>
+<em>2025.12.11</em>
+<em>조회수 257</em>
 </span>
 <span class="writer">
-<em>이동환</em>
-<em>안전보건환경팀</em>
+<em>엄용석</em>
+<em>데이터활용기술팀</em>
 </span>
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28802','16010100','28802');return false;" title="제13회 범정부 공공데이터 활용 창업경진대회 왕중왕전 개최 안내(12.3(수), 청주 오스코)(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28839','16010100','28839');return false;" title="[공개세미나] ‘AX시대 신뢰·상생 기반 AI법제 정비 방안’ 세미나 개최 안내(12.19.(금)13:30~17:00)(새 글)-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -2060,7 +1904,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             제13회 범정부 공공데이터 활용 창업경진대회 왕중왕전 개최 안내(12.3(수), 청주 오스코)
+                                             [공개세미나] ‘AX시대 신뢰·상생 기반 AI법제 정비 방안’ 세미나 개최 안내(12.19.(금)13:30~17:00)
                                         
                                     
                                     
@@ -2116,17 +1960,17 @@ function doOrderby(cbIdx,orderbyDiv){
                         <em class="list_new">new</em>
 </span>
 <span class="src">
-<em>2025.12.01</em>
-<em>조회수 125</em>
+<em>2025.12.09</em>
+<em>조회수 477</em>
 </span>
 <span class="writer">
-<em>김보람</em>
-<em>공공지능데이터기획팀</em>
+<em>박은영</em>
+<em>AI법제도센터</em>
 </span>
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28789','16010100','28789');return false;" title="AI 에이전트 서비스 시나리오 공모전 시상후보자 사전공개검증(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28837','16010100','28837');return false;" title="2025년 오픈데이터포럼(ODF) 제3차 열린세미나 개최('25.12.12.)(새 글)-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -2138,7 +1982,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             AI 에이전트 서비스 시나리오 공모전 시상후보자 사전공개검증
+                                             2025년 오픈데이터포럼(ODF) 제3차 열린세미나 개최('25.12.12.)
                                         
                                     
                                     
@@ -2194,19 +2038,173 @@ function doOrderby(cbIdx,orderbyDiv){
                         <em class="list_new">new</em>
 </span>
 <span class="src">
-<em>2025.11.28</em>
-<em>조회수 269</em>
+<em>2025.12.09</em>
+<em>조회수 198</em>
 </span>
 <span class="writer">
-<em>백범현</em>
-<em>디지털혁신성과팀</em>
+<em>정혜린</em>
+<em>공공지능데이터개방팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28836','16010100','28836');return false;" title='"2025 AI 사회적 영향평가 의견수렴 세미나" 개최(새 글)-첨부파일 없음'>
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             "2025 AI 사회적 영향평가 의견수렴 세미나" 개최
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.09</em>
+<em>조회수 221</em>
+</span>
+<span class="writer">
+<em>채은선</em>
+<em>AI정책연구팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28835','16010100','28835');return false;" title="정부시상 공개검증(대학생프로그래밍경시대회)(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             정부시상 공개검증(대학생프로그래밍경시대회)
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.08</em>
+<em>조회수 112</em>
+</span>
+<span class="writer">
+<em>이현섭</em>
+<em>디지털역량개발팀</em>
 </span>
 </a>
 </li>
 </ul>
 </div>
 <div class="pageNation">
-<span class="last_prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="처음으로 이동"><i class="ion-ios-arrow-left"></i><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">처음으로 이동</span></a></span><span class="prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="이전 페이지"><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">이전 페이지</span></a></span><span><a class="active" href="javascript:" title="현재 페이지">1</a></span><span><a href="?pageIndex=2" onclick="doBbsFPag(2);return false;" title="2페이지로 이동">2</a></span><span><a href="?pageIndex=3" onclick="doBbsFPag(3);return false;" title="3페이지로 이동">3</a></span><span><a href="?pageIndex=4" onclick="doBbsFPag(4);return false;" title="4페이지로 이동">4</a></span><span><a href="?pageIndex=5" onclick="doBbsFPag(5);return false;" title="5페이지로 이동">5</a></span><span class="next"><a href="?pageIndex=6" onclick="doBbsFPag(6);return false;" title="다음 페이지"><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">다음 페이지</span></a></span><span class="last_next"><a href="?pageIndex=186" onclick="doBbsFPag(186);return false;" title="맨 뒤로 이동"><i class="ion-ios-arrow-right"></i><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">맨 뒤로 이동</span></a></span>
+<span class="last_prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="처음으로 이동"><i class="ion-ios-arrow-left"></i><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">처음으로 이동</span></a></span><span class="prev"><a href="?pageIndex=1" onclick="doBbsFPag(1);return false;" title="이전 페이지"><i class="ion-ios-arrow-left"></i><span class="hiddenTxt">이전 페이지</span></a></span><span><a class="active" href="javascript:" title="현재 페이지">1</a></span><span><a href="?pageIndex=2" onclick="doBbsFPag(2);return false;" title="2페이지로 이동">2</a></span><span><a href="?pageIndex=3" onclick="doBbsFPag(3);return false;" title="3페이지로 이동">3</a></span><span><a href="?pageIndex=4" onclick="doBbsFPag(4);return false;" title="4페이지로 이동">4</a></span><span><a href="?pageIndex=5" onclick="doBbsFPag(5);return false;" title="5페이지로 이동">5</a></span><span class="next"><a href="?pageIndex=6" onclick="doBbsFPag(6);return false;" title="다음 페이지"><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">다음 페이지</span></a></span><span class="last_next"><a href="?pageIndex=187" onclick="doBbsFPag(187);return false;" title="맨 뒤로 이동"><i class="ion-ios-arrow-right"></i><i class="ion-ios-arrow-right"></i><span class="hiddenTxt">맨 뒤로 이동</span></a></span>
 </div>
 </section>
 <!-- 0926수정 top버튼추가 --><!-- 0928 -->
