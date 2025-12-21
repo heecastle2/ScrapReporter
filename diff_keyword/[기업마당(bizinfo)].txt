@@ -3,7 +3,7 @@
 
 <html lang="ko">
 <head>
-<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="95ef60f4-c8de-4cde-af5e-83e54282fe68" name="_csrf"/>
+<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="ec0659a4-d59e-46ab-a708-acc81d621ac1" name="_csrf"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, user-scalable=0, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
@@ -888,46 +888,46 @@
 <div class="category">
 <div class="scroll_x">
 <div class="category_list icon_1">
-<a alt="분야(1419) 공고보기" class="on" href="#" id="hashAll" onclick="fn_hashCode_Change('')" title="분야(1419) 공고보기"><span>분야(1419)</span></a>
+<a alt="분야(1401) 공고보기" class="on" href="#" id="hashAll" onclick="fn_hashCode_Change('')" title="분야(1401) 공고보기"><span>분야(1401)</span></a>
 </div>
 <div class="category_list icon_2">
 <a alt="금융" href="javascript:void(0); return false;" id="01" onclick="fn_hashCode_Change('01')" title="금융">
-<span>금융(267)</span>
+<span>금융(270)</span>
 </a>
 </div>
 <div class="category_list icon_3">
 <a alt="기술" href="javascript:void(0); return false;" id="02" onclick="fn_hashCode_Change('02')" title="기술">
-<span>기술(254)</span>
+<span>기술(249)</span>
 </a>
 </div>
 <div class="category_list icon_4">
 <a alt="인력" href="javascript:void(0); return false;" id="03" onclick="fn_hashCode_Change('03')" title="인력">
-<span>인력(157)</span>
+<span>인력(164)</span>
 </a>
 </div>
 <div class="category_list icon_8">
 <a alt="수출" href="javascript:void(0); return false;" id="07" onclick="fn_hashCode_Change('07')" title="수출">
-<span>수출(101)</span>
+<span>수출(89)</span>
 </a>
 </div>
 <div class="category_list icon_9">
 <a alt="내수" href="javascript:void(0); return false;" id="08" onclick="fn_hashCode_Change('08')" title="내수">
-<span>내수(83)</span>
+<span>내수(86)</span>
 </a>
 </div>
 <div class="category_list icon_10">
 <a alt="창업" href="javascript:void(0); return false;" id="09" onclick="fn_hashCode_Change('09')" title="창업">
-<span>창업(54)</span>
+<span>창업(45)</span>
 </a>
 </div>
 <div class="category_list icon_11">
 <a alt="경영" href="javascript:void(0); return false;" id="10" onclick="fn_hashCode_Change('10')" title="경영">
-<span>경영(497)</span>
+<span>경영(494)</span>
 </a>
 </div>
 <div class="category_list icon_13">
 <a alt="기타" href="javascript:void(0); return false;" id="12" onclick="fn_hashCode_Change('12')" title="기타">
-<span>기타(6)</span>
+<span>기타(4)</span>
 </a>
 </div>
 </div>
@@ -937,8 +937,8 @@
 <div class="area_btn_list">
 <ul>
 <li class="total_area_btn">
-<button class="toggle_area_btn" id="wnty" name="지역" title="지역(870) 공고보기" type="button">
-				                	지역(870)
+<button class="toggle_area_btn" id="wnty" name="지역" title="지역(867) 공고보기" type="button">
+				                	지역(867)
 				                </button>
 </li>
 <li class="area_btn">
@@ -948,50 +948,50 @@
 <button class="toggle_area_btn" id="6260000" name="6260000" type="button">부산(52)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6270000" name="6270000" type="button">대구(39)</button>
+<button class="toggle_area_btn" id="6270000" name="6270000" type="button">대구(41)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6280000" name="6280000" type="button">인천(54)</button>
+<button class="toggle_area_btn" id="6280000" name="6280000" type="button">인천(57)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6290000" name="6290000" type="button">광주(42)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6300000" name="6300000" type="button">대전(14)</button>
+<button class="toggle_area_btn" id="6300000" name="6300000" type="button">대전(13)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6310000" name="6310000" type="button">울산(44)</button>
+<button class="toggle_area_btn" id="6310000" name="6310000" type="button">울산(45)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="5690000" name="5690000" type="button">세종(15)</button>
 </li>
 <div style="height:10px;"></div>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6410000" name="6410000" type="button">경기(116)</button>
+<button class="toggle_area_btn" id="6410000" name="6410000" type="button">경기(110)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6420000" name="6420000" type="button">강원(44)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6430000" name="6430000" type="button">충북(56)</button>
+<button class="toggle_area_btn" id="6430000" name="6430000" type="button">충북(58)</button>
 </li>
 <li class="area_btn">
 <button class="toggle_area_btn" id="6440000" name="6440000" type="button">충남(41)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6450000" name="6450000" type="button">전북(42)</button>
+<button class="toggle_area_btn" id="6450000" name="6450000" type="button">전북(43)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6460000" name="6460000" type="button">전남(55)</button>
+<button class="toggle_area_btn" id="6460000" name="6460000" type="button">전남(56)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6470000" name="6470000" type="button">경북(97)</button>
+<button class="toggle_area_btn" id="6470000" name="6470000" type="button">경북(96)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6480000" name="6480000" type="button">경남(79)</button>
+<button class="toggle_area_btn" id="6480000" name="6480000" type="button">경남(77)</button>
 </li>
 <li class="area_btn">
-<button class="toggle_area_btn" id="6500000" name="6500000" type="button">제주(34)</button>
+<button class="toggle_area_btn" id="6500000" name="6500000" type="button">제주(31)</button>
 </li>
 </ul>
 </div>
@@ -1048,7 +1048,33 @@
 </thead>
 <tbody>
 <tr>
-<td>1419</td>
+<td>1401</td>
+<td>
+                            
+                                
+                                수출
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116879" title="[충북] 2026년 베트남 소비재 무역사절단 참여기업 모집 공고 페이지 이동">
+                                [충북] 2026년 베트남 소비재 무역사절단 참여기업 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-18 ~ 2026-01-07
+                                
+                            
+                        </td>
+<td>충청북도</td>
+<td>대한무역투자진흥공사</td>
+<td>2025-12-19</td>
+<td>540</td>
+</tr>
+<tr>
+<td>1400</td>
 <td>
                             
                                 
@@ -1056,25 +1082,25 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116778" title="[전남] 완도군 2026년 수산자원보호 직불제 사업 신청 공고 페이지 이동">
-                                [전남] 완도군 2026년 수산자원보호 직불제 사업 신청 공고
+<a href="view.do?pblancId=PBLN_000000000116878" title="2026년 1차 DDP 협력전시 모집 공고 페이지 이동">
+                                2026년 1차 DDP 협력전시 모집 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-08 ~ 2025-12-31
+                                    2025-12-18 ~ 2025-12-31
                                 
                             
                         </td>
-<td>전라남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>343</td>
+<td>문화체육관광부</td>
+<td>서울디자인재단</td>
+<td>2025-12-19</td>
+<td>847</td>
 </tr>
 <tr>
-<td>1418</td>
+<td>1399</td>
 <td>
                             
                                 
@@ -1082,25 +1108,129 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116777" title="소재부품 산업기술개발 기반구축사업 기술지원 기업 모집 공고 페이지 이동">
-                                소재부품 산업기술개발 기반구축사업 기술지원 기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116890" title="2026년 제1차 국가신약개발사업 신규지원 대상과제 통합 공고 페이지 이동">
+                                2026년 제1차 국가신약개발사업 신규지원 대상과제 통합 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-11 ~ 2025-12-31
+                                    2026-01-02 ~ 2026-01-14
                                 
                             
                         </td>
-<td>산업통상부</td>
-<td>충북테크노파크</td>
-<td>2025-12-12</td>
-<td>724</td>
+<td>보건복지부</td>
+<td>국가신약개발사업단</td>
+<td>2025-12-19</td>
+<td>478</td>
 </tr>
 <tr>
-<td>1417</td>
+<td>1398</td>
+<td>
+                            
+                                
+                                금융
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116889" title="2026년 제1차 해수면 유ㆍ도선 현대화 이차보전사업 시행 공고 페이지 이동">
+                                2026년 제1차 해수면 유ㆍ도선 현대화 이차보전사업 시행 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-08 ~ 2025-12-29
+                                
+                            
+                        </td>
+<td>해양수산부</td>
+<td>해양경찰청</td>
+<td>2025-12-19</td>
+<td>411</td>
+</tr>
+<tr>
+<td>1397</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116888" title="ZEB-탄소거래 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고 페이지 이동">
+                                ZEB-탄소거래 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-17 ~ 2025-12-26
+                                
+                            
+                        </td>
+<td>광주광역시</td>
+<td>조선대학교산학협력단</td>
+<td>2025-12-19</td>
+<td>402</td>
+</tr>
+<tr>
+<td>1396</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116877" title="경북 모듈형 L-PBV 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고 페이지 이동">
+                                경북 모듈형 L-PBV 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-18 ~ 2025-12-31
+                                
+                            
+                        </td>
+<td>경상북도</td>
+<td>경북테크노파크</td>
+<td>2025-12-19</td>
+<td>372</td>
+</tr>
+<tr>
+<td>1395</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116876" title="2026년 데이터 기반 스마트농업 확산지원 사업 컨소시엄 모집 공고 페이지 이동">
+                                2026년 데이터 기반 스마트농업 확산지원 사업 컨소시엄 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-15 ~ 2026-01-14
+                                
+                            
+                        </td>
+<td>농림축산식품부</td>
+<td>한국농업기술진흥원</td>
+<td>2025-12-19</td>
+<td>547</td>
+</tr>
+<tr>
+<td>1394</td>
 <td>
                             
                                 
@@ -1108,207 +1238,77 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116776" title="[인천] 2025년 사전진단ㆍ컨설팅 지원사업 참여기업 모집 공고(AI Playground 인천 조성사업) 페이지 이동">
-                                [인천] 2025년 사전진단ㆍ컨설팅 지원사업 참여기업 모집 공고(AI Playground 인천 조성사업)
+<a href="view.do?pblancId=PBLN_000000000116887" title="2026년 1차 요소 수급 안정화 지원사업 공고 페이지 이동">
+                                2026년 1차 요소 수급 안정화 지원사업 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-11 ~ 2025-12-26
+                                    2025-12-17 ~ 2025-12-30
                                 
                             
                         </td>
-<td>인천광역시</td>
-<td>인천테크노파크</td>
-<td>2025-12-12</td>
-<td>388</td>
+<td>산업통상부</td>
+<td>대한무역투자진흥공사</td>
+<td>2025-12-19</td>
+<td>361</td>
 </tr>
 <tr>
-<td>1416</td>
+<td>1393</td>
 <td>
                             
                                 
-                                창업
+                                기술
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116775" title="[경기] 창업기업 투자 IR 피칭덱 제작 지원 프로그램 참여기업 모집 공고 페이지 이동">
-                                [경기] 창업기업 투자 IR 피칭덱 제작 지원 프로그램 참여기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116886" title="2026년 AI데이터센터 서비스 이용자 정기모집 수정 공고 페이지 이동">
+                                2026년 AI데이터센터 서비스 이용자 정기모집 수정 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-09 ~ 2025-12-22
+                                    2025-12-08 ~ 2025-12-29
+                                
+                            
+                        </td>
+<td>과학기술정보통신부</td>
+<td>인공지능산업융합사업단</td>
+<td>2025-12-19</td>
+<td>606</td>
+</tr>
+<tr>
+<td>1392</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116885" title="[경기] 2025년 2차 공공인프라 실증지원사업 참여기업 추가 모집 공고 페이지 이동">
+                                [경기] 2025년 2차 공공인프라 실증지원사업 참여기업 추가 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-05 ~ 2025-12-26
                                 
                             
                         </td>
 <td>경기도</td>
-<td>한양대학교</td>
-<td>2025-12-12</td>
-<td>610</td>
+<td>경기도경제과학진흥원</td>
+<td>2025-12-19</td>
+<td>563</td>
 </tr>
 <tr>
-<td>1415</td>
-<td>
-                            
-                                
-                                수출
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116784" title="2026년 독일 하노버 산업전시회(Hannover Messe 2026) 한국관(로봇분야) 참가기업 추가 모집 공고 페이지 이동">
-                                2026년 독일 하노버 산업전시회(Hannover Messe 2026) 한국관(로봇분야) 참가기업 추가 모집 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-03 ~ 2025-12-15
-                                
-                            
-                        </td>
-<td>산업통상부</td>
-<td>한국로봇산업진흥원</td>
-<td>2025-12-12</td>
-<td>301</td>
-</tr>
-<tr>
-<td>1414</td>
-<td>
-                            
-                                
-                                수출
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116783" title="[서울] MWC 2026 서울통합관 XR분야 참가기업 모집 공고 페이지 이동">
-                                [서울] MWC 2026 서울통합관 XR분야 참가기업 모집 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-10 ~ 2025-12-22
-                                
-                            
-                        </td>
-<td>서울특별시</td>
-<td>서울경제진흥원</td>
-<td>2025-12-12</td>
-<td>440</td>
-</tr>
-<tr>
-<td>1413</td>
-<td>
-                            
-                                
-                                경영
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116782" title="[경남] 고성군 2026년 안전복지형 연근해어선 기반구축사업 공고 페이지 이동">
-                                [경남] 고성군 2026년 안전복지형 연근해어선 기반구축사업 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-10 ~ 2026-01-05
-                                
-                            
-                        </td>
-<td>경상남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>262</td>
-</tr>
-<tr>
-<td>1412</td>
-<td>
-                            
-                                
-                                경영
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116781" title="[경남] 산청군 2025년 단계시장 점포입점자 모집 공고 페이지 이동">
-                                [경남] 산청군 2025년 단계시장 점포입점자 모집 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-10 ~ 2025-12-17
-                                
-                            
-                        </td>
-<td>경상남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>259</td>
-</tr>
-<tr>
-<td>1411</td>
-<td>
-                            
-                                
-                                창업
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116760" title="2025년 2차 그린바이오 벤처 캠퍼스 기업지원 프로그램 수혜기업 모집 공고 페이지 이동">
-                                2025년 2차 그린바이오 벤처 캠퍼스 기업지원 프로그램 수혜기업 모집 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-11 ~ 2025-12-17
-                                
-                            
-                        </td>
-<td>경상북도</td>
-<td>포항테크노파크</td>
-<td>2025-12-12</td>
-<td>414</td>
-</tr>
-<tr>
-<td>1410</td>
-<td>
-                            
-                                
-                                경영
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116774" title="[경북] 울진군 2026년 수산자원보호 직불제사업 신청 공고 페이지 이동">
-                                [경북] 울진군 2026년 수산자원보호 직불제사업 신청 공고
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-09 ~ 2025-12-31
-                                
-                            
-                        </td>
-<td>경상북도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>251</td>
-</tr>
-<tr>
-<td>1409</td>
+<td>1391</td>
 <td>
                             
                                 
@@ -1316,51 +1316,25 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116759" title="2026년 1차 Pre 완도국제해조류박람회 산업관 참가기업 모집 공고 페이지 이동">
-                                2026년 1차 Pre 완도국제해조류박람회 산업관 참가기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116875" title="2026년 대한민국 패키징 대전 계획 공고(KOREA STAR AWARDS 2026) 페이지 이동">
+                                2026년 대한민국 패키징 대전 계획 공고(KOREA STAR AWARDS 2026)
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-10 ~ 2025-12-26
+                                    2025-12-17 ~ 2026-02-02
                                 
                             
                         </td>
-<td>전라남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>318</td>
+<td>산업통상부</td>
+<td>한국생산기술연구원</td>
+<td>2025-12-19</td>
+<td>493</td>
 </tr>
 <tr>
-<td>1408</td>
-<td>
-                            
-                                
-                                경영
-                            
-                        </td>
-<td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116773" title="[제주] 농축산물 활용 HMR제품 사업화 지원 프로그램 수혜기업 모집 공고(제주 농축산물 활용 가정간편식 제품 핵심기술 개발 및 사업화 지원) 페이지 이동">
-                                [제주] 농축산물 활용 HMR제품 사업화 지원 프로그램 수혜기업 모집 공고(제주 농축산물 활용 가정간편식 제품 핵심기술 개발 및 사업화 지원)
-                            </a>
-</td>
-<td>
-                            
-                                
-                                
-                                    2025-12-11 ~ 2025-12-18
-                                
-                            
-                        </td>
-<td>제주특별자치도</td>
-<td>제주테크노파크</td>
-<td>2025-12-12</td>
-<td>281</td>
-</tr>
-<tr>
-<td>1407</td>
+<td>1390</td>
 <td>
                             
                                 
@@ -1368,25 +1342,51 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116772" title="2025년 경북지역 항공(방산ㆍ민간) 산업 육성프로젝트 컨설팅 참여기업 모집 공고 페이지 이동">
-                                2025년 경북지역 항공(방산ㆍ민간) 산업 육성프로젝트 컨설팅 참여기업 모집 공고
+<a href="view.do?pblancId=PBLN_000000000116874" title="전남 신재생 BSS 기반의 소형PBV 활용체계 구축 (글로벌혁신특구) 참여 희망 사업자 모집 공고 페이지 이동">
+                                전남 신재생 BSS 기반의 소형PBV 활용체계 구축 (글로벌혁신특구) 참여 희망 사업자 모집 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-11 ~ 2025-12-16
+                                    2025-12-17 ~ 2025-12-30
+                                
+                            
+                        </td>
+<td>중소벤처기업부</td>
+<td>전남테크노파크</td>
+<td>2025-12-19</td>
+<td>394</td>
+</tr>
+<tr>
+<td>1389</td>
+<td>
+                            
+                                
+                                기술
+                            
+                        </td>
+<td class="txt_l">
+<a href="view.do?pblancId=PBLN_000000000116873" title="경북 K-차세대 전기추진 선박 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고 페이지 이동">
+                                경북 K-차세대 전기추진 선박 글로벌혁신 규제자유특구 참여희망 특구사업자 모집 공고
+                            </a>
+</td>
+<td>
+                            
+                                
+                                
+                                    2025-12-18 ~ 2025-12-31
                                 
                             
                         </td>
 <td>경상북도</td>
-<td>경북테크노파크</td>
-<td>2025-12-12</td>
-<td>327</td>
+<td>포항소재산업진흥원</td>
+<td>2025-12-19</td>
+<td>318</td>
 </tr>
 <tr>
-<td>1406</td>
+<td>1388</td>
 <td>
                             
                                 
@@ -1394,48 +1394,48 @@
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116771" title="[전남] 진도군 2025년 3차 수산가공분야 해양수산사업 모집 재공고 페이지 이동">
-                                [전남] 진도군 2025년 3차 수산가공분야 해양수산사업 모집 재공고
+<a href="view.do?pblancId=PBLN_000000000116884" title="2026년 자동차ㆍ조선산업 발전 유공 자동차산업 포상 공고 페이지 이동">
+                                2026년 자동차ㆍ조선산업 발전 유공 자동차산업 포상 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-10 ~ 2025-12-15
+                                    2025-12-15 ~ 2026-01-23
                                 
                             
                         </td>
-<td>전라남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>251</td>
+<td>산업통상부</td>
+<td>한국자동차모빌리티산업협회</td>
+<td>2025-12-19</td>
+<td>376</td>
 </tr>
 <tr>
-<td>1405</td>
+<td>1387</td>
 <td>
                             
                                 
-                                경영
+                                기술
                             
                         </td>
 <td class="txt_l">
-<a href="view.do?pblancId=PBLN_000000000116758" title="[경남] 사천시 2026년 수산자원보호 직불제 신청 수정 공고 페이지 이동">
-                                [경남] 사천시 2026년 수산자원보호 직불제 신청 수정 공고
+<a href="view.do?pblancId=PBLN_000000000116872" title="2026년 표준특허 창출지원 사업 시행계획 공고 페이지 이동">
+                                2026년 표준특허 창출지원 사업 시행계획 공고
                             </a>
 </td>
 <td>
                             
                                 
                                 
-                                    2025-12-08 ~ 2025-12-31
+                                    2025-12-19 ~ 2026-01-16
                                 
                             
                         </td>
-<td>경상남도</td>
-<td>기초자치단체</td>
-<td>2025-12-12</td>
-<td>269</td>
+<td>지식재산처</td>
+<td>한국특허전략개발원</td>
+<td>2025-12-19</td>
+<td>739</td>
 </tr>
 </tbody>
 </table>
@@ -1468,7 +1468,7 @@
 <a href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=9" title="9페이지">9</a>
 <a href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=10" title="10페이지">10</a>
 <a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=11" title="다음페이지">다음</a>
-<a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=95" title="마지막페이지">마지막</a>
+<a class="txt" href="/web/lay1/bbs/S1T122C128/AS/74/list.do?rows=15&amp;cpage=94" title="마지막페이지">마지막</a>
 </div>
 <!-- 만족도 조사-->
 </div>

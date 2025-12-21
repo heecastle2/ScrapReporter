@@ -1414,7 +1414,7 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,864</em>건
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,868</em>건
             (1페이지 / 187페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
@@ -1434,6 +1434,83 @@ function doOrderby(cbIdx,orderbyDiv){
 </form>
 <div class="board_type01">
 <ul>
+<li class="nia_noti">
+<a href="#view" onclick="doBbsFView('99835','28849','16010100','28849');return false;" title="2025 AI를 위한 데이터&amp;클라우드 진흥주간-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025 AI를 위한 데이터&amp;클라우드 진흥주간
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                    </span>
+<span class="src">
+<em>2025.12.11</em>
+<em>조회수 852</em>
+</span>
+<span class="writer">
+<em>엄용석</em>
+<em>데이터활용기술팀</em>
+</span>
+</a>
+</li>
 <li class="nia_noti">
 <a href="#view" onclick="doBbsFView('99835','28771','16010100','28771');return false;" title="NIA 인공지능 전환(AX) 추진 전략-첨부파일 있음">
 <span class="subject searchItem">
@@ -1501,7 +1578,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.11.24</em>
-<em>조회수 2463</em>
+<em>조회수 2807</em>
 </span>
 <span class="writer">
 <em>박은명</em>
@@ -1576,7 +1653,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 15148</em>
+<em>조회수 15712</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1653,7 +1730,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2024.12.27</em>
-<em>조회수 3125</em>
+<em>조회수 3176</em>
 </span>
 <span class="writer">
 <em>장호영</em>
@@ -1662,7 +1739,315 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28851','16010100','28851');return false;" title="「한국형 데이터스페이스 우선분야 사전 수요조사」안내(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28869','16010100','28869');return false;" title="「2025년 공공 AI 대전환 챌린지」 공모전 결과 안내(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             「2025년 공공 AI 대전환 챌린지」 공모전 결과 안내
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.16</em>
+<em>조회수 340</em>
+</span>
+<span class="writer">
+<em>박종범</em>
+<em>정책기획팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28865','16010100','28865');return false;" title="2026년 스마트빌리지 보급 및 확산사업 목록(새 글)-첨부파일 있음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2026년 스마트빌리지 보급 및 확산사업 목록
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.16</em>
+<em>조회수 459</em>
+</span>
+<span class="writer">
+<em>권선희</em>
+<em>AI융합확산팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28858','16010100','28858');return false;" title="‘디지털 공공 서비스 혁신을 위한 국경 간 데이터 공유 포럼’ 개최 안내 / 12.18.(목) 13:00~17:00(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             ‘디지털 공공 서비스 혁신을 위한 국경 간 데이터 공유 포럼’ 개최 안내 / 12.18.(목) 13:00~17:00
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.15</em>
+<em>조회수 224</em>
+</span>
+<span class="writer">
+<em>오대훈</em>
+<em>국가데이터인프라팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28857','16010100','28857');return false;" title="2025년 국가 데이터 인프라 &amp; 데이터 플랫폼 통합 컨퍼런스 개최(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년 국가 데이터 인프라 &amp; 데이터 플랫폼 통합 컨퍼런스 개최
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.15</em>
+<em>조회수 346</em>
+</span>
+<span class="writer">
+<em>김보라</em>
+<em>국가데이터인프라팀</em>
+</span>
+</a>
+</li>
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28851','16010100','28851');return false;" title="「한국형 데이터스페이스 우선분야 사전 수요조사」안내-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1725,11 +2110,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 171</em>
+<em>조회수 963</em>
 </span>
 <span class="writer">
 <em>성연지</em>
@@ -1738,7 +2122,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28850','16010100','28850');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고(연장)(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28850','16010100','28850');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고(연장)-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1801,403 +2185,14 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 102</em>
+<em>조회수 215</em>
 </span>
 <span class="writer">
 <em>이은수</em>
 <em>디지털포용문화팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28849','16010100','28849');return false;" title="2025 AI를 위한 데이터&amp;클라우드 진흥주간(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025 AI를 위한 데이터&amp;클라우드 진흥주간
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.11</em>
-<em>조회수 257</em>
-</span>
-<span class="writer">
-<em>엄용석</em>
-<em>데이터활용기술팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28839','16010100','28839');return false;" title="[공개세미나] ‘AX시대 신뢰·상생 기반 AI법제 정비 방안’ 세미나 개최 안내(12.19.(금)13:30~17:00)(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             [공개세미나] ‘AX시대 신뢰·상생 기반 AI법제 정비 방안’ 세미나 개최 안내(12.19.(금)13:30~17:00)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.09</em>
-<em>조회수 477</em>
-</span>
-<span class="writer">
-<em>박은영</em>
-<em>AI법제도센터</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28837','16010100','28837');return false;" title="2025년 오픈데이터포럼(ODF) 제3차 열린세미나 개최('25.12.12.)(새 글)-첨부파일 없음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2025년 오픈데이터포럼(ODF) 제3차 열린세미나 개최('25.12.12.)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.09</em>
-<em>조회수 198</em>
-</span>
-<span class="writer">
-<em>정혜린</em>
-<em>공공지능데이터개방팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28836','16010100','28836');return false;" title='"2025 AI 사회적 영향평가 의견수렴 세미나" 개최(새 글)-첨부파일 없음'>
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             "2025 AI 사회적 영향평가 의견수렴 세미나" 개최
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    
-                    
-                    
-                        <em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.09</em>
-<em>조회수 221</em>
-</span>
-<span class="writer">
-<em>채은선</em>
-<em>AI정책연구팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28835','16010100','28835');return false;" title="정부시상 공개검증(대학생프로그래밍경시대회)(새 글)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             정부시상 공개검증(대학생프로그래밍경시대회)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
-</span>
-<span class="src">
-<em>2025.12.08</em>
-<em>조회수 112</em>
-</span>
-<span class="writer">
-<em>이현섭</em>
-<em>디지털역량개발팀</em>
 </span>
 </a>
 </li>

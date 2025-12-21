@@ -90,10 +90,10 @@
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'G-Z3JJ3P1SEG', {
-            'user_id': 'MZd_53f3ZzOVM4eQxjhn7C36Od8LLkn_8yUSyPr1JYWh1Pvg1iBrNFe7VkX_z9DvicgaqQ8a40KeXQFtLCqQFY19a0eG_sgRYOq1qXErVzFwHnISarLuzxB_sMPSUteSe19YqA2'
+            'user_id': 'M_cAh3OnqaneSsRqQ6091db9KPUPOxvrOGZ_Aj7F-zIv6ADvgwDL800SbWWP5Te8Tr1ADKjo4Ani0No1_imXEXqfUjGTWx2QMTMihovaWNbikayr2nwpxDTAvrUDEqw4gefIug2'
         });
         gtag('set', 'user_properties', {
-            'crm_id': 'MZd_53f3ZzOVM4eQxjhn7C36Od8LLkn_8yUSyPr1JYWh1Pvg1iBrNFe7VkX_z9DvicgaqQ8a40KeXQFtLCqQFY19a0eG_sgRYOq1qXErVzFwHnISarLuzxB_sMPSUteSe19YqA2'
+            'crm_id': 'M_cAh3OnqaneSsRqQ6091db9KPUPOxvrOGZ_Aj7F-zIv6ADvgwDL800SbWWP5Te8Tr1ADKjo4Ani0No1_imXEXqfUjGTWx2QMTMihovaWNbikayr2nwpxDTAvrUDEqw4gefIug2'
         });
     </script>
 <script>
@@ -160,7 +160,7 @@
             }; w.__beusablerumclient__.load(a + "?url=" + encodeURIComponent(d.URL));
         })(window, document, "//rum.beusable.net/load/b190312e135117u861");
     </script>
-<script src="/Content/dist/js/preload.js?cb46a3a27a082554"></script><style>body {
+<script src="/Content/dist/js/preload.js?644248ade797d5b2"></script><style>body {
         opacity: 0;
       }
 
@@ -174,7 +174,7 @@
       docReady(() => {
         document.querySelector('body').setAttribute('loaded', '');
       });</script>
-<script defer="defer" src="/Content/dist/js/chunk-vendors.js?cb46a3a27a082554"></script><script defer="defer" src="/Content/dist/js/default.js?cb46a3a27a082554"></script><link href="/Content/dist/css/default.css?cb46a3a27a082554" rel="stylesheet"/>
+<script defer="defer" src="/Content/dist/js/chunk-vendors.js?644248ade797d5b2"></script><script defer="defer" src="/Content/dist/js/default.js?644248ade797d5b2"></script><link href="/Content/dist/css/default.css?644248ade797d5b2" rel="stylesheet"/>
 <style>
         img.optimize {
             image-rendering: -webkit-optimize-contrast;
@@ -2416,47 +2416,6 @@
 </ev-modal>
 </div>
 </div>
-<div class="hidden" id="Iphone_message">
-<div class="fixed bottom-5 z-50 w-full">
-<div class="relative w-72 my-0 mx-auto p-4 border-x-0 rounded-md bg-black/75">
-<div class="flex justify-between">
-<div class="w-9 h-9">
-<img src="https://eventusstorage.blob.core.windows.net/evs/images/main/eventus-icon.png">
-</img></div>
-<div class="text-xs text-white">
-<div class="flex">
-<span class="pr-1">아래에 있는</span>
-<img class="h-3" src="https://eventusstorage.blob.core.windows.net/evs/images/main/iphone_home_btn_icon.svg"/>
-<span>
-                                눌러
-                            </span>
-</div>
-<div>
-<span class="text-warning-500">이벤터스를 홈 화면에 추가</span>해주세요!
-                        </div>
-<div>
-                            더욱 빠르고 간편하게 이용하실 수 있습니다.
-                        </div>
-<div class="mt-2 flex space-x-4">
-<div>
-<a @click="Iphone_message_disabled()" class="underline py-0 border-none hover:text-gray-500">
-                                    다시 표시하지 않기
-                                </a>
-</div>
-<div>
-<a @click="Iphone_message_close()" class="underline py-0 border-none hover:text-gray-500">
-                                    닫기
-                                </a>
-</div>
-</div>
-</div>
-</div>
-<div class="absolute -bottom-2 inset-x-0 flex justify-center">
-<div class="border-transparent border-t-black/75 border-t-8 border-l-8 border-r-8"></div>
-</div>
-</div>
-</div>
-</div>
 </div>
 <style lang="scss">
     .swiper-image-zoom {
@@ -2496,7 +2455,7 @@
 <span v-if="language === 'ko'">공지사항</span>
 <span v-else="">Announcements</span>
 </a>
-<a class="overflow-hidden text-ellipsis whitespace-nowrap text-gray-500" href="/notice/list">11/10(월) 지역축제 페이지 일시적 접속 제한 안내</a>
+<a class="overflow-hidden text-ellipsis whitespace-nowrap text-gray-500" href="/notice/list">2025년 8월 ~ 2026년 1월 이벤터스 휴무일 안내</a>
 </div>
 </div>
 </div>
@@ -2564,9 +2523,9 @@
 <span v-if="language === 'ko'">(평일 10:00~17:00)</span>
 <span v-else="">(Weekdays 10:00-17:00 KST)</span>
 </span>
-<!-- <span class="pl-2 text-gray-50 hidden lg:block" >
+<span class="pl-2">
                                     02-2088-8327
-                                </span> -->
+                                </span>
 </td>
 </tr>
 <tr>
@@ -2765,7 +2724,7 @@
 </div>
 </div>
 </footer>
-<form action="/account/logoff" id="logoutform" method="post"><input name="__RequestVerificationToken" type="hidden" value="S1VI9IM3s57LZBZD3rVfx2knfLztPk1cm4Q88-W0xDWkw3AhudJXVCt9YZGzgoM39xIZimtqRhTu3LE4lGNOesT8-WA1"/></form> <style>
+<form action="/account/logoff" id="logoutform" method="post"><input name="__RequestVerificationToken" type="hidden" value="l6L-36KGjvYiGsQxIA0lofCrYVSGXGaUvm1c-MPt-_A5xWWzXDx9duBnjYeUxdTrow4WPyyZTuTY5t-0cLRaUsMLPCI1"/></form> <style>
         body {
             top: 0 !important;
         }
@@ -4113,8 +4072,10 @@
                 packageName: 'com.DHYSenjtpL.sjXrVtojDn',
                 scheme: 'sjXrVtojDn',
                 playStoreUrl: 'https://play.google.com/store/apps/details?id=com.DHYSenjtpL.sjXrVtojDn',
+                appStoreUrl: 'https://apps.apple.com/kr/app/%EC%9D%B4%EB%B2%A4%ED%84%B0%EC%8A%A4-%ED%96%89%EC%82%AC-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%95%EC%9D%98-%EC%84%B8%EB%AF%B8%EB%82%98%EB%A5%BC-%ED%95%9C-%EB%88%88%EC%97%90/id6752992247',
                 isMobile: 'False' === 'True',
                 isAndroid: /android/i.test(navigator.userAgent || navigator.vendor || window.opera),
+                isIOS: /iphone|ipad|ipod/i.test(navigator.userAgent || navigator.vendor),
                 // variables
                 isOpen: false,
             }),
@@ -4125,16 +4086,17 @@
                 initAppModal() {
                     const runningEnv = Nachocode.env.getRunningEnv();
                     if (runningEnv === 'app') return;
-                    if (!this.isMobile || !this.isAndroid) return;
-                    if (util.getCookie(this.cookieName)) return;
+                    
+                    if (!this.isMobile && !this.isAndroid && !this.isIOS) { return; }
+                    if (util.getCookie(this.cookieName)) { return; }
                     const allowedPagePathRegexList = [
                         /^\/$/, // 메인페이지
                         /^\/\w+\/event\/\d+$/i, // 행사페이지
                         /^\/search$/i, // 검색페이지
                     ];
                     const isAllowedPage = allowedPagePathRegexList.some((regex) => regex.test(location.pathname));
-                    if (!isAllowedPage) return;
-                    if (document.referrer && (document.referrer.includes('event-us.kr') || document.referrer.includes('localhost'))) return;
+                    if (!isAllowedPage) {  return; }
+                    if (!this.isIOS && document.referrer && (document.referrer.includes('event-us.kr') || document.referrer.includes('localhost'))) { return; }
 
                     // headlessui dialog 버그 수정 코드 (html 태그에 padding-right가 잘못 설정되는 문제)
                     const style = document.createElement('style');
@@ -4146,28 +4108,42 @@
                 handleAppOpen() {
                     const start = Date.now();
                     const timeout = 1500;
-
-                    // 앱이 설치되어 있는 경우 앱 열기
                     const encodedUrl = encodeURIComponent(`https://event-us.kr${location.pathname}${location.search}`);
-                    window.location = `${this.scheme}://open?targeturl=${encodedUrl}`;
+                    const appUrl = `${this.scheme}://open?targeturl=${encodedUrl}`;
+                    const storeUrl = this.isIOS ? this.appStoreUrl : this.playStoreUrl;
 
-                    // 앱이 설치되어 있지 않은 경우 1.5초 후에 Play Store로 이동
-                    setTimeout(() => {
-                        const elapsed = Date.now() - start;
-                        if (elapsed < timeout + 200) {
-                            window.open(this.playStoreUrl, '_blank');
-                        }
-                    }, timeout);
+                    if (this.isIOS) {
+                        // iOS는 iframe 방식으로 앱 열기 시도 (에러 얼럿 방지)
+                        const iframe = document.createElement('iframe');
+                        iframe.style.display = 'none';
+                        iframe.src = appUrl;
+                        document.body.appendChild(iframe);
+
+                        setTimeout(() => {
+                            document.body.removeChild(iframe);
+                            window.location.href = storeUrl;
+                        }, timeout);
+                    } else {
+                        // Android는 기존 방식
+                        window.location = appUrl;
+
+                        setTimeout(() => {
+                            const elapsed = Date.now() - start;
+                            if (elapsed < timeout + 200) {
+                                window.location.href = storeUrl;
+                            }
+                        }, timeout);
+                    }
 
                     this.isOpen = false;
-                    this.setAppModalCloseCookie(30);
+                    //this.setAppModalCloseCookie(30);
                 },
                 handleClose() {
                     this.isOpen = false;
                     this.setAppModalCloseCookie();
                 },
                 setAppModalCloseCookie(expiredDaysFromToday) {
-                    util.setCookie(this.cookieName, 'MZd_53f3ZzOVM4eQxjhn7C36Od8LLkn_8yUSyPr1JYWh1Pvg1iBrNFe7VkX_z9DvicgaqQ8a40KeXQFtLCqQFY19a0eG_sgRYOq1qXErVzFwHnISarLuzxB_sMPSUteSe19YqA2', expiredDaysFromToday ?? 1);
+                    util.setCookie(this.cookieName, 'M_cAh3OnqaneSsRqQ6091db9KPUPOxvrOGZ_Aj7F-zIv6ADvgwDL800SbWWP5Te8Tr1ADKjo4Ani0No1_imXEXqfUjGTWx2QMTMihovaWNbikayr2nwpxDTAvrUDEqw4gefIug2', expiredDaysFromToday ?? 1);
                 },
             },
         }).mount('#app-prompt-popup');
@@ -4199,25 +4175,6 @@ function engineResultToItem(engineResult) {
     };
 }
 docReady(() => {
-    if (window.navigator.standalone === false) {
-        if (navigator.userAgent.indexOf('KAKAOTALK') === -1) {
-            const isSafari = iOSSafari(navigator.userAgent);
-            if (isSafari) {
-                if (util.getCookie('Iphone_message_disabled') !== 'true') {
-                    document.getElementById('Iphone_message').style.display = 'block';
-                }
-            }
-        }
-    }
-
-
-    function iOSSafari(userAgent) {
-        return (
-            /iP(ad|od|hone)/i.test(userAgent) &&
-            /WebKit/i.test(userAgent) &&
-            !/(CriOS|FxiOS|OPiOS|mercury)/i.test(userAgent)
-        );
-    }
 
     const priceConstants = {
         min: 0,
@@ -4267,8 +4224,8 @@ docReady(() => {
                     searchTriggerModel: getSearchTriggerModel(),
                     showFilter: false,
                     searchDataRaw: null,
-                    banners: [{"Id":7891,"New_Start_Date":"2025-12-09T00:00:00","New_End_Date":"2025-12-22T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-11-18T16:07:18.4454213","Support":true,"Order":1,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/4f46f2226be64c9cae4455b27cfd6f7f.png","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/ef435e26d8584237ac6bbf0cf1a82bb8.png","Click_Url":"https://event-us.kr/webinar/event/118099","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"인재 소싱부터 AI 자동화까지","BannerDescription":"26년 스타트업 채용 전략 A-Z","BannerDate":"2025. 12. 09(화) ~ 2025. 12. 22(월)","BannerPlace":"온라인 행사"},{"Id":7929,"New_Start_Date":"2025-12-06T00:00:00","New_End_Date":"2025-12-19T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-11-24T14:24:12.2927304","Support":true,"Order":1,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/e4cf690f9e5f41b7acb5442dc65b82e2.png","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/57c7df86fb6c4b7c9ed55a1f6cf3b6d8.png","Click_Url":"https://event-us.kr/yamyam/event/116492?utm_source=eventus_ad&utm_medium=package&utm_campaign=aimahaamo2","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"직장인을 위한 부의 사다리 만들기","BannerDescription":"TV조선 경제아카데미 시즌2","BannerDate":"2025. 12. 20(토) 10:00","BannerPlace":"오프라인 행사"},{"Id":8008,"New_Start_Date":"2025-12-12T00:00:00","New_End_Date":"2025-12-15T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-12-12T10:39:54.9831791","Support":true,"Order":2,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/48899e8e2e2e4fb0afadcb8ea85d1bc3.png","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/4c9f1e2be3224c2681a0ebc72b62b8da.png","Click_Url":"https://event-us.kr/vtrspg/event/117988","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"1:1 컨설팅 및 트렌드 컨퍼런스","BannerDescription":"경기도 창업육성\rMeet-up Day","BannerDate":"2025. 12. 16(화) 13:00","BannerPlace":"오프라인 행사"}],
-                    searchResultBanners: [{"Id":"118251","CoverImageUrl":"/Image/localbiz2025contest/118251/ProjectInfo/Cover/c0417549558e41c69d6c54af73d418fd.png","Title":"2025 지역주력산업 영상 공모전(~12/26)","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/localbiz2025contest/TopLogoImage/16d961cc19674224a7bf0a7ce2b53296.png","EventType":"기타","Category":"디자인/영상","Category2":"영상","StartDate":"2025-12-11T00:00:00","CloseDate":"2025-12-26T23:30:00","RegisterStartDate":"2025-12-11T00:00:00","RegisterDueDate":"2025-12-26T23:30:00","ViewCount":69,"AppSubDomain":"localbiz2025contest","IsSuper":false,"AppTitle":"2025지역주력산업영상콘텐츠공모전","AppThemeColor":"eventus-purple","ProjectInfoArea":null,"ProjectInfoArea_Detail":null,"EventAddress":null,"EventAddressTitle":null,"GroupRequestGroupMoney":0,"IsCheck":false,"IsOpen":false,"IsEnd":false,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-12-11T13:04:52.5151255","EventSystemType":"online","OnlineEventType":null,"ReceptionType":"external","Payway":false,"JaccardScore":0.0,"EventPlayListId":null,"ProjectTags":[],"pitId":8005,"IsAdCheck":true,"AdOrder":0,"IsAdMark":true,"Url":"https://event-us.kr/localbiz2025contest/event/118251","CorrectionValue":0.0},{"Id":"117844","CoverImageUrl":"/Image/dcbkhp/117844/ProjectInfo/Cover/b8a38b0219494370881e74f8267fe6ee.png","Title":"부산디자인진흥원 K-하이테크플랫폼 AI디자인 교육생 모집 (Chat GPT 활용 / 노코드 홈페이지 제작)","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/dcbkhp/TopLogoImage/b85e6143f6e84f6eac2ca1c371329c1d.png","EventType":"강연/세미나","Category":"IT/프로그래밍","Category2":"ChatGPT","StartDate":"2025-12-23T10:00:00","CloseDate":"2025-12-23T18:00:00","RegisterStartDate":"2025-12-03T16:00:00","RegisterDueDate":"2025-12-22T17:00:00","ViewCount":479,"AppSubDomain":"dcbkhp","IsSuper":false,"AppTitle":"부산디자인진흥원 K-하이테크 플랫폼","AppThemeColor":"eventus-purple","ProjectInfoArea":"부산/울산/경남","ProjectInfoArea_Detail":"부산 해운대구","EventAddress":"부산 해운대구 센텀동로 57","EventAddressTitle":"부산디자인진흥원 2층 , 1강의실","GroupRequestGroupMoney":0,"IsCheck":false,"IsOpen":false,"IsEnd":false,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-12-03T15:30:39.2033633","EventSystemType":"offline","OnlineEventType":null,"ReceptionType":"external","Payway":false,"JaccardScore":0.0,"EventPlayListId":null,"ProjectTags":[],"pitId":7980,"IsAdCheck":true,"AdOrder":0,"IsAdMark":true,"Url":"https://event-us.kr/dcbkhp/event/117844","CorrectionValue":0.0},{"Id":"117197","CoverImageUrl":"/Image/webinar/117197/ProjectInfo/Cover/f637df0b2b674bba9e6d39154d0197c1.png","Title":"스타트업 AI 의사결정 리스크 관리 전략 A-Z ","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/webinar/TopLogoImage/5b5b2e6b5dcb4495be8397f7c11b4d6f.png","EventType":"강연/세미나","Category":"경영","Category2":"세무/법무/노무","StartDate":"2025-12-11T14:00:00","CloseDate":"2025-12-11T15:30:00","RegisterStartDate":"2025-11-24T00:00:00","RegisterDueDate":"2025-12-11T13:00:00","ViewCount":2330,"AppSubDomain":"webinar","IsSuper":false,"AppTitle":"EVENTUS LIVE","AppThemeColor":"eventus-purple","ProjectInfoArea":null,"ProjectInfoArea_Detail":null,"EventAddress":null,"EventAddressTitle":null,"GroupRequestGroupMoney":0,"IsCheck":true,"IsOpen":true,"IsEnd":true,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-11-21T15:23:00","EventSystemType":"online","OnlineEventType":null,"ReceptionType":"eventus","Payway":false,"JaccardScore":0.0,"EventPlayListId":null,"ProjectTags":[{"Id":155568,"ProjectId":"117197","ProjectSubDomain":"webinar","TagId":59,"Date":"2025-11-21T15:28:58.319891","Sort":0,"Project":null,"Tag":null},{"Id":155569,"ProjectId":"117197","ProjectSubDomain":"webinar","TagId":3803,"Date":"2025-11-21T15:28:58.319891","Sort":1,"Project":null,"Tag":null},{"Id":155570,"ProjectId":"117197","ProjectSubDomain":"webinar","TagId":458,"Date":"2025-11-21T15:28:58.319891","Sort":2,"Project":null,"Tag":null},{"Id":155571,"ProjectId":"117197","ProjectSubDomain":"webinar","TagId":97,"Date":"2025-11-21T15:28:58.319891","Sort":3,"Project":null,"Tag":null},{"Id":155572,"ProjectId":"117197","ProjectSubDomain":"webinar","TagId":13342,"Date":"2025-11-21T15:28:58.319891","Sort":4,"Project":null,"Tag":null}],"pitId":7916,"IsAdCheck":true,"AdOrder":1,"IsAdMark":true,"Url":"https://event-us.kr/webinar/event/117197?utm_source=eventus_ad&utm_medium=search_result&utm_campaign=u8iazbawss","CorrectionValue":0.0}],
+                    banners: [{"Id":7996,"New_Start_Date":"2025-12-15T00:00:00","New_End_Date":"2026-01-05T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-12-08T10:33:24.8947723","Support":true,"Order":1,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/bc8aa678ba8e47679dc5a0993e6a48ba.png","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/7068babf564a43feb41ed0100ce9efe4.png","Click_Url":"https://event-us.kr/m/117847/47435","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"부정 게시글 관리부터 모니터링까지","BannerDescription":"AI시대, 브랜드 평판 리스크 관리 ","BannerDate":"2026. 01. 15(목) 14:00","BannerPlace":"온라인 행사"},{"Id":8024,"New_Start_Date":"2025-12-18T00:00:00","New_End_Date":"2026-01-02T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-12-18T17:41:17.3305787","Support":false,"Order":1,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/6caf230de1604a49910919b2679c154d.jpg","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/b24ad94b85a54b1eacae548c0acf115d.jpg","Click_Url":"https://event-us.kr/totalseller/event/118256?utm_source=eventus&utm_medium=eventus&utm_campaign=mpaimav7ag","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"200억 제조사 대표의 성공하는","BannerDescription":"판매, 브랜딩 전략 강의","BannerDate":"2026. 01. 04(일) 10:00","BannerPlace":"오프라인 행사"},{"Id":7891,"New_Start_Date":"2025-12-09T00:00:00","New_End_Date":"2025-12-22T23:59:59","Status":"ADVERTISING","ApplyDate":"2025-11-18T16:07:18.4454213","Support":true,"Order":1,"Position":"searchpage","ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/4f46f2226be64c9cae4455b27cfd6f7f.png","M_ImageUrl":"https://eventusstorage.blob.core.windows.net/evs/Images/searchpage/ef435e26d8584237ac6bbf0cf1a82bb8.png","Click_Url":"https://event-us.kr/webinar/event/118099","Banner":{"color":{"title":"#FFFFFF","description":"#FFFFFF","date":"#FFFFFF","place":"#FFFFFF"}},"BannerJson":"{\"color\":{\"title\":\"#FFFFFF\",\"description\":\"#FFFFFF\",\"date\":\"#FFFFFF\",\"place\":\"#FFFFFF\"}}","BannerTitle":"인재 소싱부터 AI 자동화까지","BannerDescription":"26년 스타트업 채용 전략 A-Z","BannerDate":"2025. 12. 09(화) ~ 2025. 12. 22(월)","BannerPlace":"온라인 행사"}],
+                    searchResultBanners: [{"Id":"117676","CoverImageUrl":"/Image/kjbiz/117676/ProjectInfo/Cover/4fc84aca09c04cc8bdeb012297f63586.jpg","Title":"[2026년 일본진출] 실무자가 알아야 할 법인설립 · 물류 · 송금 · 마케팅 A TO Z","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/kjbiz/TopLogoImage/9522d7a31da74053b022effa46f2dc63.png","EventType":"강연/세미나","Category":"마케팅","Category2":"브랜딩","StartDate":"2025-12-23T14:00:00","CloseDate":"2025-12-23T18:00:00","RegisterStartDate":"2025-12-01T14:00:00","RegisterDueDate":"2025-12-23T10:00:00","ViewCount":554,"AppSubDomain":"kjbiz","IsSuper":false,"AppTitle":"B2BMarketing Rinkora","AppThemeColor":"eventus-purple","ProjectInfoArea":null,"ProjectInfoArea_Detail":null,"EventAddress":null,"EventAddressTitle":null,"GroupRequestGroupMoney":0,"IsCheck":true,"IsOpen":false,"IsEnd":false,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-12-01T14:05:24.3451926","EventSystemType":"online","OnlineEventType":null,"ReceptionType":"eventus","Payway":false,"JaccardScore":0.0,"EventPlayListId":null,"ProjectTags":[{"Id":156841,"ProjectId":"117676","ProjectSubDomain":"kjbiz","TagId":21666,"Date":"2025-12-01T14:53:57.4942797","Sort":0,"Project":null,"Tag":null},{"Id":156842,"ProjectId":"117676","ProjectSubDomain":"kjbiz","TagId":4165,"Date":"2025-12-01T14:53:57.4942797","Sort":1,"Project":null,"Tag":null},{"Id":156843,"ProjectId":"117676","ProjectSubDomain":"kjbiz","TagId":17911,"Date":"2025-12-01T14:53:57.4942797","Sort":2,"Project":null,"Tag":null},{"Id":156844,"ProjectId":"117676","ProjectSubDomain":"kjbiz","TagId":31311,"Date":"2025-12-01T14:53:57.4942797","Sort":3,"Project":null,"Tag":null},{"Id":156845,"ProjectId":"117676","ProjectSubDomain":"kjbiz","TagId":31312,"Date":"2025-12-01T14:53:57.4942797","Sort":4,"Project":null,"Tag":null}],"pitId":8009,"IsAdCheck":true,"AdOrder":0,"IsAdMark":true,"Url":"https://event-us.kr/kjbiz/event/117676","CorrectionValue":0.0},{"Id":"117847","CoverImageUrl":"/Image/webinar/117847/ProjectInfo/Cover/054f8a97f4c94418a0adb2b65de26e57.png","Title":"AI시대, 브랜드 평판 리스크 관리 전략","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/webinar/TopLogoImage/5b5b2e6b5dcb4495be8397f7c11b4d6f.png","EventType":"강연/세미나","Category":"경영","Category2":"AI","StartDate":"2026-01-15T14:00:00","CloseDate":"2026-01-15T15:00:00","RegisterStartDate":"2025-12-08T00:00:00","RegisterDueDate":"2026-01-14T23:30:00","ViewCount":657,"AppSubDomain":"webinar","IsSuper":false,"AppTitle":"EVENTUS LIVE","AppThemeColor":"eventus-purple","ProjectInfoArea":null,"ProjectInfoArea_Detail":null,"EventAddress":null,"EventAddressTitle":null,"GroupRequestGroupMoney":0,"IsCheck":true,"IsOpen":true,"IsEnd":false,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-12-03T15:50:00","EventSystemType":"online","OnlineEventType":null,"ReceptionType":"eventus","Payway":false,"JaccardScore":0.0,"EventPlayListId":null,"ProjectTags":[{"Id":157301,"ProjectId":"117847","ProjectSubDomain":"webinar","TagId":23266,"Date":"2025-12-03T15:52:20.4953969","Sort":0,"Project":null,"Tag":null},{"Id":157302,"ProjectId":"117847","ProjectSubDomain":"webinar","TagId":31389,"Date":"2025-12-03T15:52:20.4953969","Sort":1,"Project":null,"Tag":null},{"Id":157303,"ProjectId":"117847","ProjectSubDomain":"webinar","TagId":444,"Date":"2025-12-03T15:52:20.4953969","Sort":2,"Project":null,"Tag":null},{"Id":157304,"ProjectId":"117847","ProjectSubDomain":"webinar","TagId":3890,"Date":"2025-12-03T15:52:20.4953969","Sort":3,"Project":null,"Tag":null},{"Id":157305,"ProjectId":"117847","ProjectSubDomain":"webinar","TagId":31390,"Date":"2025-12-03T15:52:20.4953969","Sort":4,"Project":null,"Tag":null}],"pitId":7989,"IsAdCheck":true,"AdOrder":1,"IsAdMark":true,"Url":"https://event-us.kr/m/117847/47436","CorrectionValue":0.0},{"Id":"118099","CoverImageUrl":"/Image/webinar/118099/ProjectInfo/Cover/6788500be3d54c2cb20d39685357b199.png","Title":"[VOD] 26년 스타트업 채용 전략 A-Z : 인재 소싱부터 AI 자동화까지","State":"Start","AppTopLogoImageUrl":"https://eventusstorage.blob.core.windows.net/evs/UploadedFiles/webinar/TopLogoImage/5b5b2e6b5dcb4495be8397f7c11b4d6f.png","EventType":"강연/세미나","Category":"창업","Category2":"HR","StartDate":"2025-12-09T15:30:00","CloseDate":"2025-12-22T23:59:00","RegisterStartDate":"2025-12-09T15:30:00","RegisterDueDate":"2025-12-22T23:59:00","ViewCount":651,"AppSubDomain":"webinar","IsSuper":false,"AppTitle":"EVENTUS LIVE","AppThemeColor":"eventus-purple","ProjectInfoArea":"서울/경기/인천","ProjectInfoArea_Detail":"서울 강남구","EventAddress":"서울 강남구 선릉로 551","EventAddressTitle":null,"GroupRequestGroupMoney":0,"IsCheck":true,"IsOpen":true,"IsEnd":false,"IsPlace":false,"IsDirectPlace":false,"CreatedDate":"2025-12-08T16:41:00","EventSystemType":"online","OnlineEventType":"eventus","ReceptionType":"eventus","Payway":false,"JaccardScore":0.0,"EventPlayListId":258,"ProjectTags":[{"Id":158044,"ProjectId":"118099","ProjectSubDomain":"webinar","TagId":1095,"Date":"2025-12-08T16:41:47.6191345","Sort":0,"Project":null,"Tag":null},{"Id":158045,"ProjectId":"118099","ProjectSubDomain":"webinar","TagId":624,"Date":"2025-12-08T16:41:47.6191345","Sort":1,"Project":null,"Tag":null},{"Id":158046,"ProjectId":"118099","ProjectSubDomain":"webinar","TagId":97,"Date":"2025-12-08T16:41:47.6191345","Sort":2,"Project":null,"Tag":null},{"Id":158047,"ProjectId":"118099","ProjectSubDomain":"webinar","TagId":319,"Date":"2025-12-08T16:41:47.6191345","Sort":3,"Project":null,"Tag":null},{"Id":158048,"ProjectId":"118099","ProjectSubDomain":"webinar","TagId":31004,"Date":"2025-12-08T16:41:47.6191345","Sort":4,"Project":null,"Tag":null}],"pitId":7887,"IsAdCheck":true,"AdOrder":2,"IsAdMark":true,"Url":"https://event-us.kr/webinar/event/118099","CorrectionValue":0.0}],
                     isSearchResultBannerShown: false,
                     eventList: [],
                     eventCount: 0,

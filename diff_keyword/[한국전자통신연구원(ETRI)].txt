@@ -131,8 +131,8 @@ function fnAnnoView(key){
 </script>
 </head>
 <body>
-<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoILrcbp0wxmbE3FGoWtwd20M0RIKeKzc7KQzIF8r3hwUWyqhzcjuMusayt/Nz3hD4FDtA3lyyGNM1oESbtbCLJzMfng4++I7FBSX6PRafPT738qfH11NuPvYSGV7wrQhVFfPkYesv22Px6LG9WftmKI/ddDk9lCGmC4tBpI27PDPzi0v49AI+GnR7uxbVhkYDwe2FTHPPFcY55kn4hhyILPh3W6MnISCVSywmVEVg7AEzcMqNPH1eSTcD98Wzcwp3OkA4Vf5ssEXnGY82G0Tewuebgv6nugg6Q6Iko+Eglhwm8iSdTVYZZuzMepgZUkzbbThCcBtZeb1cR4FHTlr9YTeCaKGbc1n/KV/Jg9dlanbLlbnJbtpyjSNny/YuNRRp3K3cAOP4ZwBucFUmFUPcpGkVxhv/ABsNri6A7ucN1PSnPm66YNgflbKftIW0GVc6So2w1SE5CEhlRxEZyK5GmLUHZC0DRPJRMSvYmG4h6WW2FII48a0Xr5uAV9lQAd1a0+6/XijZ/ILxtH7qr/DkR4DkS+xoPBHBGmJoo1IfHKI4="/>
-<input name="csSignature" type="hidden" value="w6j5TPIWqMyOfqNrQCRANQ=="/>
+<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIrR3rDoK5M75YUkAyqsa2+XGQYYHgl4JaqBR8IrtqqoYBrXaG+nem1ic/SO/DaHfCokYtPN2d0Eo4uFGdPQAllMiS8ldtWHtEFbHoAxQCVLFyivdA0UGR60UqKiXHbWNugk8dF2ZrTEVg6AheaJdSZ52TFux2Si5OHKx0KRYLpvP867sjQ8y7LL7Y4o+8FLYpY57HEjL7iyVDGmks0ebfizyHlLX2dbxPKmZOo9RDYBMuMXvAiFmSn5hO/+uDZq6GG8BWJqv4djZBd8TUtrhPhFFEfwHuNFiQB3WMpsKijoB1DzttkqI0rr/t678D/lZ/ELaTQwa7qxxLq+oiJN/BLw+mDeeUzRP8tggzCY+TVIHb/jjeWmvevMJf2QWfqMh8q7iD5b91DjP1tgPRahuxn7ow08v6FEFjmnT4bTqjy84zgg+TY8X4mBkgXCqYueBc/ohx4sTUiYvrD2tL8PHDTKxSekBNp6UIaTExtSXQk9hj6tI7A9iLUdNKWm7UW1zWyTsrVxFefepkVpocfIJljdl15MHT8cVLXqtQOiIhl9k="/>
+<input name="csSignature" type="hidden" value="0Ak6qaLurPpfmX3q/BX4YA=="/>
 <input id="returnURL" name="returnURL" type="hidden" value=""/>
 <input id="userId" name="userId" type="hidden" value="">
 <input id="loginType" name="loginType" type="hidden" value=""/>
@@ -222,8 +222,8 @@ function fnAnnoView(key){
 <div class="table_set">
 <h3 class="txt_coop_001">공동연구공고 검색</h3>
 <div class="search">
-<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoILrcbp0wxmbE3FGoWtwd20M0RIKeKzc7KQzIF8r3hwUWyqhzcjuMusayt/Nz3hD4FJrJvbRIpOURNF5MxsqvvuNS+bfRpdey2CocNPuF8jhJVpi/ShW4l/c2fF6bwDEwiCzh0FiuqDuYJc7/8JTtq1e3+4iZsz7MWxScYQUeh0LmkYDOmRNbRvmygcFKgm+aWxdj2u7A010Lt6SF4DshzgdPl9eUlVt7SgIS5Miqk/NogsB2tIZ1bc0xtlwyQWe8Sex3erFG/DDJd8KnQQC4U7Jtgq6JkJTvVFOGZR01DmrFDgkj6ejy4ua1hlXSkCKKubQ/lLYn7o4rycdJsADvtThIBa4cCPc5izf6lGUDw1C3qGlbEKQioe6p0lkXydcUszh96MyueqJ5Zs0d3YTdkBHXXEn2UxDwNWSSF/iwNzWjM+2Cc4o4WwuCODw7u+v6B"/>
-<input name="csSignature" type="hidden" value="w6j5TPIWqMyOfqNrQCRANQ=="/>
+<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIrR3rDoK5M75YUkAyqsa2+XGQYYHgl4JaqBR8IrtqqoYBrXaG+nem1ic/SO/DaHfCPLOBxHTKcaruY8BwnyNNfrPO2M034Z4aOH4Ak5853oW8yVgENwZ5d6izzgbzGsRMNoYDc/qmFjrUL4JMe/9A+JIbA24hOScycOY6JxgXgJflObbo/Qqf4yNmn1bzM9Mn2kwGqVwlyvF8qPOfzCMJ4UcB62qSNHDW/o8B/mZFkio3QIH4ORrUfR7FmlMd+2P/2ty5GzNXNGBB7AlkDfQv3GXnmtuB4WiSqh5JGoDMGDcMduMYVKejxQs59Ee0yLfQzgXZMCw+9S1TcqueURwzBQhNYPESGfNlqfA+lBGfeLW6UEs90f1y85SeP1Y9FndG4G/6t/668rc/ITPHavY9tenmfzYKvoOGR5C201vwugK8bvEia9AgZ9BJKr24GCOP"/>
+<input name="csSignature" type="hidden" value="0Ak6qaLurPpfmX3q/BX4YA=="/>
 <script type="text/javascript">
 $(document).ready(function(){
     $('#searchStartDate').focus(function(){
@@ -280,7 +280,7 @@ $(document).ready(function(){
 <div class="table_set">
 <div class="total_page">
 <ul>
-<li><strong>Total</strong> : <span>2914</span></li>
+<li><strong>Total</strong> : <span>2916</span></li>
 <li class="ml10"><strong>Page</strong> : <span>1/292</span></li>
 </ul>
 <div class="txt_n">
@@ -312,6 +312,42 @@ $(document).ready(function(){
                                     
                                         
                                         
+                                    5011-2025-00008
+                                        
+                                    
+                                    </td>
+<td title="대용량 로봇 데이터를 활용한 경량 VLA 모델 학습 연구">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('5011-2025-00008')">대용량 로봇 데이터를 활용한 경량 VLA 모델 학습 연구</a>
+</div>
+</td>
+<td>2025-12-17</td>
+<td>2025-12-22</td>
+<td>공모접수중</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    5011-2025-00009
+                                        
+                                    
+                                    </td>
+<td title="비정형 환경에서의 강건한 지식 표현학습을 위한 요소기술 통합 및 검증">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('5011-2025-00009')">비정형 환경에서의 강건한 지식 표현학습을 위한 요소기술 통합 및 검증</a>
+</div>
+</td>
+<td>2025-12-17</td>
+<td>2025-12-22</td>
+<td>공모접수중</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
                                     1011-2025-00002
                                         
                                     
@@ -323,7 +359,7 @@ $(document).ready(function(){
 </td>
 <td>2025-12-15</td>
 <td>2025-12-19</td>
-<td>공모접수중</td>
+<td>마감</td>
 </tr>
 <tr>
 <td>
@@ -451,42 +487,6 @@ $(document).ready(function(){
 <td>2025-05-07</td>
 <td>마감</td>
 </tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    5011-2025-00005
-                                        
-                                    
-                                    </td>
-<td title="실시간 현장정보 및 공간정보 데이터 수집·연계·통합 기술개발">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('5011-2025-00005')">실시간 현장정보 및 공간정보 데이터 수집·연계·통합 기술개발</a>
-</div>
-</td>
-<td>2025-04-30</td>
-<td>2025-05-07</td>
-<td>마감</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    5011-2025-00006
-                                        
-                                    
-                                    </td>
-<td title="물리 및 수치해석 기반 도시침수 시뮬레이션 모델 개발">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('5011-2025-00006')">물리 및 수치해석 기반 도시침수 시뮬레이션 모델 개발</a>
-</div>
-</td>
-<td>2025-04-30</td>
-<td>2025-05-07</td>
-<td>마감</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -529,8 +529,8 @@ $(document).ready(function(){
 <div class="spot_2">
 <ul>
 <li>
-<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoILrcbp0wxmbE3FGoWtwd20M0RIKeKzc7KQzIF8r3hwUWyqhzcjuMusayt/Nz3hD4FUyJcwvkiahDmL6Lz5U9VCA==">
-<input name="csSignature" type="hidden" value="w6j5TPIWqMyOfqNrQCRANQ==">
+<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIrR3rDoK5M75YUkAyqsa2+XGQYYHgl4JaqBR8IrtqqoYBrXaG+nem1ic/SO/DaHfCgulNnTIHwF+xxyaB5bUXXg==">
+<input name="csSignature" type="hidden" value="0Ak6qaLurPpfmX3q/BX4YA==">
 <fieldset>
 <legend>ETRI 직할부서 바로가기</legend>
 <label class="hidden" for="etri_siteurl">ETRI 직할부서 바로가기</label>
@@ -555,8 +555,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoILrcbp0wxmbE3FGoWtwd20M0RIKeKzc7KQzIF8r3hwUWyqhzcjuMusayt/Nz3hD4FUyJcwvkiahDmL6Lz5U9VCA==">
-<input name="csSignature" type="hidden" value="w6j5TPIWqMyOfqNrQCRANQ==">
+<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIrR3rDoK5M75YUkAyqsa2+XGQYYHgl4JaqBR8IrtqqoYBrXaG+nem1ic/SO/DaHfCgulNnTIHwF+xxyaB5bUXXg==">
+<input name="csSignature" type="hidden" value="0Ak6qaLurPpfmX3q/BX4YA==">
 <fieldset>
 <legend>ETRI SERVICE 바로가기</legend>
 <label class="hidden" for="etri_siteur2">ETRI SERVICE 바로가기</label>
@@ -579,8 +579,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoILrcbp0wxmbE3FGoWtwd20M0RIKeKzc7KQzIF8r3hwUWyqhzcjuMusayt/Nz3hD4FUyJcwvkiahDmL6Lz5U9VCA=="/>
-<input name="csSignature" type="hidden" value="w6j5TPIWqMyOfqNrQCRANQ=="/>
+<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIrR3rDoK5M75YUkAyqsa2+XGQYYHgl4JaqBR8IrtqqoYBrXaG+nem1ic/SO/DaHfCgulNnTIHwF+xxyaB5bUXXg=="/>
+<input name="csSignature" type="hidden" value="0Ak6qaLurPpfmX3q/BX4YA=="/>
 <fieldset>
 <legend>ETRI 유관기관 바로가기</legend>
 <label class="hidden" for="etri_siteur3">ETRI 유관기관 바로가기</label>
