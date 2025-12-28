@@ -1414,7 +1414,7 @@ function doOrderby(cbIdx,orderbyDiv){
 //]]>
 </script>
 <h3 id="sub_contentsArea2">
-<span class="board_tit">전체</span><span class="search_num"><em class="num">1,868</em>건
+<span class="board_tit">전체</span><span class="search_num"><em class="num">1,870</em>건
             (1페이지 / 187페이지)</span>
 <span class="search_array">
 <a href="javascript:doOrderby('99835','count');" title="선택안됨">조회순</a>
@@ -1434,6 +1434,84 @@ function doOrderby(cbIdx,orderbyDiv){
 </form>
 <div class="board_type01">
 <ul>
+<li class="nia_noti">
+<a href="#view" onclick="doBbsFView('99835','28898','16010100','28898');return false;" title="2025년 NIA 종합청렴도 평가 결과 공개(새 글)-첨부파일 없음">
+<span class="subject searchItem">
+                    
+                        
+
+                            
+                            
+                                    
+                                     
+                                    
+                                        
+                                        
+                                             2025년 NIA 종합청렴도 평가 결과 공개
+                                        
+                                    
+                                    
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                        
+
+                            
+                            
+                        
+                    
+                    
+                    
+                    
+                    
+                        <em class="list_new">new</em>
+</span>
+<span class="src">
+<em>2025.12.24</em>
+<em>조회수 119</em>
+</span>
+<span class="writer">
+<em>류주엽</em>
+<em>윤리소통팀</em>
+</span>
+</a>
+</li>
 <li class="nia_noti">
 <a href="#view" onclick="doBbsFView('99835','28849','16010100','28849');return false;" title="2025 AI를 위한 데이터&amp;클라우드 진흥주간-첨부파일 없음">
 <span class="subject searchItem">
@@ -1503,7 +1581,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 852</em>
+<em>조회수 974</em>
 </span>
 <span class="writer">
 <em>엄용석</em>
@@ -1578,7 +1656,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.11.24</em>
-<em>조회수 2807</em>
+<em>조회수 3034</em>
 </span>
 <span class="writer">
 <em>박은명</em>
@@ -1653,7 +1731,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 15712</em>
+<em>조회수 16190</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1661,8 +1739,8 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 </a>
 </li>
-<li class="nia_noti">
-<a href="#view" onclick="doBbsFView('99835','27590','16010100','27590');return false;" title="2024년 공공기관 청렴도 측정 결과 공개-첨부파일 없음">
+<li class="">
+<a href="#view" onclick="doBbsFView('99835','28912','16010100','28912');return false;" title="우선구매대상 지능정보제품 검증 시험평가 비용 지원 사업 공고(4차)(새 글)-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1674,7 +1752,7 @@ function doOrderby(cbIdx,orderbyDiv){
                                     
                                         
                                         
-                                             2024년 공공기관 청렴도 측정 결과 공개
+                                             우선구매대상 지능정보제품 검증 시험평가 비용 지원 사업 공고(4차)
                                         
                                     
                                     
@@ -1724,22 +1802,21 @@ function doOrderby(cbIdx,orderbyDiv){
                         
                     
                     
-                    
-                    
-                    
-                    </span>
+                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
+<em class="list_new">new</em>
+</span>
 <span class="src">
-<em>2024.12.27</em>
-<em>조회수 3176</em>
+<em>2025.12.26</em>
+<em>조회수 55</em>
 </span>
 <span class="writer">
-<em>장호영</em>
-<em>감사실</em>
+<em>이혜림</em>
+<em>디지털접근성팀</em>
 </span>
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28869','16010100','28869');return false;" title="「2025년 공공 AI 대전환 챌린지」 공모전 결과 안내(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28869','16010100','28869');return false;" title="「2025년 공공 AI 대전환 챌린지」 공모전 결과 안내-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1802,11 +1879,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.12.16</em>
-<em>조회수 340</em>
+<em>조회수 588</em>
 </span>
 <span class="writer">
 <em>박종범</em>
@@ -1815,7 +1891,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28865','16010100','28865');return false;" title="2026년 스마트빌리지 보급 및 확산사업 목록(새 글)-첨부파일 있음">
+<a href="#view" onclick="doBbsFView('99835','28865','16010100','28865');return false;" title="2026년 스마트빌리지 보급 및 확산사업 목록-첨부파일 있음">
 <span class="subject searchItem">
                     
                         
@@ -1878,11 +1954,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-<em class="list_new">new</em>
 </span>
 <span class="src">
 <em>2025.12.16</em>
-<em>조회수 459</em>
+<em>조회수 713</em>
 </span>
 <span class="writer">
 <em>권선희</em>
@@ -1891,7 +1966,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28858','16010100','28858');return false;" title="‘디지털 공공 서비스 혁신을 위한 국경 간 데이터 공유 포럼’ 개최 안내 / 12.18.(목) 13:00~17:00(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28858','16010100','28858');return false;" title="‘디지털 공공 서비스 혁신을 위한 국경 간 데이터 공유 포럼’ 개최 안내 / 12.18.(목) 13:00~17:00-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1956,11 +2031,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.12.15</em>
-<em>조회수 224</em>
+<em>조회수 324</em>
 </span>
 <span class="writer">
 <em>오대훈</em>
@@ -1969,7 +2043,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </a>
 </li>
 <li class="">
-<a href="#view" onclick="doBbsFView('99835','28857','16010100','28857');return false;" title="2025년 국가 데이터 인프라 &amp; 데이터 플랫폼 통합 컨퍼런스 개최(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28857','16010100','28857');return false;" title="2025년 국가 데이터 인프라 &amp; 데이터 플랫폼 통합 컨퍼런스 개최-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -2034,11 +2108,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.12.15</em>
-<em>조회수 346</em>
+<em>조회수 486</em>
 </span>
 <span class="writer">
 <em>김보라</em>
@@ -2113,86 +2186,11 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 963</em>
+<em>조회수 1346</em>
 </span>
 <span class="writer">
 <em>성연지</em>
 <em>국가데이터인프라팀</em>
-</span>
-</a>
-</li>
-<li class="">
-<a href="#view" onclick="doBbsFView('99835','28850','16010100','28850');return false;" title="2026년도 정보문화 유공 정부포상 계획 공고(연장)-첨부파일 있음">
-<span class="subject searchItem">
-                    
-                        
-
-                            
-                            
-                                    
-                                     
-                                    
-                                        
-                                        
-                                             2026년도 정보문화 유공 정부포상 계획 공고(연장)
-                                        
-                                    
-                                    
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                        
-
-                            
-                            
-                        
-                    
-                    
-                    <em><i class="file_icon" title="첨부파일 있음"><span class="hiddenTxt">첨부파일 있음</span></i></em>
-</span>
-<span class="src">
-<em>2025.12.11</em>
-<em>조회수 215</em>
-</span>
-<span class="writer">
-<em>이은수</em>
-<em>디지털포용문화팀</em>
 </span>
 </a>
 </li>

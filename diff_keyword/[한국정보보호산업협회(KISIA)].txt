@@ -1257,7 +1257,7 @@
 </li>
 <li class="footer-sub__item last">서울시 송파구 135(가락동 78) IT벤처타워 서관 14층(05717)</li>
 </ul>
-<p class="footer-copyright">COPYRIGHT (C) 2020 KISIA ALL RIGHTS RESERVED</p>
+<p class="footer-copyright">COPYRIGHT (C) 2025 KISIA ALL RIGHTS RESERVED. Partner of <a href="https://daltxrealestate.com">DALTX</a></p>
 </li>
 </ul>
 </div>
