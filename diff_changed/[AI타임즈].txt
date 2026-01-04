@@ -54,7 +54,7 @@ $(function(e) {
 // 도메인
 var SITE_DOMAIN = 'https://www.aitimes.com'
 	,CDN_DOMAIN = 'https://cdn.aitimes.com'
-	,___currentTime	= 1766960024;
+	,___currentTime	= 1767564822;
 
 // 즐겨찾기 스크립트
 function bookmark() {
@@ -183,7 +183,7 @@ wcs_do();
 <div class="gl-banner">
 <!--제호우측--><script src="https://cdn.aitimes.com/bannerpop/uploads/js_activity/59.js?1766718858"></script><!--//제호우측--> </div>
 <div class="gl-banner etc">
-<div class="gl-updated">발행일: 2025-12-29 06:33 (월) </div>
+<div class="gl-updated">발행일: 2026-01-05 06:27 (월) </div>
 <div class="etc-list">
 <a class="item" href="https://www.aitimes.com/member/login.html" target="_top">로그인</a>
 <div class="selec-box">
@@ -529,7 +529,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-26 12:52</div>
+<div class="altlist-info-item">2025-12-26 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -542,7 +542,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">김해원 기자</div>
-<div class="altlist-info-item">12-25 16:21</div>
+<div class="altlist-info-item">2025-12-25 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -555,7 +555,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-24 16:40</div>
+<div class="altlist-info-item">2025-12-24 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -568,7 +568,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-22 15:15</div>
+<div class="altlist-info-item">2025-12-22 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -581,7 +581,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-22 13:51</div>
+<div class="altlist-info-item">2025-12-22 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -594,7 +594,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">김해원 기자</div>
-<div class="altlist-info-item">12-19 15:55</div>
+<div class="altlist-info-item">2025-12-19 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -607,7 +607,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-15 16:55</div>
+<div class="altlist-info-item">2025-12-15 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -620,7 +620,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-11 18:00</div>
+<div class="altlist-info-item">2025-12-11 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -633,7 +633,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-09 14:45</div>
+<div class="altlist-info-item">2025-12-09 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -646,7 +646,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">김해원 기자</div>
-<div class="altlist-info-item">12-09 14:15</div>
+<div class="altlist-info-item">2025-12-09 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -659,7 +659,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-05 17:30</div>
+<div class="altlist-info-item">2025-12-05 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -672,7 +672,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">김해원 기자</div>
-<div class="altlist-info-item">12-05 15:40</div>
+<div class="altlist-info-item">2025-12-05 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -685,7 +685,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-04 17:40</div>
+<div class="altlist-info-item">2025-12-04 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -698,7 +698,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-04 16:50</div>
+<div class="altlist-info-item">2025-12-04 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -711,7 +711,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-04 14:16</div>
+<div class="altlist-info-item">2025-12-04 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -724,7 +724,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">김해원 기자</div>
-<div class="altlist-info-item">12-04 13:40</div>
+<div class="altlist-info-item">2025-12-04 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -737,7 +737,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-03 17:10</div>
+<div class="altlist-info-item">2025-12-03 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -750,7 +750,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-03 16:30</div>
+<div class="altlist-info-item">2025-12-03 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -763,7 +763,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">12-03 14:08</div>
+<div class="altlist-info-item">2025-12-03 </div>
 </div>
 </li>
 <li class="altlist-text-item">
@@ -776,7 +776,7 @@ $(function() {
 </div>
 <div class="altlist-info">
 <div class="altlist-info-item">장세민 기자</div>
-<div class="altlist-info-item">11-28 15:30</div>
+<div class="altlist-info-item">2025-11-28 </div>
 </div>
 </li>
 </ul>
@@ -821,74 +821,74 @@ params['list_page_limit'] = "200";
 <header class="header"><strong>Most<br/>Popular</strong></header>
 <section class="content"><style>#skin-18 { --gutter-y: 0.875rem; --nd-atx-title-font-size: 14px; --nd-atx-title-line-height: 22px; --item-border: 1px solid var(--global-border-color, #e8e8e9); } #skin-18 > .item { display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start; gap: 0.75rem; } #skin-18 > .item::after { content: normal; } #skin-18 > .item .number { flex: 0 0 auto; width: 24px; height: 24px; max-width: 100%; font-size: .875rem; font-weight: 500; line-height: 24px; text-align: center; color: #fff; background-color: #fff; } #skin-18 > .item > *:not(.number) { flex: 1 1 0; min-width: 0; max-width: 100%; } #skin-18 > .item:nth-child(-n+3) { /*min-height: var(--item-min-height, 3.9375rem);*/ } #skin-18 > .item + .item { margin-top: var(--gutter-y); }</style><div class="auto-article" id="skin-18"><div class="item">
 <div class="number user-bg">1</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205054" target="_top"><div class="auto-titles line-x2 onload">구글, 2026년 한정 할인 실시...'AI 프로' 요금제 50% 인하</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205212" target="_top"><div class="auto-titles line-x2 onload">'제미나이 3', IQ 130으로 최고 점수 기록..."AI IQ, 2년 새 30이나 늘어"</div></a>
 </div>
 <div class="item">
 <div class="number user-bg">2</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205052" target="_top"><div class="auto-titles line-x2 onload">구글, AI 응답을 UI로 만들어주는 오픈 소스 프로토콜 'A2UI' 출시</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205216" target="_top"><div class="auto-titles line-x2 onload">2025년 국내 AI 모델 30개 이상 출시...'국가대표' 프로젝트의 결과</div></a>
 </div>
 <div class="item">
 <div class="number user-bg">3</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205090" target="_top"><div class="auto-titles line-x2 onload">카르파시 "2025년은 LLM이 '유령'이라는 것을 확인한 해"</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205183" target="_top"><div class="auto-titles line-x2 onload">고속·저비용 이미지 생성 모델 등장..."오픈 모델 중 최고 경쟁력"</div></a>
 </div>
 <div class="item">
 <div class="number user-point">4</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205037" target="_top"><div class="auto-titles line-x2 onload">르쿤 "지도·강화 학습으로 AGI 도달 불가능...'자기 지도 학습'이 대안"</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205204" target="_top"><div class="auto-titles line-x2 onload">[12월31일] '바이브 코딩' 카르파시..."나조차 AI 발전 속도 따라잡기 어려워"</div></a>
 </div>
 <div class="item">
 <div class="number user-point">5</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205073" target="_top"><div class="auto-titles line-x2 onload">[12월24일] 우주 데이터센터가 현실적으로 어려운 이유</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205219" target="_top"><div class="auto-titles line-x2 onload">2026년 AI 주요 이슈를 챗GPT·제미나이에 물어 봤더니</div></a>
 </div>
 <div class="item">
 <div class="number user-point">6</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205083" target="_top"><div class="auto-titles line-x2 onload">세일즈포스, 에이전트 정확도 높이기 위해 LLM 의존도 축소</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205222" target="_top"><div class="auto-titles line-x2 onload">‘와!’ 감탄과 실망을 넘나드는 중국 휴머노이드 영상</div></a>
 </div>
 <div class="item">
 <div class="number user-point">7</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205056" target="_top"><div class="auto-titles line-x2 onload">LG AI대학원, 국내 첫 사내 대학원 ‘박사 과정 인가’ 완료</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205249" target="_top"><div class="auto-titles line-x2 onload">[AI웹툰] 사랑하면그사람이된다 : 7화</div></a>
 </div>
 <div class="item">
 <div class="number user-point">8</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205123" target="_top"><div class="auto-titles line-x2 onload">[AI웹툰] 사랑하면그사람이된다 : 6화</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205273" target="_top"><div class="auto-titles line-x2 onload">르쿤 "메타는 LLM에만 집중...퇴사는 정치적 이유 때문"</div></a>
 </div>
 <div class="item">
 <div class="number user-point">9</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205118" target="_top"><div class="auto-titles line-x2 onload">구글, '젬마 3' 내부 동작 파악할 수 있는 도구 오픈 소스 출시</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205185" target="_top"><div class="auto-titles line-x2 onload">국가대표 AI 모델, 대중에 첫선...”부스에서 준비한 문제 테스트도”</div></a>
 </div>
 <div class="item">
 <div class="number user-point">10</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205026" target="_top"><div class="auto-titles line-x2 onload">[12월23일] '에이전트의 해'로 꼽혔던 2025년...하지만 현실은</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205170" target="_top"><div class="auto-titles line-x2 onload">기분 좋죠? AI 대부의 경고…아첨 떠는 챗봇은 ‘거짓말’</div></a>
 </div>
 </div></section>
 </article><div class="box-margins" style="margin-bottom:30px;"></div><!--우측단--><script src="https://cdn.aitimes.com/bannerpop/uploads/js_activity/58.js?1766456838"></script><!--//우측단--><div class="marbtm-20"></div><article class="box-skin idx--box">
 <header class="header"></header>
 <section class="content"><style>#skin-20 { --nd-atx-section-margin: 0 0 0.375rem; --nd-atx-section-color: var(--nd-primary, #fff); --nd-atx-title-color: #fff; --frame-width: 4rem; --gutter-y: 1.25rem; --item-border: 1px solid rgba(255,255,255,.25); } #skin-20 > .item { display: flex; flex-direction: row; align-items: center; gap: 1.25rem; } #skin-20 > .item::after { content: normal; } #skin-20 > .item .frame { flex: 0 0 auto; width: var(--frame-width); max-width: 100%; } #skin-20 > .item .auto-content { flex: 1 1 0; min-width: 0; max-width: 100%; } #skin-20 > .item + .item { margin-top: var(--gutter-y); padding-top: var(--gutter-y); border-top: var(--item-border); } #skin-20 .frame { align-self: flex-end; }</style><div class="auto-article" id="skin-20"><div class="item">
 <div class="auto-content">
-<div class="auto-section line-x1 fw-medium">AI WEBTOON</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205123" target="_top"><div class="auto-titles size-15 line-x3 onload">[AI웹툰] 사랑하면그사람이된다 : 6화</div></a>
+<div class="auto-section line-x1 fw-medium">뉴스 브리핑</div>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205245" target="_top"><div class="auto-titles size-15 line-x3 onload">[1월2일] 2026년은 '실행하는 AI'의 해...이에 따른 4가지 주요 연구 트렌드는 </div></a>
 </div>
-<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205123" target="_top"><div class="auto-images thumb"><img alt="[AI웹툰] 사랑하면그사람이된다 : 6화" height="90" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20251229/205123_206619_3346_1766752426_120.jpg" width="120"/></div></a>
+<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205245" target="_top"><div class="auto-images thumb"><img alt="[1월2일] 2026년은 '실행하는 AI'의 해...이에 따른 4가지 주요 연구 트렌드는 " height="76" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20260105/205245_206826_2343_1767327824_120.jpg" width="120"/></div></a>
+</div>
+<div class="item">
+<div class="auto-content">
+<div class="auto-section line-x1 fw-medium">AI WEBTOON</div>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205249" target="_top"><div class="auto-titles size-15 line-x3 onload">[AI웹툰] 사랑하면그사람이된다 : 7화</div></a>
+</div>
+<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205249" target="_top"><div class="auto-images thumb"><img alt="[AI웹툰] 사랑하면그사람이된다 : 7화" height="90" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20260105/205249_206836_3821_1767332302_120.jpg" width="120"/></div></a>
 </div>
 <div class="item">
 <div class="auto-content">
 <div class="auto-section line-x1 fw-medium">포커스</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205119" target="_top"><div class="auto-titles size-15 line-x3 onload">﻿[AI 이슈트렌드] 신민아·김우빈 결혼부터 전현무 링거 논란까지...연말 연예계 희비 교차</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205265" target="_top"><div class="auto-titles size-15 line-x3 onload">﻿[AI 이슈트렌드] 손흥민 '축구계 8대 기적' 선정...정치권은 '공천헌금' 파문</div></a>
 </div>
-<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205119" target="_top"><div class="auto-images thumb"><img alt="﻿[AI 이슈트렌드] 신민아·김우빈 결혼부터 전현무 링거 논란까지...연말 연예계 희비 교차" height="98" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20251229/205119_206613_3117_1766737889_120.jpg" width="120"/></div></a>
+<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205265" target="_top"><div class="auto-images thumb"><img alt="﻿[AI 이슈트렌드] 손흥민 '축구계 8대 기적' 선정...정치권은 '공천헌금' 파문" height="68" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20260105/205265_206875_248_1767396249_120.jpg" width="120"/></div></a>
 </div>
 <div class="item">
 <div class="auto-content">
 <div class="auto-section line-x1 fw-medium">기고</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205124" target="_top"><div class="auto-titles size-15 line-x3 onload">[AI의 역사] 98 인류를 위한 공개되고 안전한 AI라는 약속 – 오픈AI의 변화와 쿠테타 과정</div></a>
+<a href="https://www.aitimes.com/news/articleView.html?idxno=205271" target="_top"><div class="auto-titles size-15 line-x3 onload">[AI의 역사] 99 AI, 게임의 법칙이 바뀌었다 – 딥시크의 등장과 AI 패러다임의 전환</div></a>
 </div>
-<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205124" target="_top"><div class="auto-images thumb"><img alt="[AI의 역사] 98 인류를 위한 공개되고 안전한 AI라는 약속 – 오픈AI의 변화와 쿠테타 과정" height="90" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20251229/205124_206627_4332_1766785413_120.jpg" width="120"/></div></a>
-</div>
-<div class="item">
-<div class="auto-content">
-<div class="auto-section line-x1 fw-medium">뉴스 브리핑</div>
-<a href="https://www.aitimes.com/news/articleView.html?idxno=205099" target="_top"><div class="auto-titles size-15 line-x3 onload">[12월26일] 전자 상거래 1위 아마존이 AI 에이전트로 인해 고민하는 이유는</div></a>
-</div>
-<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205099" target="_top"><div class="auto-images thumb"><img alt="[12월26일] 전자 상거래 1위 아마존이 AI 에이전트로 인해 고민하는 이유는" height="75" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20251229/205099_206586_759_1766718480_120.jpg" width="120"/></div></a>
+<a class="frame ratio-11 radius line" href="https://www.aitimes.com/news/articleView.html?idxno=205271" target="_top"><div class="auto-images thumb"><img alt="[AI의 역사] 99 AI, 게임의 법칙이 바뀌었다 – 딥시크의 등장과 AI 패러다임의 전환" height="68" loading="lazy" src="https://cdn.aitimes.com/news/thumbnail/custom/20260105/205271_206879_3557_1767407759_120.jpg" width="120"/></div></a>
 </div>
 </div></section>
 </article><div class="box-margins" style="margin-bottom:40px;"></div>

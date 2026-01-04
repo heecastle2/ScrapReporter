@@ -3,7 +3,7 @@
 
 <html lang="ko">
 <head>
-<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="d6fd0795-1423-42e3-a594-99aa2891b95e" name="_csrf"/>
+<meta content="_csrf" name="_csrf_parameter"/><meta content="X-CSRF-TOKEN" name="_csrf_header"/><meta content="0aaf4650-5551-4781-9d10-ea36c0e69ef2" name="_csrf"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
@@ -39,8 +39,8 @@
 <script src="/lib/js/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
 <script>
 		var site_id = 1;
-		var getIp = '20.130.0.60'
-		var getId = '2AE5D10AAE7C69FDE64660E34D0D1E52'
+		var getIp = '20.130.1.171'
+		var getId = '4CB7A8852F74472DD1631FAACDCDDFD4'
 	</script>
 </head>
 <body>

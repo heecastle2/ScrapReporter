@@ -1435,7 +1435,7 @@ function doOrderby(cbIdx,orderbyDiv){
 <div class="board_type01">
 <ul>
 <li class="nia_noti">
-<a href="#view" onclick="doBbsFView('99835','28898','16010100','28898');return false;" title="2025년 NIA 종합청렴도 평가 결과 공개(새 글)-첨부파일 없음">
+<a href="#view" onclick="doBbsFView('99835','28898','16010100','28898');return false;" title="2025년 NIA 종합청렴도 평가 결과 공개-첨부파일 없음">
 <span class="subject searchItem">
                     
                         
@@ -1500,11 +1500,10 @@ function doOrderby(cbIdx,orderbyDiv){
                     
                     
                     
-                        <em class="list_new">new</em>
-</span>
+                    </span>
 <span class="src">
 <em>2025.12.24</em>
-<em>조회수 119</em>
+<em>조회수 356</em>
 </span>
 <span class="writer">
 <em>류주엽</em>
@@ -1581,7 +1580,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 974</em>
+<em>조회수 1086</em>
 </span>
 <span class="writer">
 <em>엄용석</em>
@@ -1656,7 +1655,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.11.24</em>
-<em>조회수 3034</em>
+<em>조회수 3269</em>
 </span>
 <span class="writer">
 <em>박은명</em>
@@ -1731,7 +1730,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.09.17</em>
-<em>조회수 16190</em>
+<em>조회수 16609</em>
 </span>
 <span class="writer">
 <em>김은선</em>
@@ -1807,7 +1806,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.12.26</em>
-<em>조회수 55</em>
+<em>조회수 245</em>
 </span>
 <span class="writer">
 <em>이혜림</em>
@@ -1882,7 +1881,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.12.16</em>
-<em>조회수 588</em>
+<em>조회수 737</em>
 </span>
 <span class="writer">
 <em>박종범</em>
@@ -1957,7 +1956,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.12.16</em>
-<em>조회수 713</em>
+<em>조회수 903</em>
 </span>
 <span class="writer">
 <em>권선희</em>
@@ -2034,7 +2033,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2025.12.15</em>
-<em>조회수 324</em>
+<em>조회수 382</em>
 </span>
 <span class="writer">
 <em>오대훈</em>
@@ -2111,7 +2110,7 @@ function doOrderby(cbIdx,orderbyDiv){
                     </span>
 <span class="src">
 <em>2025.12.15</em>
-<em>조회수 486</em>
+<em>조회수 571</em>
 </span>
 <span class="writer">
 <em>김보라</em>
@@ -2186,7 +2185,7 @@ function doOrderby(cbIdx,orderbyDiv){
 </span>
 <span class="src">
 <em>2025.12.11</em>
-<em>조회수 1346</em>
+<em>조회수 1468</em>
 </span>
 <span class="writer">
 <em>성연지</em>

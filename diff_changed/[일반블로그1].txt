@@ -17,7 +17,7 @@ window.TistoryBlog = {
     url: "https://gent.tistory.com",
     tistoryUrl: "https://gent.tistory.com",
     manageUrl: "https://gent.tistory.com/manage",
-    token: "jZD6pxInyMwUOqfD7IJGCoC5rTlsMnbI11Ot7ObTSnehaOFtcAbUy9kXqDrzg69d"
+    token: "5gKvUhbNuCxnaOU/FiRUASLHQNpn+U6fuuf1lDfKfmTys3bjlaoFxqKvjlg2Eb9N"
 };
 var servicePath = "";
 var blogURL = "";</script>
@@ -177,8 +177,8 @@ gtag('config','UA-57752461-1', {
 <style>
 			body { font-size: 15px; }
 			.jb-article { font-size: 16px; }
-			.jb-header-type-04 .jb-header-table { background-image: url( "https://blog.kakaocdn.net/dna/bxPeeI/btqC6kUKonq/AAAAAAAAAAAAAAAAAAAAADUAz4p-3MYHeSEW1IOyrx4KU9_Q6AlC44tNtvHZ-4Tt/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=p%2BcnzqfawvJ59%2Bcs65s1trKkQYc%3D" ); }
-			.jb-header-type-11 .jb-background-header { background-image: url( "https://blog.kakaocdn.net/dna/P3zN1/btqDbFjKaaS/AAAAAAAAAAAAAAAAAAAAAH7fHZGqTm2tBJU8zxfqFn0gcV8nuxSvbwNYwjkgEfNK/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=r7gbinDdY%2FjfU9Z8RhQkFpaN2gY%3D" ); }
+			.jb-header-type-04 .jb-header-table { background-image: url( "https://blog.kakaocdn.net/dna/bxPeeI/btqC6kUKonq/AAAAAAAAAAAAAAAAAAAAADUAz4p-3MYHeSEW1IOyrx4KU9_Q6AlC44tNtvHZ-4Tt/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1769871599&allow_ip=&allow_referer=&signature=B7ud71FoFOyKpuOCr2VTy7yOXiQ%3D" ); }
+			.jb-header-type-11 .jb-background-header { background-image: url( "https://blog.kakaocdn.net/dna/P3zN1/btqDbFjKaaS/AAAAAAAAAAAAAAAAAAAAAH7fHZGqTm2tBJU8zxfqFn0gcV8nuxSvbwNYwjkgEfNK/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1769871599&allow_ip=&allow_referer=&signature=v4gngd%2FXUeZto5u6Kk9fzORxAWA%3D" ); }
 			
 		</style>
 <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-5b45096133ae0a24cb473dfb3b011710e93dea0d/static/style/revenue.css" rel="stylesheet" type="text/css">
@@ -285,20 +285,20 @@ gtag('config','UA-57752461-1', {
 <nav>
 <h2 class="jb-section-title jb-section-title-navigation">Main Menu</h2>
 <div class="jb-navigation jb-navigation-category">
-<ul class="tt_category"><li class=""><a class="link_tit" href="/category"> 분류 전체보기 <span class="c_cnt">(693)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<ul class="tt_category"><li class=""><a class="link_tit" href="/category"> 분류 전체보기 <span class="c_cnt">(694)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
 <ul class="category_list"><li class=""><a class="link_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D"> 프로그래밍 <span class="c_cnt">(50)</span> </a>
 <ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8"> 자바스크립트 <span class="c_cnt">(23)</span> </a></li>
 <li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%94%A8%EC%83%B5%28C%23%29"> 씨샵(C#) <span class="c_cnt">(17)</span> </a></li>
 <li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8"> 아두이노 <span class="c_cnt">(10)</span> </a></li>
 </ul>
 </li>
-<li class=""><a class="link_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4"> 데이터베이스 <span class="c_cnt">(345)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<li class=""><a class="link_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4"> 데이터베이스 <span class="c_cnt">(345)</span> </a>
 <ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%98%A4%EB%9D%BC%ED%81%B4"> 오라클 <span class="c_cnt">(262)</span> </a></li>
-<li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MSSQL"> MSSQL <span class="c_cnt">(83)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a></li>
+<li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MSSQL"> MSSQL <span class="c_cnt">(83)</span> </a></li>
 </ul>
 </li>
-<li class=""><a class="link_item" href="/category/IT%EC%A0%95%EB%B3%B4"> IT정보 <span class="c_cnt">(100)</span> </a>
-<ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98"> IT세미나 <span class="c_cnt">(88)</span> </a></li>
+<li class=""><a class="link_item" href="/category/IT%EC%A0%95%EB%B3%B4"> IT정보 <span class="c_cnt">(101)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98"> IT세미나 <span class="c_cnt">(89)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a></li>
 <li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%B9%BC%EB%9F%BC"> IT칼럼 <span class="c_cnt">(12)</span> </a></li>
 </ul>
 </li>
@@ -386,7 +386,16 @@ gtag('config','UA-57752461-1', {
 									</script>
 <section>
 <div class="jb-content jb-content-article">
-<div class="jb-article">
+<div class="jb-article"><script async="" crossorigin="anonymous" onerror="changeAdsenseToNaverAd()" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841"></script>
+<!-- inventory -->
+<ins class="adsbygoogle" data-ad-adfit-unit="DAN-nRFiQiN4avFYIKbk" data-ad-client="ca-pub-9527582522912841" data-ad-format="auto" data-ad-slot="3825649038" data-ad-type="inventory" data-full-width-responsive="true" style="margin:50px 0; display:block;"></ins>
+<script id="adsense_script">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script>
+    if(window.observeAdsenseUnfilledState !== undefined){ observeAdsenseUnfilledState(); }
+</script>
+<div data-tistory-react-app="NaverAd"></div>
 <!-- System - START -->
 <!-- System - END -->
 <div class="tt_article_useless_p_margin contents_style"><h3 data-ke-size="size23"><b>2022년 2월 IT 세미나/컨퍼런스 일정</b></h3>
@@ -585,8 +594,8 @@ gtag('config','UA-57752461-1', {
 </tr>
 </tbody>
 </table>
-<figure contenteditable="false" data-ke-align="alignCenter" data-ke-type="opengraph" data-og-description="IT를 소재로 한 추천 영화 10편 IT 기술이나 인물을 소재로한 영화가 생각보다 많지 않은것 같다. 지금까지 봤던 IT 영화 중 괜찮은 영화를 소개한다. 스티브 잡스 (2015) (영화정보) 매킨토시 프리젠" data-og-host="gent.tistory.com" data-og-image="https://blog.kakaocdn.net/dna/Uy9UX/hyNhOwftHg/AAAAAAAAAAAAAAAAAAAAAFM6Ij2ohQCTJ055EtmuJwk_ZH02uDzYKUJB5VO3PEHO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1767193199&amp;allow_ip=&amp;allow_referer=&amp;signature=9yK0MQ7LU4%2Bf6MWUzOYObtQmxmE%3D" data-og-source-url="https://gent.tistory.com/99" data-og-title="[영화] IT 추천 영화 10편 (컴퓨터 천재, 해커, 프로그래머)" data-og-type="article" data-og-url="https://gent.tistory.com/99" id="og_1643708623637"><a data-source-url="https://gent.tistory.com/99" href="https://gent.tistory.com/99" rel="noopener" target="_blank">
-<div class="og-image" style="background-image: url('https://blog.kakaocdn.net/dna/Uy9UX/hyNhOwftHg/AAAAAAAAAAAAAAAAAAAAAFM6Ij2ohQCTJ055EtmuJwk_ZH02uDzYKUJB5VO3PEHO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1767193199&amp;allow_ip=&amp;allow_referer=&amp;signature=9yK0MQ7LU4%2Bf6MWUzOYObtQmxmE%3D');"> </div>
+<figure contenteditable="false" data-ke-align="alignCenter" data-ke-type="opengraph" data-og-description="IT를 소재로 한 추천 영화 10편 IT 기술이나 인물을 소재로한 영화가 생각보다 많지 않은것 같다. 지금까지 봤던 IT 영화 중 괜찮은 영화를 소개한다. 스티브 잡스 (2015) (영화정보) 매킨토시 프리젠" data-og-host="gent.tistory.com" data-og-image="https://blog.kakaocdn.net/dna/Uy9UX/hyNhOwftHg/AAAAAAAAAAAAAAAAAAAAAFM6Ij2ohQCTJ055EtmuJwk_ZH02uDzYKUJB5VO3PEHO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1769871599&amp;allow_ip=&amp;allow_referer=&amp;signature=DgjBF2iVKmohGtVNvOUl8x%2BHiIs%3D" data-og-source-url="https://gent.tistory.com/99" data-og-title="[영화] IT 추천 영화 10편 (컴퓨터 천재, 해커, 프로그래머)" data-og-type="article" data-og-url="https://gent.tistory.com/99" id="og_1643708623637"><a data-source-url="https://gent.tistory.com/99" href="https://gent.tistory.com/99" rel="noopener" target="_blank">
+<div class="og-image" style="background-image: url('https://blog.kakaocdn.net/dna/Uy9UX/hyNhOwftHg/AAAAAAAAAAAAAAAAAAAAAFM6Ij2ohQCTJ055EtmuJwk_ZH02uDzYKUJB5VO3PEHO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1769871599&amp;allow_ip=&amp;allow_referer=&amp;signature=DgjBF2iVKmohGtVNvOUl8x%2BHiIs%3D');"> </div>
 <div class="og-text">
 <p class="og-title" data-ke-size="size16">[영화] IT 추천 영화 10편 (컴퓨터 천재, 해커, 프로그래머)</p>
 <p class="og-desc" data-ke-size="size16">IT를 소재로 한 추천 영화 10편 IT 기술이나 인물을 소재로한 영화가 생각보다 많지 않은것 같다. 지금까지 봤던 IT 영화 중 괜찮은 영화를 소개한다. 스티브 잡스 (2015) (영화정보) 매킨토시 프리젠</p>
@@ -595,16 +604,6 @@ gtag('config','UA-57752461-1', {
 </a></figure></div>
 <!-- System - START -->
 <!-- System - END -->
-<script async="" crossorigin="anonymous" onerror="changeAdsenseToNaverAd()" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841"></script>
-<!-- inventory -->
-<ins class="adsbygoogle" data-ad-adfit-unit="DAN-HCZEy0KQLPMGnGuC" data-ad-client="ca-pub-9527582522912841" data-ad-format="auto" data-ad-slot="4947159016" data-ad-type="inventory" data-full-width-responsive="true" style="margin:50px 0; display:block;"></ins>
-<script id="adsense_script">
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script>
-    if(window.observeAdsenseUnfilledState !== undefined){ observeAdsenseUnfilledState(); }
-</script>
-<div data-tistory-react-app="NaverAd"></div>
 <div class="container_postbtn #post_button_group">
 <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
 window.ReactionApiUrl = '//gent.tistory.com/reaction';
@@ -872,20 +871,20 @@ findFragmentAndHighlight(474);</script>
 <h3>카테고리</h3>
 </div>
 <div class="jb-module-content jb-module-content-category">
-<ul class="tt_category"><li class=""><a class="link_tit" href="/category"> 분류 전체보기 <span class="c_cnt">(693)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<ul class="tt_category"><li class=""><a class="link_tit" href="/category"> 분류 전체보기 <span class="c_cnt">(694)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
 <ul class="category_list"><li class=""><a class="link_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D"> 프로그래밍 <span class="c_cnt">(50)</span> </a>
 <ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8"> 자바스크립트 <span class="c_cnt">(23)</span> </a></li>
 <li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%94%A8%EC%83%B5%28C%23%29"> 씨샵(C#) <span class="c_cnt">(17)</span> </a></li>
 <li class=""><a class="link_sub_item" href="/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8"> 아두이노 <span class="c_cnt">(10)</span> </a></li>
 </ul>
 </li>
-<li class=""><a class="link_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4"> 데이터베이스 <span class="c_cnt">(345)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<li class=""><a class="link_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4"> 데이터베이스 <span class="c_cnt">(345)</span> </a>
 <ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%98%A4%EB%9D%BC%ED%81%B4"> 오라클 <span class="c_cnt">(262)</span> </a></li>
-<li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MSSQL"> MSSQL <span class="c_cnt">(83)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a></li>
+<li class=""><a class="link_sub_item" href="/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MSSQL"> MSSQL <span class="c_cnt">(83)</span> </a></li>
 </ul>
 </li>
-<li class=""><a class="link_item" href="/category/IT%EC%A0%95%EB%B3%B4"> IT정보 <span class="c_cnt">(100)</span> </a>
-<ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98"> IT세미나 <span class="c_cnt">(88)</span> </a></li>
+<li class=""><a class="link_item" href="/category/IT%EC%A0%95%EB%B3%B4"> IT정보 <span class="c_cnt">(101)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a>
+<ul class="sub_category_list"><li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98"> IT세미나 <span class="c_cnt">(89)</span> <img alt="N" src="https://tistory1.daumcdn.net/tistory_admin/blogs/image/category/new_ico_5.gif" style="vertical-align:middle;padding-left:2px;"/></a></li>
 <li class=""><a class="link_sub_item" href="/category/IT%EC%A0%95%EB%B3%B4/IT%EC%B9%BC%EB%9F%BC"> IT칼럼 <span class="c_cnt">(12)</span> </a></li>
 </ul>
 </li>
@@ -924,12 +923,12 @@ findFragmentAndHighlight(474);</script>
 </div>
 <div class="jb-module-content jb-module-content-recent-posts jb-module-content-list">
 <ul>
-<li><a href="/710"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FZtCSc%2FdJMcaaw9BGV%2FAAAAAAAAAAAAAAAAAAAAADJwA3qq7mN3yypuREGEPSMQCPDm7N-OU0YJyYiZBA4E%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DpzgD4eMtnBCNBET0idGTpD7zkZ0%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[MSSQL] JOIN UPDATE 완벽 정리 (조인 UPDATE)</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries710"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
-<li><a href="/709"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmOixo%2FdJMcafd93SZ%2FAAAAAAAAAAAAAAAAAAAAADQQCuMZKwYOHYFRsONHRCHOrI1DNVr-9r2lIXCTHcoS%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D4CPAqX%252FeuAsjycbFqVKADBD3RF0%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[MSSQL] INSERT INTO SELECT 사용법 (SELECT I⋯</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries709"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
-<li><a href="/708"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fw35Nd%2FdJMcag5atGr%2FAAAAAAAAAAAAAAAAAAAAACwNj8JGH4e1nCcMrGjGGXYaDnH_rgHJZisnJuAOJaqP%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DVwkyOkZ3Q0vAS6%252B%252Fs07Iuokh5T8%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[2025년 12월] IT 세미나 컨퍼런스 일정</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries708"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
-<li><a href="/707"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FegPWOi%2FdJMcahbIGCa%2FAAAAAAAAAAAAAAAAAAAAADLSkTxZ45EIqv0l5zwkQh048AvjRVjzmFw0G6uRuik2%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252Fs9xGbRDl8Y3n2TUS2JP3Bv3cUY%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[2025년 11월] IT 세미나 컨퍼런스 일정</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries707"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
-<li><a href="/706"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FSeY8s%2FbtsQ2Wl7oNy%2FAAAAAAAAAAAAAAAAAAAAALtJWVjD9MURntsGDjBLIZLO5bJUTm6b8NDIAtxkYMFO%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D7fv6Dhe0pUG0KvwaEKkWQe%252BMNLY%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[Oracle] 오라클 자동 증가 컬럼 만드는 방법 (IDENTITY)</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries706"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
-<li><a href="/705"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcTtTRy%2FbtsQ2s58YHE%2FAAAAAAAAAAAAAAAAAAAAANP0GJTd0OAt6WNKO5MdQ5Srz_iEOlTikCQxADnHUMoC%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D0r6LzeucbhEhL0F5v3BSQHoZtjs%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[Oracle] 오라클 테이블 가상컬럼 추가 방법 (Virtual Col⋯</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries705"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/712"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fn8XCp%2FdJMcabbNCJK%2FAAAAAAAAAAAAAAAAAAAAAMFxHijf2zHEjfsL21Ki8Y9GEtH2H7lGD3RLFJ2RsbQG%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3D%252BwKTgYDjvLu%252FlNHPRKYwQJN9ZUc%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[2026년 1월] IT 세미나 컨퍼런스 일정</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries712"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/710"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FZtCSc%2FdJMcaaw9BGV%2FAAAAAAAAAAAAAAAAAAAAADJwA3qq7mN3yypuREGEPSMQCPDm7N-OU0YJyYiZBA4E%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3D7KhoH1iTZ%252FNsCBwCzeK3kLnCWBA%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[MSSQL] JOIN UPDATE 완벽 정리 (조인 UPDATE)</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries710"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/709"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmOixo%2FdJMcafd93SZ%2FAAAAAAAAAAAAAAAAAAAAADQQCuMZKwYOHYFRsONHRCHOrI1DNVr-9r2lIXCTHcoS%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3DwejmRu%252Bsbqi5SYbuO3JE3R3zk6k%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[MSSQL] INSERT INTO SELECT 사용법 (SELECT I⋯</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries709"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/708"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fw35Nd%2FdJMcag5atGr%2FAAAAAAAAAAAAAAAAAAAAACwNj8JGH4e1nCcMrGjGGXYaDnH_rgHJZisnJuAOJaqP%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3DyhFkDiUO4ZDKlZTl5nDSw6hDjAU%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[2025년 12월] IT 세미나 컨퍼런스 일정</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries708"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/707"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FegPWOi%2FdJMcahbIGCa%2FAAAAAAAAAAAAAAAAAAAAADLSkTxZ45EIqv0l5zwkQh048AvjRVjzmFw0G6uRuik2%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3Dt0e7dcHMX7TZ49w4rOZQI46q9Xs%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[2025년 11월] IT 세미나 컨퍼런스 일정</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries707"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
+<li><a href="/706"><span class="jb-module-list-table"><span class="jb-module-list-table-row"><span class="jb-module-list-table-cell jb-module-list-table-cell-1"><img alt="" src="//i1.daumcdn.net/thumb/C150x150/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FSeY8s%2FbtsQ2Wl7oNy%2FAAAAAAAAAAAAAAAAAAAAALtJWVjD9MURntsGDjBLIZLO5bJUTm6b8NDIAtxkYMFO%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3DxHZS3tLd4AJRLk1P5yy4w2Df7nA%253D"/></span><span class="jb-module-list-table-cell jb-module-list-table-cell-2"><span class="jb-recent-posts-title">[Oracle] 오라클 자동 증가 컬럼 만드는 방법 (IDENTITY)</span><span class="jb-recent-posts-reply-count"><span id="commentCountOnRecentEntries706"></span></span><span class="jb-recent-posts-author">젠트</span></span></span></span></a></li>
 </ul>
 </div>
 </div>
@@ -949,6 +948,7 @@ findFragmentAndHighlight(474);</script>
 </div>
 <div class="jb-module-content jb-module-content-recent-replies jb-module-content-list">
 <ul>
+<li><span class="jb-module-list"><a href="/14#comment25852856"><span class="jb-recent-replies-title">와 감사합니다 ..</span><span class="jb-recent-replies-name">김경민</span><span class="jb-recent-replies-time">12.31</span></a></span></li>
 <li><span class="jb-module-list"><a href="/14#comment25744854"><span class="jb-recent-replies-title">정말 감사드립니다.. 절 살렸습니다.. ㅠㅠㅠ 감사합니다... </span><span class="jb-recent-replies-name">오성규</span><span class="jb-recent-replies-time">10.30</span></a></span></li>
 <li><span class="jb-module-list"><a href="/339#comment25728255"><span class="jb-recent-replies-title">감사합니다.</span><span class="jb-recent-replies-name">카가각</span><span class="jb-recent-replies-time">10.22</span></a></span></li>
 <li><span class="jb-module-list"><a href="/438#comment25587463"><span class="jb-recent-replies-title">와 제가 딱 원했던 무음 타이머를 얻게되었습니다!! 정말 감사합니다!!</span><span class="jb-recent-replies-name">MK</span><span class="jb-recent-replies-time">09.11</span></a></span></li>
@@ -956,7 +956,6 @@ findFragmentAndHighlight(474);</script>
 <li><span class="jb-module-list"><a href="/377#comment25273446"><span class="jb-recent-replies-title">감사합니다</span><span class="jb-recent-replies-name">dd</span><span class="jb-recent-replies-time">08.20</span></a></span></li>
 <li><span class="jb-module-list"><a href="/692#comment25028588"><span class="jb-recent-replies-title">잘 보고있어요~</span><span class="jb-recent-replies-name">정보왕창</span><span class="jb-recent-replies-time">08.08</span></a></span></li>
 <li><span class="jb-module-list"><a href="/699#comment24893644"><span class="jb-recent-replies-title">젠트님 공감 꾸~욱 정성스러운 포스팅 잘봤어요!</span><span class="jb-recent-replies-name">essay0408</span><span class="jb-recent-replies-time">08.03</span></a></span></li>
-<li><span class="jb-module-list"><a href="/699#comment24886081"><span class="jb-recent-replies-title">잘 봤어요.</span><span class="jb-recent-replies-name">욜로와요</span><span class="jb-recent-replies-time">08.02</span></a></span></li>
 </ul>
 </div>
 </div>
@@ -976,10 +975,10 @@ findFragmentAndHighlight(474);</script>
 </div>
 <div class="jb-module-content jb-module-content-archives jb-module-content-list">
 <ul>
+<li><span class="jb-module-list"><a href="/archive/202601"><span class="jb-archives-date">2026/01</span><span class="jb-archives-count">(1)</span></a></span></li>
 <li><span class="jb-module-list"><a href="/archive/202512"><span class="jb-archives-date">2025/12</span><span class="jb-archives-count">(3)</span></a></span></li>
 <li><span class="jb-module-list"><a href="/archive/202511"><span class="jb-archives-date">2025/11</span><span class="jb-archives-count">(1)</span></a></span></li>
 <li><span class="jb-module-list"><a href="/archive/202510"><span class="jb-archives-date">2025/10</span><span class="jb-archives-count">(3)</span></a></span></li>
-<li><span class="jb-module-list"><a href="/archive/202509"><span class="jb-archives-date">2025/09</span><span class="jb-archives-count">(4)</span></a></span></li>
 </ul>
 </div>
 </div>

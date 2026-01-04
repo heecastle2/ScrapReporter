@@ -1046,6 +1046,51 @@
 <tbody>
 <tr>
 <th class="col-xs-1 text-center" scope="row">
+<a href="779">779</a>
+</th>
+<td class="col-xs-5">
+<a href="779">[모집중] 시큐리티아카데미 7기 SK쉴더스트랙 교육생 모집(~1월 22일(목)까지)</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="779">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="779">2025년 12월 31일 10:25 오전</a>
+</td>
+</tr>
+</tbody>
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="778">778</a>
+</th>
+<td class="col-xs-5">
+<a href="778">[모집중] 시큐리티아카데미 7기 직무트랙 교육생 모집(~1월 22일(목)까지)</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="778">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="778">2025년 12월 31일 10:11 오전</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
+<a href="777">777</a>
+</th>
+<td class="col-xs-5">
+<a href="777">[모집중]2026년 국가인적자원개발컨소시엄(개인정보보호 교육) 2월 재직자 교육생 모집</a>
+</td>
+<td class="col-xs-3 text-center">
+<a href="777">관리자</a>
+</td>
+<td class="col-xs-3">
+<a href="777">2025년 12월 30일 3:48 오후</a>
+</td>
+</tr>
+
+<tr>
+<th class="col-xs-1 text-center" scope="row">
 <a href="775">775</a>
 </th>
 <td class="col-xs-5">
@@ -1058,7 +1103,7 @@
 <a href="775">2025년 12월 17일 10:53 오전</a>
 </td>
 </tr>
-</tbody>
+
 <tr>
 <th class="col-xs-1 text-center" scope="row">
 <a href="774">774</a>
@@ -1146,51 +1191,6 @@
 </td>
 <td class="col-xs-3">
 <a href="769">2025년 11월 21일 10:14 오전</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="768">768</a>
-</th>
-<td class="col-xs-5">
-<a href="768">[KISIA] 2026년 글로벌 사이버 보안 시장 전망 및 권역별 진출 전략 웨비나 신청(~12. 5.(금))</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="768">관리자</a>
-</td>
-<td class="col-xs-3">
-<a href="768">2025년 11월 18일 1:12 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="767">767</a>
-</th>
-<td class="col-xs-5">
-<a href="767">[KISIA] 2025 정보보호 스타트업 1:1 컨설팅 접수(~11.20.(목))</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="767">산업진흥팀</a>
-</td>
-<td class="col-xs-3">
-<a href="767">2025년 11월 13일 1:02 오후</a>
-</td>
-</tr>
-
-<tr>
-<th class="col-xs-1 text-center" scope="row">
-<a href="766">766</a>
-</th>
-<td class="col-xs-5">
-<a href="766">금융정보보호 컨퍼런스(FISCON) 2025 제품 전시회 개최 안내(11. 20.(목))</a>
-</td>
-<td class="col-xs-3 text-center">
-<a href="766">홍보협력팀</a>
-</td>
-<td class="col-xs-3">
-<a href="766">2025년 11월 11일 10:18 오전</a>
 </td>
 </tr>
 

@@ -131,8 +131,8 @@ function fnAnnoView(key){
 </script>
 </head>
 <body>
-<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIXIPErmYjkoyNikDWJ0mt9HVOfwOrPGuW4wNycUIZ+stJHdA/++hHJZdZOMiGDisK3KYHZyazdQsajK4hlmr4yYpBLZdC3veX13mIOielL5TfBqcNMUc5XafXu/7n4PxzM6EUsrD+wJwLu9Ar3qIPNddBOIWKIPK4dra2JrbS251xB+oy4GjPY9NRyAYMflXBbb8ZfhBiSA+M4l8v/A1uNE/duVZfPMaq3XJTSp1/0UjMuk24Urc0OUjwHflLkAFbPQwdsxB4riSWY7Pov39ofaxZp6YF38R3oIX/8YpULJQJiq3GcXiARvKrDker/6t9w6Kg5NBOZZ+jrwVUtwoiaotODuqiLFvnn84hyiD0SyjuuVSBjrdj6lrYrx1e2MObhx68tzonu3mi1T8TNBk2u7sVUAjdz5bpfkJjD4FVMVSjcDVDG34AjpXajkQx3qZq6hjvXtg4DEmIdAcF/M5qjCJbSvwFqdglu6OFs1Iun3lRXvCOm6EUpaISaWHYMO56E/fKwfAh3GcTMloIb2MDTBviwR+CcKkE2veEEcnTBuY="/>
-<input name="csSignature" type="hidden" value="6GVKegndUAluF2gDyK624g=="/>
+<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIqANsDLWH6CwYX2KeFpz9i3xo2NdakcoCHX4GccydlvvYYtlyXxtoNclJinrF3h2gKCzfSI/sg/wcUCjTJSpii/ZazaOrnIu46DhTD3ETmdGI8FL26UqLswXONZ8swGr+S0GHpWX/xXkRMkt1xq3i7XpT263HGLicU+AM9vtulisov3uFPdAvWQlnS6Vp3QewHPv2dEexuC+rmzYqsEVAPqrw4eFMiDZPybxrG3vxn+kQu7fdgYQkB61S+5Ugh0dYQVJmW2rptyzE53KVB5Xoj7TjGIhyRFPMd4qIDRw7Y3zBu5lI+/4U7pfNhiNVGAYeiqSnWFHJqXhHvfGbRyj+UYEIH4MVbCrBHOfOrgczk1HhCNkElkAxXIA3hk5g/kapjxL+e+lTQh/MgQUqdGVwZjJD+V7R5Iud0QD2GLHglCTfiA6CveFczXwyOqACY+XvkdJsh/sum6JZm1qodqOrYHR6ncLC5/y4dlhkHVRKihoM5VJPLd+a0GEBUZPjgDJbgG4qnPRwMIEhSI1B2B6xjUP0afsR4c43NCFplskiy+4="/>
+<input name="csSignature" type="hidden" value="27XRgJs41TKN8ZaGxQxYmw=="/>
 <input id="returnURL" name="returnURL" type="hidden" value=""/>
 <input id="userId" name="userId" type="hidden" value="">
 <input id="loginType" name="loginType" type="hidden" value=""/>
@@ -222,8 +222,8 @@ function fnAnnoView(key){
 <div class="table_set">
 <h3 class="txt_coop_001">공동연구공고 검색</h3>
 <div class="search">
-<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIXIPErmYjkoyNikDWJ0mt9HVOfwOrPGuW4wNycUIZ+stJHdA/++hHJZdZOMiGDisK85K2D0AwQxMTxQABaXmPqsq3V3l6y+5y1QA1PzZ3seDZtCK8WcXwBpZwDmJ7YXhsz+WlW/z2PiCQ2/l4P7FKZywiGCZWxwGqQNCs+ZF7+wV1UEQ6q2g31UrE4zN2NMbjj26GXBHzczljIpSnRhsu6nn3HUUv34Y043CWnViFYBpdYDBR1fpjwdwcBnwCDy2gSQJ/w2+W0vYXyZVx+gd8YJJLWmTf39WmFPGFNMN1w8pbAodFCdd7726x30tRrf4P/pP2MxKYRPMzNjP4+2FtALvhYqPsA1qyYVk5O9BJzr/pzH/1idW1pDKwT2zcV3VyoDjRE3hDl5nlqqvvlX+xOTHNjbnzN2FLDJwrjTCnFn3RfEX3TOPqVzM6iILiQbPb"/>
-<input name="csSignature" type="hidden" value="6GVKegndUAluF2gDyK624g=="/>
+<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIqANsDLWH6CwYX2KeFpz9i3xo2NdakcoCHX4GccydlvvYYtlyXxtoNclJinrF3h2gM0P0LycPZqUanLa3mJR2+1xai1GFyQu+epnO6Cq1PpFWzj5XtxuQE0dtDBnSij4+gKhb/6/tktUErOm/jKzZSRfNOnNDz8KVNM6bZ3Q8xet8AqWIPASOqmf1iGtny1TFCRT+fE1TCFI22TV7Mfl4VXEoOCbtoC2nco0TM/90E/MxNbhYTDNPTXpJDzXtJ8+ZQ05+4VeuX/URURdf6FnWKFhBrVjHTpseEbFcJ5zhzLPppFli0/WTFjLb1KFbvJOCS1ialhYMSDIwFvrQ8JS2zFgC1dt5xf10afHR+kY4O8OOUSJic6imA/dxqLopzviBnwmJrjolK/GCMd/hnXRzHEaJrZqhleUXSPHb8iZLJhYYgYgUunmj9oyQ+zyEkaO+"/>
+<input name="csSignature" type="hidden" value="27XRgJs41TKN8ZaGxQxYmw=="/>
 <script type="text/javascript">
 $(document).ready(function(){
     $('#searchStartDate').focus(function(){
@@ -529,8 +529,8 @@ $(document).ready(function(){
 <div class="spot_2">
 <ul>
 <li>
-<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIXIPErmYjkoyNikDWJ0mt9HVOfwOrPGuW4wNycUIZ+stJHdA/++hHJZdZOMiGDisKxoTUgkB3L5AkdQIraH3hiA==">
-<input name="csSignature" type="hidden" value="6GVKegndUAluF2gDyK624g==">
+<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIqANsDLWH6CwYX2KeFpz9i3xo2NdakcoCHX4GccydlvvYYtlyXxtoNclJinrF3h2gzQwpIaz9zrrK7s2rAcGY0g==">
+<input name="csSignature" type="hidden" value="27XRgJs41TKN8ZaGxQxYmw==">
 <fieldset>
 <legend>ETRI 직할부서 바로가기</legend>
 <label class="hidden" for="etri_siteurl">ETRI 직할부서 바로가기</label>
@@ -555,8 +555,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIXIPErmYjkoyNikDWJ0mt9HVOfwOrPGuW4wNycUIZ+stJHdA/++hHJZdZOMiGDisKxoTUgkB3L5AkdQIraH3hiA==">
-<input name="csSignature" type="hidden" value="6GVKegndUAluF2gDyK624g==">
+<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIqANsDLWH6CwYX2KeFpz9i3xo2NdakcoCHX4GccydlvvYYtlyXxtoNclJinrF3h2gzQwpIaz9zrrK7s2rAcGY0g==">
+<input name="csSignature" type="hidden" value="27XRgJs41TKN8ZaGxQxYmw==">
 <fieldset>
 <legend>ETRI SERVICE 바로가기</legend>
 <label class="hidden" for="etri_siteur2">ETRI SERVICE 바로가기</label>
@@ -579,8 +579,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIXIPErmYjkoyNikDWJ0mt9HVOfwOrPGuW4wNycUIZ+stJHdA/++hHJZdZOMiGDisKxoTUgkB3L5AkdQIraH3hiA=="/>
-<input name="csSignature" type="hidden" value="6GVKegndUAluF2gDyK624g=="/>
+<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIqANsDLWH6CwYX2KeFpz9i3xo2NdakcoCHX4GccydlvvYYtlyXxtoNclJinrF3h2gzQwpIaz9zrrK7s2rAcGY0g=="/>
+<input name="csSignature" type="hidden" value="27XRgJs41TKN8ZaGxQxYmw=="/>
 <fieldset>
 <legend>ETRI 유관기관 바로가기</legend>
 <label class="hidden" for="etri_siteur3">ETRI 유관기관 바로가기</label>
