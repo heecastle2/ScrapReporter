@@ -131,8 +131,8 @@ function fnAnnoView(key){
 </script>
 </head>
 <body>
-<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIzVGs1/9MzKIoWajpYvR2PiReytZwZ8lwvh105umWcWmQkLjV7y2pXU83UogF5BSt7RKzIy2ou62ooofX7kPPbpq2J80BYwlyCXLALHNJ0s5sbc5Fn3nwx03KESkN4WDzWOwf681Omff+7FtCIGcS1155o5eku8xr1y7lsyFa5zV4yr9mS/frBzEPNbMD77P/p2XZhxssjVVe8WGJrxOiAc0sSU0FIM6G+QPfitHYmeMZNbCbvrZizKYrXhV9R1qGFtYvyhlloDVMOC5n1P/QKMMrZ3fojOVRaT08MiTa5EjFr21lOo11SCcNiWkBWQ/Xm26ild+glPXzrf0qU3PGExX9sByD+DSHLAgedvj8XZnEJZ+G2m2X+06Hb2fe73Vsxc2eayjxOKHZCH5F4Sv68G5wk6/HgS2ZDwIMfa67ZXBiSZ3Wnsx5ETSG9NhTWoF4ErHT3oAnhBGMspkGG6nuxPiHH+NHbur/IM6Yv3ROxC9eoium+7zrnb9pDltZ/QkfmojVPvGyCREG9rilRl/PgFLVml0B8O04bfGIzIMOAVg="/>
-<input name="csSignature" type="hidden" value="tD1x7gUrQemUMq+PCMWksA=="/>
+<form id="loginSSo" method="post" name="loginSSo"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIeQ4Mp+PBDH9hfXAQfIZX+H7qbadT0BLV7jANmXfv7BFMIgpUiGdS2tcaHM4eH4STolRzxcvlGvewRXmhQvT4Vxe5AG25APf28ZFUQAWuoIHbn7VkJeTEpMDwXxVgmdYfYJfht8yTn3O7uKVmZMU+Cz/l7Uy+XSO9LNGv3oSn5r6eV/J74Q5oJEWdeqA/FTnzfeX89N18+Yj1hjTQlHUKveZ9qT574tVx5hRdH3iUJgZOr/XxI/BJuzmxFxUJcysE3TWVLdktIanhdeYQD51SpnX6MV3rUXjeYLCSgEasgItOeS9VAYRZSi/joltq5gjlPwAEixALtSJ9EyCOfxru/0MCxEug6aE08a/WnaBSqbO/SN2uucZyFmc3YeC7P7NrSSiBMTRYAmX1v3HuG8/Accp7xF0Toa1Q0QK/tteaMFHWinLVr1Ky9oxuGnBVRgJuqBD87CwtGrJl6rMOFlLbL/yjE0PspY/mjrp2REvqCANQAWEtqpj0XDzKx2+YQxYi9EVwD3zYa96ClZ7dtJ1+oZgW4+NfIv0MVlyolws8Ivc="/>
+<input name="csSignature" type="hidden" value="46gjxoWXixYlb266CJDvtQ=="/>
 <input id="returnURL" name="returnURL" type="hidden" value=""/>
 <input id="userId" name="userId" type="hidden" value="">
 <input id="loginType" name="loginType" type="hidden" value=""/>
@@ -222,8 +222,8 @@ function fnAnnoView(key){
 <div class="table_set">
 <h3 class="txt_coop_001">공동연구공고 검색</h3>
 <div class="search">
-<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIzVGs1/9MzKIoWajpYvR2PiReytZwZ8lwvh105umWcWmQkLjV7y2pXU83UogF5BStJTupRon6ygo+0Ven0qbYqtGsG6yp7f+IxYP08JgscmILy3qwwzn33mV+t/a5aqGn5cHo2F+xYWgwbBPgHrxJ/09Zwdph1MNFfwc7E1T0E+HoTibG/ehzb2wyVl7G/xQ8YTW/bZIgOvPziYIJgImfeNkLtGY8PXYitQ07+j5UrljZ4QTQiX6re4rN7ZYIrYCuzoV0hPuWarSKTZNUwi5+M/vNa7ekFWfjK4dyV0tPwg+RnzwHfya72zNJkWgEsizmcDtqkIeIY7TU7o54RTIeBO0GcjQrcMTn19Qjh4mVzHSrwERMXlmdioKDS0/RaxSJUynw6r2U5nVMc592l20pIrU+MQtbbyHmf7gSGDFeaIKZpFYEwxbXeZxVJ2zMAg2C"/>
-<input name="csSignature" type="hidden" value="tD1x7gUrQemUMq+PCMWksA=="/>
+<form action="/pcmx/join/anno/annoList.do" method="post" onsubmit="return chk(this);"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIeQ4Mp+PBDH9hfXAQfIZX+H7qbadT0BLV7jANmXfv7BFMIgpUiGdS2tcaHM4eH4STP2zF6JAcW7jjxyxZMLiIJXsauxcYbAe/NyVJO10VVom1TI7tN0jKZFuwomSIwCKUO3geR8W8jTArvMKyuL0bcA0FA+kpQkEjQH4H0QlLztl9u+YjVi8NDY5sgz78JHNEGpIwXcMPlNch6xGq0uDzCqsn3CQy+hyo7bsSBXj41tp6IbutK4SPV8FE4JP/Pe1Q4x4FF0lr60bgqxeys+PDX6SWxe+1pW0sUv3fMo5QNdYDqEmwvCjEoj/olgcyAJCblvFS4sxiFrNRMcQQCWv88OQ7NXefaeMjlCFghymuF4PlaSceMET3Pwscz/wgO4KiEkiEYffAZdG10mNgfsV+HMO1VZ7VgaH1pmAdHBzYa/E7Qdy8jH7Ismxblm3uUFkr"/>
+<input name="csSignature" type="hidden" value="46gjxoWXixYlb266CJDvtQ=="/>
 <script type="text/javascript">
 $(document).ready(function(){
     $('#searchStartDate').focus(function(){
@@ -280,8 +280,8 @@ $(document).ready(function(){
 <div class="table_set">
 <div class="total_page">
 <ul>
-<li><strong>Total</strong> : <span>2928</span></li>
-<li class="ml10"><strong>Page</strong> : <span>1/293</span></li>
+<li><strong>Total</strong> : <span>2937</span></li>
+<li class="ml10"><strong>Page</strong> : <span>1/294</span></li>
 </ul>
 <div class="txt_n">
 <span class="fc_d71010">*</span> 공고명을 클릭하시면 상세 정보를 볼수 있습니다.
@@ -312,18 +312,162 @@ $(document).ready(function(){
                                     
                                         
                                         
-                                    1011-2026-00001
+                                    7211-2026-00001
                                         
                                     
                                     </td>
-<td title="양자압착광 생성 광집적회로 소자 연구">
+<td title="호남권 지역산업 기반 ICT 융합기술 개발 공동연구">
 <div class="text_one_line">
-<a href="javascript:fnAnnoView('1011-2026-00001')">양자압착광 생성 광집적회로 소자 연구</a>
+<a href="javascript:fnAnnoView('7211-2026-00001')">호남권 지역산업 기반 ICT 융합기술 개발 공동연구</a>
 </div>
 </td>
-<td>2026-01-09</td>
-<td>2026-01-13</td>
+<td>2026-01-16</td>
+<td>2026-01-23</td>
 <td>공모접수중</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    1011-2026-00002
+                                        
+                                    
+                                    </td>
+<td title="양자압착광 생성 광집적회로 소자 개발">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('1011-2026-00002')">양자압착광 생성 광집적회로 소자 개발</a>
+</div>
+</td>
+<td>2026-01-15</td>
+<td>2026-01-18</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    2011-2026-00001
+                                        
+                                    
+                                    </td>
+<td title="AI 기반으로 2D 영상의 3D 변환기법 및 제작기술 성능고도화 연구">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('2011-2026-00001')">AI 기반으로 2D 영상의 3D 변환기법 및 제작기술 성능고도화 연구</a>
+</div>
+</td>
+<td>2026-01-13</td>
+<td>2026-01-19</td>
+<td>공모접수중</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    2011-2026-00002
+                                        
+                                    
+                                    </td>
+<td title="AI 기반으로 입체미디어 수신영상의 화질개선 알고리즘 연구">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('2011-2026-00002')">AI 기반으로 입체미디어 수신영상의 화질개선 알고리즘 연구</a>
+</div>
+</td>
+<td>2026-01-13</td>
+<td>2026-01-19</td>
+<td>공모접수중</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    4011-2026-00004
+                                        
+                                    
+                                    </td>
+<td title="심층 신경망 기반 고효율/고품질 스테레오 및 멀티채널 음향 압축 기술 개발">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('4011-2026-00004')">심층 신경망 기반 고효율/고품질 스테레오 및 멀티채널 음향 압축 기술 개발</a>
+</div>
+</td>
+<td>2026-01-12</td>
+<td>2026-01-16</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    4011-2026-00005
+                                        
+                                    
+                                    </td>
+<td title="신경망 기반 고효율 음향 압축을 위한 최적화 프레임워크 개발">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('4011-2026-00005')">신경망 기반 고효율 음향 압축을 위한 최적화 프레임워크 개발</a>
+</div>
+</td>
+<td>2026-01-12</td>
+<td>2026-01-16</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    4011-2026-00006
+                                        
+                                    
+                                    </td>
+<td title="오디오 압축 툴의 성능 향상과 지연 감소 기술 개발 ">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('4011-2026-00006')">오디오 압축 툴의 성능 향상과 지연 감소 기술 개발 </a>
+</div>
+</td>
+<td>2026-01-12</td>
+<td>2026-01-16</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    4011-2026-00003
+                                        
+                                    
+                                    </td>
+<td title="입체촉각 기반 원격 실재감 증강 테스트배드 구축 및 요소기술 통합">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('4011-2026-00003')">입체촉각 기반 원격 실재감 증강 테스트배드 구축 및 요소기술 통합</a>
+</div>
+</td>
+<td>2026-01-12</td>
+<td>2026-01-16</td>
+<td>마감</td>
+</tr>
+<tr>
+<td>
+                                    
+                                        
+                                        
+                                    4011-2026-00007
+                                        
+                                    
+                                    </td>
+<td title="멀티모달 입체촉각 고속 렌더링 기술 개발">
+<div class="text_one_line">
+<a href="javascript:fnAnnoView('4011-2026-00007')">멀티모달 입체촉각 고속 렌더링 기술 개발</a>
+</div>
+</td>
+<td>2026-01-12</td>
+<td>2026-01-16</td>
+<td>마감</td>
 </tr>
 <tr>
 <td>
@@ -341,150 +485,6 @@ $(document).ready(function(){
 </td>
 <td>2026-01-09</td>
 <td>2026-01-15</td>
-<td>공모접수중</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    4011-2026-00002
-                                        
-                                    
-                                    </td>
-<td title="MPEG 기계를 위한 오디오 압축 표준 기술 연구">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('4011-2026-00002')">MPEG 기계를 위한 오디오 압축 표준 기술 연구</a>
-</div>
-</td>
-<td>2026-01-09</td>
-<td>2026-01-15</td>
-<td>공모접수중</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    5011-2026-00001
-                                        
-                                    
-                                    </td>
-<td title="비침해적 멀티모달 센서 기반 사용자 시선 의도 인지 연구">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('5011-2026-00001')">비침해적 멀티모달 센서 기반 사용자 시선 의도 인지 연구</a>
-</div>
-</td>
-<td>2026-01-07</td>
-<td>2026-01-12</td>
-<td>공모접수중</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    6011-2026-00001
-                                        
-                                    
-                                    </td>
-<td title="국가재정사업 정책기획 연구">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('6011-2026-00001')">국가재정사업 정책기획 연구</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-12</td>
-<td>공모접수중</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2026-00005
-                                        
-                                    
-                                    </td>
-<td title="수질 환경 데이터 수집 및 분석을 통한 AI 기반 녹조 발생 예측 시스템 및 무인 수상체 자동 임무 기술 고도화">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2026-00005')">수질 환경 데이터 수집 및 분석을 통한 AI 기반 녹조 발생 예측 시스템 및 무인 수상체 자동 임무 기술 고도화</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-09</td>
-<td>마감</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2026-00006
-                                        
-                                    
-                                    </td>
-<td title="산업 진동환경 대응형 지진감지 및 실시간 경보 장치 개발 고도화">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2026-00006')">산업 진동환경 대응형 지진감지 및 실시간 경보 장치 개발 고도화</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-09</td>
-<td>마감</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2026-00007
-                                        
-                                    
-                                    </td>
-<td title="친환경 UV 방제 모빌리티 로봇 기술 고도화 및 상용화">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2026-00007')">친환경 UV 방제 모빌리티 로봇 기술 고도화 및 상용화</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-09</td>
-<td>마감</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2026-00004
-                                        
-                                    
-                                    </td>
-<td title="미소곤충 정밀 탐지를 위한 객체인식 모델 개발 및 기술이전 기반 구축 연구">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2026-00004')">미소곤충 정밀 탐지를 위한 객체인식 모델 개발 및 기술이전 기반 구축 연구</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-09</td>
-<td>마감</td>
-</tr>
-<tr>
-<td>
-                                    
-                                        
-                                        
-                                    7111-2026-00001
-                                        
-                                    
-                                    </td>
-<td title="영상 정보를 활용한 스마트 고추 수확 및 운반 장비 개발">
-<div class="text_one_line">
-<a href="javascript:fnAnnoView('7111-2026-00001')">영상 정보를 활용한 스마트 고추 수확 및 운반 장비 개발</a>
-</div>
-</td>
-<td>2026-01-06</td>
-<td>2026-01-09</td>
 <td>마감</td>
 </tr>
 </tbody>
@@ -505,7 +505,7 @@ $(document).ready(function(){
 <a href="/pcmx/join/anno/annoList.do?prgrs_sttus=&amp;keywords=&amp;searchWord=&amp;searchStartDate=&amp;searchEndDate=&amp;page=9">9</a>
 <a href="/pcmx/join/anno/annoList.do?prgrs_sttus=&amp;keywords=&amp;searchWord=&amp;searchStartDate=&amp;searchEndDate=&amp;page=10">10</a>
 <a class="direction last" href="/pcmx/join/anno/annoList.do?prgrs_sttus=&amp;keywords=&amp;searchWord=&amp;searchStartDate=&amp;searchEndDate=&amp;page=2"><img alt="다음 10페이지" src="/pcmx/images/page_03.gif"/></a>
-<a class="direction" href="/pcmx/join/anno/annoList.do?prgrs_sttus=&amp;keywords=&amp;searchWord=&amp;searchStartDate=&amp;searchEndDate=&amp;page=293"><img alt="마지막페이지" src="/pcmx/images/page_04.gif"/></a>
+<a class="direction" href="/pcmx/join/anno/annoList.do?prgrs_sttus=&amp;keywords=&amp;searchWord=&amp;searchStartDate=&amp;searchEndDate=&amp;page=294"><img alt="마지막페이지" src="/pcmx/images/page_04.gif"/></a>
 </div>
 </div>
 </div>
@@ -529,8 +529,8 @@ $(document).ready(function(){
 <div class="spot_2">
 <ul>
 <li>
-<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIzVGs1/9MzKIoWajpYvR2PiReytZwZ8lwvh105umWcWmQkLjV7y2pXU83UogF5BStgSHWwg0r065akjfK9MLAcg==">
-<input name="csSignature" type="hidden" value="tD1x7gUrQemUMq+PCMWksA==">
+<form action="#sitelist1" method="get" name="site_form_list1" onsubmit="go_url('etri_siteurl'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIeQ4Mp+PBDH9hfXAQfIZX+H7qbadT0BLV7jANmXfv7BFMIgpUiGdS2tcaHM4eH4STnyfP1UhAmwoj1Lpc6pIA9w==">
+<input name="csSignature" type="hidden" value="46gjxoWXixYlb266CJDvtQ==">
 <fieldset>
 <legend>ETRI 직할부서 바로가기</legend>
 <label class="hidden" for="etri_siteurl">ETRI 직할부서 바로가기</label>
@@ -555,8 +555,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIzVGs1/9MzKIoWajpYvR2PiReytZwZ8lwvh105umWcWmQkLjV7y2pXU83UogF5BStgSHWwg0r065akjfK9MLAcg==">
-<input name="csSignature" type="hidden" value="tD1x7gUrQemUMq+PCMWksA==">
+<form action="#sitelist2" method="get" name="site_form_list2" onsubmit="go_url('etri_siteur2'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIeQ4Mp+PBDH9hfXAQfIZX+H7qbadT0BLV7jANmXfv7BFMIgpUiGdS2tcaHM4eH4STnyfP1UhAmwoj1Lpc6pIA9w==">
+<input name="csSignature" type="hidden" value="46gjxoWXixYlb266CJDvtQ==">
 <fieldset>
 <legend>ETRI SERVICE 바로가기</legend>
 <label class="hidden" for="etri_siteur2">ETRI SERVICE 바로가기</label>
@@ -579,8 +579,8 @@ $(document).ready(function(){
 </input></input></form>
 </li>
 <li>
-<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIzVGs1/9MzKIoWajpYvR2PiReytZwZ8lwvh105umWcWmQkLjV7y2pXU83UogF5BStgSHWwg0r065akjfK9MLAcg=="/>
-<input name="csSignature" type="hidden" value="tD1x7gUrQemUMq+PCMWksA=="/>
+<form action="#sitelist3" method="get" name="site_form_list3" onsubmit="go_url('etri_siteur3'); return false;"><input name="ptSignature" type="hidden" value="/pS05Qqbf8xzJstDqscmdsHb+NmFCZUIlLjFqr+eup1k0sLOi0DmXyaU3+IliGoIeQ4Mp+PBDH9hfXAQfIZX+H7qbadT0BLV7jANmXfv7BFMIgpUiGdS2tcaHM4eH4STnyfP1UhAmwoj1Lpc6pIA9w=="/>
+<input name="csSignature" type="hidden" value="46gjxoWXixYlb266CJDvtQ=="/>
 <fieldset>
 <legend>ETRI 유관기관 바로가기</legend>
 <label class="hidden" for="etri_siteur3">ETRI 유관기관 바로가기</label>
